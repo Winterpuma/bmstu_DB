@@ -1,0 +1,1907 @@
+11000000:Milk. human:9602:70:1.03:6.89:6.89:0:4.38
+11100000:Milk. NFS:1004:51:3.27:4.85:5.08:0:2.04
+11111000:Milk. whole:1002:61:3.15:4.8:5.05:0:3.25
+11111100:Milk. low sodium. whole:1002:61:3.1:4.46:4.46:0:3.46
+11111150:Milk. calcium fortified. whole:1002:61:3.15:4.8:5.05:0:3.25
+11111160:Milk. calcium fortified. low fat (1%):1006:42:3.37:4.99:5.2:0:0.97
+11111170:Milk. calcium fortified. fat free (skim):1008:35:3.4:4.85:4.85:0:0.18
+11112110:Milk. reduced fat (2%):1004:50:3.3:4.8:5.06:0:1.98
+11112120:Milk. acidophilus. low fat (1%):1006:42:3.37:4.99:5.2:0:0.97
+11112130:Milk. acidophilus. reduced fat (2%):1004:50:3.3:4.8:5.06:0:1.98
+11112210:Milk. low fat (1%):1006:42:3.37:4.99:5.2:0:0.97
+11113000:Milk. fat free (skim):1008:34:3.37:4.96:5.09:0:0.08
+11114300:Milk. lactose free. low fat (1%):1006:42:3.37:4.99:5.2:0:0.97
+11114320:Milk. lactose free. fat free (skim):1008:34:3.37:4.96:5.09:0:0.08
+11114330:Milk. lactose free. reduced fat (2%):1004:50:3.3:4.8:5.06:0:1.98
+11114350:Milk. lactose free. whole:1002:61:3.15:4.8:5.05:0:3.25
+11115000:Buttermilk. fat free (skim):1008:40:3.31:4.79:4.79:0:0.88
+11115100:Buttermilk. low fat (1%):1006:40:3.31:4.79:4.79:0:0.88
+11115200:Buttermilk. reduced fat (2%):1004:56:4.1:5.3:5.3:0:2
+11115300:Buttermilk. whole:1002:62:3.21:4.88:4.88:0:3.31
+11115400:Kefir. NS as to fat content:1006:52:3.59:7.34:6.91:0:0.92
+11116000:'Goat''s milk. whole':1002:69:3.56:4.45:4.45:0:4.14
+11120000:Milk. dry. reconstituted. NS as to fat content:1008:32:3.1:4.62:4.62:0:0.06
+11121100:Milk. dry. reconstituted. whole:1002:76:4.01:5.86:5.86:0:4.08
+11121210:Milk. dry. reconstituted. low fat (1%):1006:40:3.08:4.57:4.57:0:1.01
+11121300:Milk. dry. reconstituted. fat free (skim):1008:32:3.1:4.62:4.62:0:0.06
+11210050:Milk. evaporated. NS as to fat content:1002:134:6.81:10.04:10.04:0:7.56
+11211050:Milk. evaporated. whole:1002:134:6.81:10.04:10.04:0:7.56
+11211400:Milk. evaporated. reduced fat (2%):1004:92:7.42:11.15:11.15:0:1.96
+11212050:Milk. evaporated. fat free (skim):1008:78:7.55:11.35:11.35:0:0.2
+11220000:Milk. condensed. sweetened:1202:321:7.91:54.4:54.4:0:8.7
+11300100:Non-dairy milk. NFS:1404:32:1.12:3.95:3.24:0.2:1.25
+11320000:Soy milk:1404:43:2.6:4.92:3.65:0.2:1.47
+11320100:Soy milk. light:1404:30:2.38:3.51:2.61:0.3:0.77
+11320200:Soy milk. nonfat:1404:28:2.47:4.14:3.65:0.2:0.04
+11321000:Soy milk. chocolate:1404:63:2.26:9.95:7.86:0.4:1.53
+11321100:Soy milk. light. chocolate:1404:47:2.1:8.24:7.13:0.7:0.64
+11321200:Soy milk. nonfat. chocolate:1404:47:2.1:8.24:7.13:0.7:0.64
+11340000:Imitation milk. non-soy. sweetened:1404:46:1.6:5.3:5.3:0:2
+11350000:Almond milk. sweetened:1404:38:0.42:6.59:6.25:0.4:1.04
+11350010:Almond milk. sweetened. chocolate:1404:50:0.63:9.38:8.75:0.4:1.25
+11350020:Almond milk. unsweetened:1404:15:0.59:0.58:0:0:1.1
+11350030:Almond milk. unsweetened. chocolate:1404:21:0.83:1.25:0:0.4:1.46
+11360000:Rice milk:1404:47:0.28:9.17:5.28:0.3:0.97
+11370000:Coconut milk:1404:31:0.21:2.92:2.5:0:2.08
+11400000:Yogurt. NFS:1820:63:5.25:7.04:7.04:0:1.55
+11400010:Yogurt. Greek. NS as to type of milk or flavor:1822:73:9.95:3.94:3.56:0:1.92
+11410000:Yogurt. NS as to type of milk or flavor:1820:63:5.25:7.04:7.04:0:1.55
+11411010:Yogurt. NS as to type of milk. plain:1820:63:5.25:7.04:7.04:0:1.55
+11411100:Yogurt. whole milk. plain:1820:61:3.47:4.66:4.66:0:3.25
+11411200:Yogurt. low fat milk. plain:1820:63:5.25:7.04:7.04:0:1.55
+11411300:Yogurt. nonfat milk. plain:1820:56:5.73:7.68:7.68:0:0.18
+11411390:Yogurt. Greek. NS as to type of milk. plain:1822:73:9.95:3.94:3.56:0:1.92
+11411400:Yogurt. Greek. whole milk. plain:1822:97:9:3.98:4:0:5
+11411410:Yogurt. Greek. low fat milk. plain:1822:73:9.95:3.94:3.56:0:1.92
+11411420:Yogurt. Greek. nonfat milk. plain:1822:59:10.19:3.6:3.24:0:0.39
+11430000:Yogurt. NS as to type of milk. fruit:1820:89:4.66:14.46:12.01:0.1:1.37
+11431000:Yogurt. whole milk. fruit:1820:87:3.1:12.36:9.92:0.1:2.87
+11432000:Yogurt. low fat milk. fruit:1820:89:4.66:14.46:12.01:0.1:1.37
+11433000:Yogurt. nonfat milk. fruit:1820:83:5.09:15.02:12.58:0.1:0.17
+11433990:Yogurt. Greek. NS as to type of milk. fruit:1822:103:8.17:11.89:11.23:1:2.57
+11434000:Yogurt. Greek. whole milk. fruit:1822:106:7.33:12.29:12:0:3
+11434010:Yogurt. Greek. low fat milk. fruit:1822:103:8.17:11.89:11.23:1:2.57
+11434020:Yogurt. Greek. nonfat milk. fruit:1822:82:8.05:12.07:11.27:0.6:0.15
+11434090:Yogurt. NS as to type of milk. flavors other than fruit:1820:73:5.09:9.83:9.82:0:1.5
+11434100:Yogurt. whole milk. flavors other than fruit:1820:77:3.3:9.43:9.42:0:3.09
+11434200:Yogurt. low fat milk. flavors other than fruit:1820:73:5.09:9.83:9.82:0:1.5
+11434300:Yogurt. nonfat milk. flavors other than fruit:1820:66:5.56:10.45:10.44:0:0.18
+11435000:Yogurt. Greek. NS as to type of milk. flavors other than fruit:1822:95:8.64:9.54:9.54:0:2.5
+11435010:Yogurt. Greek. whole milk. flavors other than fruit:1822:111:8.47:9.35:9.35:0:4.44
+11435020:Yogurt. Greek. low fat milk. flavors other than fruit:1822:95:8.64:9.54:9.54:0:2.5
+11435030:Yogurt. Greek. nonfat milk. flavors other than fruit:1822:78:8.64:10.37:9.54:0.5:0.18
+11435100:Yogurt. Greek. with oats:1822:154:8.65:23.81:13.29:1.4:3.14
+11436000:Yogurt. liquid:1820:72:3.71:11.81:9.78:0.1:1.09
+11440010:Chipotle dip. yogurt based:8412:189:7.93:3.33:2.97:0:15.99
+11440020:Dill dip. yogurt based:8412:191:8.16:3.72:2.97:0.3:16.03
+11440030:Onion dip. yogurt based:8412:158:6.76:3.73:3.25:0.1:12.89
+11440040:Ranch dip. yogurt based:8412:195:8.48:4.13:3.41:0.3:16.09
+11440050:Spinach dip. yogurt based:8412:158:7.01:3.59:3.07:0.3:12.95
+11440060:Tzatziki dip:8412:92:5.35:3.95:2.92:0.2:6.31
+11440070:Vegetable dip. yogurt based:8412:191:8.16:3.72:2.97:0.3:16.03
+11446000:Yogurt parfait. low fat. with fruit:1820:84:3.36:15.86:11.68:1.1:1.01
+11459990:Yogurt. frozen. NS as to flavor. NS as to type of milk:5802:139:8:21:21:0:2.5
+11460000:Yogurt. frozen. flavors other than chocolate. NS as to type of milk:5802:127:3:21.6:19.92:0:3.6
+11460100:Yogurt. frozen. chocolate. NS as to type of milk:5802:127:3:21.6:19.24:2.3:3.6
+11460150:Yogurt. frozen. NS as to flavor. lowfat milk:5802:139:8:21:21:0:2.5
+11460160:Yogurt. frozen. chocolate. lowfat milk:5802:113:5.24:21.79:18.82:1.6:1.95
+11460170:Yogurt. frozen. flavors other than chocolate. lowfat milk:5802:139:8:21:21:0:2.5
+11460190:Yogurt. frozen. NS as to flavor. nonfat milk:5802:121:4.41:24.8:21.68:0.9:0.43
+11460200:Yogurt. frozen. chocolate. nonfat milk:5802:107:4.4:19.7:12.61:2:0.8
+11460250:Yogurt. frozen. flavors other than chocolate. with sorbet or sorbet-coated:5802:152:3.71:26.68:20.73:0.5:3.41
+11460300:Yogurt. frozen. flavors other than chocolate. nonfat milk:5802:104:4.4:19.7:12.61:2:0.8
+11460400:Yogurt. frozen. chocolate. nonfat milk. with low-calorie sweetener:5802:107:4.4:19.7:12.61:2:0.8
+11460410:Yogurt. frozen. flavors other than chocolate. nonfat milk. with low-calorie sweetener:5802:104:4.4:19.7:12.61:2:0.8
+11460420:Yogurt. frozen. NS as to flavor. whole milk:5802:127:3:21.6:19.92:0:3.6
+11460430:Yogurt. frozen. chocolate. whole milk:5802:127:3:21.6:19.24:2.3:3.6
+11460440:Yogurt. frozen. flavors other than chocolate. whole milk:5802:127:3:21.6:19.92:0:3.6
+11461000:Yogurt. frozen. chocolate-coated:5802:270:3.22:28.92:28.42:0.2:16.41
+11461200:Yogurt. frozen. sandwich:5802:212:4.64:37.68:25.89:0.4:5.13
+11461250:Yogurt. frozen. cone. chocolate:5802:225:5.26:31.26:22.35:1.5:9.12
+11461260:Yogurt. frozen. cone. flavors other than chocolate:5802:189:4.48:31.5:24.2:0.2:5.38
+11461270:Yogurt. frozen. cone. flavors other than chocolate. lowfat milk:5802:84:5.42:11.27:6.98:0.2:1.86
+11461280:Yogurt. frozen. cone. chocolate. lowfat milk:5802:131:5.4:25.15:18.07:1.6:2.24
+11480010:Yogurt. whole milk. baby food:9010:61:3.47:4.66:4.66:0:3.25
+11480020:Yogurt. whole milk. baby food. with fruit and multigrain cereal puree. NFS:9010:98:3.4:13.22:11.46:0.3:3.53
+11480030:Yogurt. whole milk. baby food. with fruit and multigrain cereal puree. plus iron:9010:92:3.05:13:11.46:0.6:3.08
+11480040:Yogurt. whole milk. baby food. with fruit and multigrain cereal puree. plus DHA:9010:98:3.4:13.22:11.46:0.3:3.53
+11511000:Chocolate milk. NFS:1208:67:3.39:13.46:9.32:0:0
+11511100:Chocolate milk. ready to drink. whole:1202:83:3.17:10.34:9.54:0.8:3.39
+11511200:Chocolate milk. ready to drink. reduced fat:1204:76:2.99:12.13:9.55:0.7:1.9
+11511300:Chocolate milk. ready to drink. fat free:1208:67:3.39:13.46:9.32:0:0
+11511400:Chocolate milk. ready to drink. low fat:1206:62:3.46:9.86:9.94:0.1:1
+11511550:Chocolate milk. ready to drink. reduced sugar. NS as to milk:1206:54:3.43:7.68:7.29:0:1.04
+11511600:Chocolate milk. ready to drink. low fat (Nesquik):1206:62:3.46:9.86:9.94:0.1:1
+11511610:Chocolate milk. ready to drink. fat free (Nesquik):1208:67:3.39:13.46:9.32:0:0
+11511700:Chocolate milk. ready to drink. low fat. no sugar added (Nesquik):1206:62:3.46:9.86:9.94:0.1:1
+11512010:Hot chocolate / Cocoa. ready to drink:1204:91:2.68:16.45:15.32:0:1.61
+11512020:Hot chocolate / Cocoa. ready to drink. made with nonfat milk:1208:78:2.74:16.58:15.34:0:0.06
+11512030:Hot chocolate / Cocoa. ready to drink. made with non-dairy milk:1404:83:1.23:17.23:15.23:0.2:1.02
+11512100:Hot chocolate / Cocoa. ready to drink. with whipped cream:1204:103:2.69:15.8:14.73:0:3.24
+11512110:Hot chocolate / Cocoa. ready to drink. made with nonfat milk and whipped cream:1208:90:2.75:15.92:14.75:0:1.77
+11512120:Hot chocolate / Cocoa. ready to drink. made with non-dairy milk and whipped cream:1404:95:1.3:16.54:14.64:0.2:2.68
+11513000:Chocolate milk. made from dry mix. NS as to type of milk:1204:72:3.35:10.11:9.81:0.3:2.06
+11513100:Chocolate milk. made from dry mix with whole milk:1202:82:3.24:10.06:9.77:0.3:3.19
+11513150:Chocolate milk. made from dry mix with reduced fat milk:1204:72:3.38:10.06:9.78:0.3:2
+11513200:Chocolate milk. made from dry mix with low fat milk:1206:64:3.44:10.24:9.91:0.3:1.05
+11513300:Chocolate milk. made from dry mix with fat free milk:1208:57:3.44:10.21:9.81:0.3:0.22
+11513310:Chocolate milk. made from dry mix with non-dairy milk:1404:63:1.7:10.96:9.68:0.6:1.32
+11513350:Chocolate milk. made from reduced sugar mix. NS as to type of milk:1204:65:3.52:7.39:6.04:0.4:2.35
+11513355:Chocolate milk. made from reduced sugar mix with whole milk:1202:74:3.41:7.34:6.01:0.4:3.5
+11513360:Chocolate milk. made from reduced sugar mix with reduced fat milk:1204:64:3.55:7.34:6.02:0.4:2.29
+11513365:Chocolate milk. made from reduced sugar mix with low fat milk:1206:56:3.62:7.52:6.15:0.4:1.32
+11513370:Chocolate milk. made from reduced sugar mix with fat free milk:1208:49:3.62:7.49:6.05:0.4:0.47
+11513375:Chocolate milk. made from reduced sugar mix with non-dairy milk:1404:55:1.84:8.25:5.91:0.7:1.59
+11513380:Chocolate milk. made from dry mix. NS as to type of milk (Nesquik):1204:72:3.35:10.11:9.81:0.3:2.06
+11513381:Chocolate milk. made from dry mix with whole milk (Nesquik):1202:82:3.24:10.06:9.77:0.3:3.19
+11513382:Chocolate milk. made from dry mix with reduced fat milk (Nesquik):1204:72:3.38:10.06:9.78:0.3:2
+11513383:Chocolate milk. made from dry mix with low fat milk (Nesquik):1206:64:3.44:10.24:9.91:0.3:1.05
+11513384:Chocolate milk. made from dry mix with fat free milk (Nesquik):1208:57:3.44:10.21:9.81:0.3:0.22
+11513385:Chocolate milk. made from dry mix with non-dairy milk (Nesquik):1404:63:1.7:10.96:9.68:0.6:1.32
+11513390:Chocolate milk. made from no sugar added dry mix. NS as to type of milk (Nesquik):1204:65:3.52:7.39:6.04:0.4:2.35
+11513391:Chocolate milk. made from no sugar added dry mix with whole milk (Nesquik):1202:74:3.41:7.34:6.01:0.4:3.5
+11513392:Chocolate milk. made from no sugar added dry mix with reduced fat milk (Nesquik):1204:64:3.55:7.34:6.02:0.4:2.29
+11513393:Chocolate milk. made from no sugar added dry mix with low fat milk (Nesquik):1206:56:3.62:7.52:6.15:0.4:1.32
+11513394:Chocolate milk. made from no sugar added dry mix with fat free milk  (Nesquik):1208:49:3.62:7.49:6.05:0.4:0.47
+11513395:Chocolate milk. made from no sugar added dry mix with non-dairy milk (Nesquik):1404:55:1.84:8.25:5.91:0.7:1.59
+11513400:Chocolate milk. made from syrup. NS as to type of milk:1204:80:2.83:13.16:12.4:0:1.77
+11513500:Chocolate milk. made from syrup with whole milk:1202:89:2.73:13.11:12.37:0:2.82
+11513550:Chocolate milk. made from syrup with reduced fat milk:1204:79:2.86:13.11:12.38:0:1.72
+11513600:Chocolate milk. made from syrup with low fat milk:1206:72:2.92:13.28:12.5:0:0.84
+11513700:Chocolate milk. made from syrup with fat free milk:1208:65:2.92:13.25:12.4:0:0.07
+11513750:Chocolate milk. made from syrup with non-dairy milk:1404:71:1.31:13.94:12.28:0.3:1.09
+11513800:Chocolate milk. made from light syrup. NS as to type of milk:1204:64:3.03:8.58:8.03:0:1.91
+11513801:Chocolate milk. made from light syrup with whole milk:1202:73:2.93:8.53:8:0:2.96
+11513802:Chocolate milk. made from light syrup with reduced fat milk:1204:63:3.06:8.53:8.01:0:1.85
+11513803:Chocolate milk. made from light syrup with low fat milk:1206:56:3.12:8.7:8.13:0:0.97
+11513804:Chocolate milk. made from light syrup with fat free milk:1208:49:3.12:8.67:8.04:0:0.19
+11513805:Chocolate milk. made from light syrup with non-dairy milk:1404:55:1.5:9.37:7.91:0.3:1.22
+11513850:Chocolate milk. made from sugar free syrup. NS as to type of milk:1204:50:3.22:6.02:4.48:0.4:2.04
+11513851:Chocolate milk. made from sugar free syrup with whole milk:1202:59:3.12:5.98:4.45:0.4:3.1
+11513852:Chocolate milk. made from sugar free syrup with reduced fat milk:1204:49:3.25:5.98:4.46:0.4:1.99
+11513853:Chocolate milk. made from sugar free syrup with low fat milk:1206:42:3.31:6.14:4.58:0.4:1.1
+11513854:Chocolate milk. made from sugar free syrup with fat free milk:1208:35:3.31:6.12:4.49:0.4:0.32
+11513855:Chocolate milk. made from sugar free syrup with non-dairy milk:1404:41:1.68:6.81:4.36:0.6:1.35
+11514100:Hot chocolate / Cocoa. made with dry mix and water:1208:54:0.91:11.4:8.93:0.5:0.55
+11514110:Hot chocolate / Cocoa. made with dry mix and whole milk:1202:106:3.62:15.27:13.08:0.5:3.35
+11514120:Hot chocolate / Cocoa. made with dry mix and reduced fat milk:1204:96:3.75:15.27:13.09:0.5:2.25
+11514130:Hot chocolate / Cocoa. made with dry mix and low fat milk:1206:89:3.81:15.44:13.21:0.5:1.37
+11514140:Hot chocolate / Cocoa. made with dry mix and fat free milk:1208:82:3.81:15.41:13.11:0.5:0.6
+11514150:Hot chocolate / Cocoa. made with dry mix and non-dairy milk:1404:88:2.19:16.05:12.95:0.7:1.62
+11514310:Hot chocolate / Cocoa. made with no sugar added dry mix and water:1208:31:1.28:5.94:3.11:0.6:0.25
+11514320:Hot chocolate / Cocoa. made with no sugar added dry mix and whole milk:1202:86:4.14:10.2:7.67:0.6:3.23
+11514330:Hot chocolate / Cocoa. made with no sugar added dry mix and reduced fat milk:1204:76:4.28:10.2:7.68:0.6:2.06
+11514340:Hot chocolate / Cocoa. made with no sugar added dry mix and low fat milk:1206:69:4.34:10.37:7.81:0.6:1.13
+11514350:Hot chocolate / Cocoa. made with no sugar added dry mix and fat free milk:1208:62:4.34:10.34:7.71:0.6:0.32
+11514360:Hot chocolate / Cocoa. made with no sugar added dry mix and non-dairy milk:1404:67:2.63:11.05:7.57:0.9:1.4
+11519040:Strawberry milk. NFS:1204:52:3.28:5.25:5.45:0:1.97
+11519050:Strawberry milk. whole:1202:81:2.96:10.6:10.61:0:3.06
+11519105:Strawberry milk. reduced fat:1204:71:3.1:10.6:10.62:0:1.87
+11519200:Strawberry milk. low fat:1206:63:3.17:10.78:10.75:0:0.92
+11519205:Strawberry milk. fat free:1208:56:3.17:10.75:10.65:0:0.09
+11519215:Strawberry milk. non-dairy:1404:62:1.42:11.5:10.52:0.3:1.19
+11526000:Milk. malted:1204:65:3.13:8.65:8:0:1.96
+11531000:Eggnog. regular:1402:88:4.55:8.05:8.05:0:4.19
+11531500:Eggnog. lowfat / light:1402:74:4.74:6.51:6.62:0:3.17
+11541110:Milk shake. home recipe. chocolate:1402:120:3.4:13.64:12.72:0.5:6.18
+11541120:Milk shake. home recipe. flavors other than chocolate:1402:116:3.28:11.9:11.16:0.3:6.18
+11541130:Milk shake. home recipe. chocolate. light:1402:97:3.98:12.81:12.57:0.3:3.32
+11541135:Milk shake. home recipe. flavors other than chocolate. light:1402:94:3.9:14.23:11.59:0.1:2.43
+11541400:Milk shake with malt:1402:127:3.68:14.06:12.48:0.3:6.3
+11542100:Milk shake. fast food. chocolate:1402:150:3.7:20.36:13.39:1.6:6.66
+11542200:Milk shake. fast food. flavors other than chocolate:1402:148:3.37:19.59:13.63:0.9:6.52
+11543000:Milk shake. bottled. chocolate:1402:150:3.7:20.36:13.39:1.6:6.66
+11543010:Milk shake. bottled. flavors other than chocolate:1402:148:3.37:19.59:13.63:0.9:6.52
+11551050:Licuado or Batido:7220:71:2.35:13.11:10.98:0.7:1.39
+11553100:Fruit smoothie. NFS:7220:63:2.37:11.65:8.28:1.2:1.08
+11553110:Fruit smoothie. with whole fruit and dairy:7220:63:2.37:11.65:8.28:1.2:1.08
+11553120:Fruit smoothie. with whole fruit and dairy. added protein:7220:77:7.31:9.72:7.2:1.1:1.22
+11553130:Fruit smoothie juice drink. with dairy:7220:65:0.86:15.05:12.68:0.9:0.14
+11560000:Chocolate milk drink:1402:49:0.64:10.68:8.68:0.6:0.4
+11710000:Infant formula. NFS:9402:66:1.38:7.12:7.12:0:3.56
+11710050:Infant formula. NS as to form (Similac Expert Care Alimentum):9402:67:1.8:6.77:4.4:0:3.63
+11710051:Infant formula. ready-to-feed (Similac Expert Care Alimentum):9402:67:1.8:6.77:4.4:0:3.63
+11710053:Infant formula. powder. made with water. NFS (Similac Expert Care Alimentum):9404:67:1.8:6.77:4.4:0:3.63
+11710054:Infant formula. powder. made with tap water (Similac Expert Care Alimentum):9404:67:1.8:6.77:4.4:0:3.63
+11710055:Infant formula. powder. made with plain bottled water (Similac Expert Care Alimentum):9404:67:1.8:6.77:4.4:0:3.63
+11710056:Infant formula. powder. made with baby water (Similac Expert Care Alimentum):9404:67:1.8:6.77:4.4:0:3.63
+11710350:Infant formula. NS as to form (Similac Advance):9402:66:1.37:6.87:6.87:0:3.62
+11710351:Infant formula. ready-to-feed (Similac Advance):9402:66:1.37:6.87:6.87:0:3.62
+11710352:Infant formula. liquid concentrate. made with water. NFS (Similac Advance):9406:66:1.37:6.87:6.87:0:3.62
+11710353:Infant formula. powder. made with water. NFS (Similac Advance):9404:66:1.37:6.87:6.87:0:3.62
+11710354:Infant formula. liquid concentrate. made with tap water (Similac Advance):9406:66:1.37:6.87:6.87:0:3.62
+11710355:Infant formula. liquid concentrate. made with plain bottled water (Similac Advance):9406:66:1.37:6.87:6.87:0:3.62
+11710356:Infant formula. liquid concentrate. made with baby water (Similac Advance):9406:66:1.37:6.87:6.87:0:3.62
+11710357:Infant formula. powder. made with tap water (Similac Advance):9404:66:1.37:6.87:6.87:0:3.62
+11710358:Infant formula. powder. made with plain bottled water (Similac Advance):9404:66:1.37:6.87:6.87:0:3.62
+11710359:Infant formula. powder. made with baby water (Similac Advance):9404:66:1.37:6.87:6.87:0:3.62
+11710360:Infant formula. NS as to form (Similac Advance Organic):9402:66:1.37:6.87:6.87:0:3.62
+11710361:Infant formula. ready-to-feed (Similac Advance Organic):9402:66:1.37:6.87:6.87:0:3.62
+11710363:Infant formula. powder. made with water. NFS (Similac Advance Organic):9404:66:1.37:6.87:6.87:0:3.62
+11710367:Infant formula. powder. made with tap water (Similac Advance Organic):9404:66:1.37:6.87:6.87:0:3.62
+11710368:Infant formula. powder. made with plain bottled water (Similac Advance Organic):9404:66:1.37:6.87:6.87:0:3.62
+11710369:Infant formula. powder. made with baby water (Similac Advance Organic):9404:66:1.37:6.87:6.87:0:3.62
+11710370:Infant formula. NS as to form (Similac Sensitive):9402:65:1.4:6.99:6.99:0:3.53
+11710371:Infant formula. ready-to-feed (Similac Sensitive):9402:65:1.4:6.99:6.99:0:3.53
+11710372:Infant formula. liquid concentrate. made with water. NFS (Similac Sensitive):9406:65:1.4:6.99:6.99:0:3.53
+11710373:Infant formula. powder. made with water. NFS (Similac Sensitive):9404:65:1.4:6.99:6.99:0:3.53
+11710374:Infant formula. liquid concentrate. made with tap water (Similac Sensitive):9406:65:1.4:6.99:6.99:0:3.53
+11710375:Infant formula. liquid concentrate. made with plain bottled water (Similac Sensitive):9406:65:1.4:6.99:6.99:0:3.53
+11710376:Infant formula. liquid concentrate. made with baby water (Similac Sensitive):9406:65:1.4:6.99:6.99:0:3.53
+11710377:Infant formula. powder. made with tap water (Similac Sensitive):9404:65:1.4:6.99:6.99:0:3.53
+11710378:Infant formula. powder. made with plain bottled water (Similac Sensitive):9404:65:1.4:6.99:6.99:0:3.53
+11710379:Infant formula. powder. made with baby water (Similac Sensitive):9404:65:1.4:6.99:6.99:0:3.53
+11710380:Infant formula. NS as to form (Similac for Spit-Up):9402:65:1.38:6.9:6.9:0:3.48
+11710381:Infant formula. ready-to-feed (Similac for Spit-Up):9402:65:1.38:6.9:6.9:0:3.48
+11710383:Infant formula. powder. made with water. NFS (Similac for Spit-Up):9404:65:1.38:6.9:6.9:0:3.48
+11710470:Infant formula. NS as to form (Similac Expert Care NeoSure):9402:73:2.01:7.22:7.26:0:3.95
+11710471:Infant formula. ready-to-feed (Similac Expert Care NeoSure):9402:73:2.01:7.22:7.26:0:3.95
+11710473:Infant formula. powder. made with water. NFS (Similac Expert Care NeoSure):9404:73:2.01:7.22:7.26:0:3.95
+11710477:Infant formula. powder. made with tap water (Similac Expert Care NeoSure):9404:73:2.01:7.22:7.26:0:3.95
+11710478:Infant formula. powder. made with plain bottled water (Similac Expert Care NeoSure):9404:73:2.01:7.22:7.26:0:3.95
+11710479:Infant formula. powder. made with baby water (Similac Expert Care NeoSure):9404:73:2.01:7.22:7.26:0:3.95
+11710480:Infant formula. NS as to form (Similac Go and Grow):9402:117:3.5:11.91:11.91:0:6.31
+11710481:Infant formula. powder. made with water. NFS (Similac Go and Grow):9404:117:3.5:11.91:11.91:0:6.31
+11710620:Infant formula. NS as to form (Enfamil Newborn):9402:66:1.38:7.39:7.39:0:3.48
+11710621:Infant formula. ready-to-feed (Enfamil Newborn):9402:66:1.38:7.39:7.39:0:3.48
+11710626:Infant formula. powder. made with water. NFS (Enfamil Newborn):9404:66:1.38:7.39:7.39:0:3.48
+11710627:Infant formula. powder. made with tap water (Enfamil Newborn):9404:66:1.38:7.39:7.39:0:3.48
+11710628:Infant formula. powder. made with plain bottled water (Enfamil Newborn):9404:66:1.38:7.39:7.39:0:3.48
+11710629:Infant formula. powder. made with baby water (Enfamil Newborn):9404:66:1.38:7.39:7.39:0:3.48
+11710630:Infant formula. NS as to form (Enfamil Infant):9402:66:1.4:7.38:7.38:0:3.49
+11710631:Infant formula. ready-to-feed (Enfamil Infant):9402:66:1.4:7.38:7.38:0:3.49
+11710632:Infant formula. liquid concentrate. made with water. NFS (Enfamil Infant):9406:66:1.4:7.38:7.38:0:3.49
+11710633:Infant formula. liquid concentrate. made with tap water (Enfamil Infant):9406:66:1.4:7.38:7.38:0:3.49
+11710634:Infant formula. liquid concentrate. made with plain bottled water (Enfamil Infant):9406:66:1.4:7.38:7.38:0:3.49
+11710635:Infant formula. liquid concentrate. made with baby water (Enfamil Infant):9406:66:1.4:7.38:7.38:0:3.49
+11710636:Infant formula. powder. made with water. NFS (Enfamil Infant):9404:66:1.4:7.38:7.38:0:3.49
+11710637:Infant formula. powder. made with tap water (Enfamil Infant):9404:66:1.4:7.38:7.38:0:3.49
+11710638:Infant formula. powder. made with plain bottled water (Enfamil Infant):9404:66:1.4:7.38:7.38:0:3.49
+11710639:Infant formula. powder. made with baby water (Enfamil Infant):9404:66:1.4:7.38:7.38:0:3.49
+11710660:Infant formula. NS as to form (Enfamil A.R.):9402:66:1.65:7.25:7.25:0:3.36
+11710661:Infant formula. ready-to-feed (Enfamil A.R.):9402:66:1.65:7.25:7.25:0:3.36
+11710663:Infant formula. powder. made with water. NFS (Enfamil A.R.):9404:66:1.65:7.25:7.25:0:3.36
+11710664:Infant formula. powder. made with tap water (Enfamil A.R.):9404:66:1.65:7.25:7.25:0:3.36
+11710665:Infant formula. NS as to form (Enfamil EnfaCare):9402:71:2:7.4:7.4:0:3.8
+11710666:Infant formula. ready-to-feed (Enfamil EnfaCare):9402:71:2:7.4:7.4:0:3.8
+11710667:Infant formula. powder. made with water. NFS (Enfamil EnfaCare):9404:71:2:7.4:7.4:0:3.8
+11710668:Infant formula. powder. made with plain bottled water (Enfamil A.R.):9404:66:1.65:7.25:7.25:0:3.36
+11710669:Infant formula. powder. made with baby water (Enfamil A.R.):9404:66:1.65:7.25:7.25:0:3.36
+11710670:Infant formula. NS as to form (Enfamil Gentlease):9402:67:1.53:7.25:7.25:0:3.49
+11710671:Infant formula. ready-to-feed (Enfamil Gentlease):9402:67:1.53:7.25:7.25:0:3.49
+11710673:Infant formula. powder. made with water. NFS (Enfamil Gentlease):9404:67:1.53:7.25:7.25:0:3.49
+11710674:Infant formula. powder. made with tap water (Enfamil EnfaCare):9404:71:2:7.4:7.4:0:3.8
+11710675:Infant formula. powder. made with plain bottled water (Enfamil EnfaCare):9404:71:2:7.4:7.4:0:3.8
+11710676:Infant formula. powder. made with baby water (Enfamil EnfaCare):9404:71:2:7.4:7.4:0:3.8
+11710677:Infant formula. powder. made with tap water (Enfamil Gentlease):9404:67:1.53:7.25:7.25:0:3.49
+11710678:Infant formula. powder. made with plain bottled water (Enfamil Gentlease):9404:67:1.53:7.25:7.25:0:3.49
+11710679:Infant formula. powder. made with baby water (Enfamil Gentlease):9404:67:1.53:7.25:7.25:0:3.49
+11710680:Infant formula. NS as to form (Enfamil Enfagrow Toddler Transitions):9402:117:3.03:13.06:12.36:0:6.27
+11710681:Infant formula. ready-to-feed (Enfamil Enfragrow Toddler Transitions):9402:117:3.03:13.06:12.36:0:6.27
+11710683:Infant formula. powder. made with water. NFS (Enfamil Enfragrow Toddler Transitions):9404:117:3.03:13.06:12.36:0:6.27
+11710687:Infant formula. powder. made with tap water (Enfamil Enfagrow Toddler Transitions):9404:117:3.03:13.06:12.36:0:6.27
+11710688:Infant formula. powder. made with plain bottled water (Enfamil Enfagrow Toddler Transitions):9404:117:3.03:13.06:12.36:0:6.27
+11710689:Infant formula. powder. made with baby water (Enfamil Enfagrow Toddler Transitions):9404:117:3.03:13.06:12.36:0:6.27
+11710690:Infant formula. NS as to form (Enfamil Enfagrow Toddler Transitions Gentlease):9402:115:3.01:12.12:12.12:0:6.06
+11710693:Infant formula. powder. made with water. NFS (Enfamil Enfagrow Toddler Transitions Gentlease):9404:115:3.01:12.12:12.12:0:6.06
+11710697:Infant formula. powder. made with tap water (Enfamil Enfagrow Toddler Transitions Gentlease):9404:115:3.01:12.12:12.12:0:6.06
+11710698:Infant formula. powder. made with plain bottled water (Enfamil Enfagrow Toddler Transitions Gentlease):9404:115:3.01:12.12:12.12:0:6.06
+11710699:Infant formula. powder. made with baby water (Enfamil Enfagrow Toddler Transitions Gentlease):9404:115:3.01:12.12:12.12:0:6.06
+11710800:Infant formula. NS as to form (PediaSure):9402:99:2.86:11.15:10.5:0:4.77
+11710801:Infant formula. ready-to-feed (PediaSure):9402:99:2.86:11.15:10.5:0:4.77
+11710805:Infant formula. with fiber. NS as to form (PediaSure Fiber):9402:99:2.8:11.28:7.6:0.5:4.7
+11710806:Infant formula. with fiber. ready-to-feed (PediaSure Fiber):9402:99:2.8:11.28:7.6:0.5:4.7
+11710910:Infant formula. NS as to form (Gerber Good Start Gentle):9402:67:1.48:7.45:7.45:0:3.41
+11710911:Infant formula. ready-to-feed (Gerber Good Start Gentle):9402:67:1.48:7.45:7.45:0:3.41
+11710912:Infant formula. liquid concentrate. made with water. NFS (Gerber Good Start Gentle):9406:67:1.48:7.45:7.45:0:3.41
+11710913:Infant formula. powder. made with water. NFS (Gerber Good Start Gentle):9404:67:1.48:7.45:7.45:0:3.41
+11710914:Infant formula. liquid concentrate. made with tap water (Gerber Good Start Gentle):9406:67:1.48:7.45:7.45:0:3.41
+11710915:Infant formula. liquid concentrate. made with plain bottled water (Gerber Good Start Gentle):9406:67:1.48:7.45:7.45:0:3.41
+11710916:Infant formula. liquid concentrate. made with baby water (Gerber Good Start Gentle):9406:67:1.48:7.45:7.45:0:3.41
+11710917:Infant formula. powder. made with tap water (Gerber Good Start Gentle):9404:67:1.48:7.45:7.45:0:3.41
+11710918:Infant formula. powder. made with plain bottled water (Gerber Good Start Gentle):9404:67:1.48:7.45:7.45:0:3.41
+11710919:Infant formula. powder. made with baby water (Gerber Good Start Gentle):9404:67:1.48:7.45:7.45:0:3.41
+11710920:Infant formula. NS as to form (Gerber Good Start Protect):9402:67:1.48:7.45:7.45:0:3.41
+11710923:Infant formula. powder. made with water. NFS (Gerber Good Start Protect):9404:67:1.48:7.45:7.45:0:3.41
+11710927:Infant formula. powder. made with tap water (Gerber Good Start Protect):9404:67:1.48:7.45:7.45:0:3.41
+11710928:Infant formula. powder. made with plain bottled water (Gerber Good Start Protect):9404:67:1.48:7.45:7.45:0:3.41
+11710929:Infant formula. powder. made with baby water (Gerber Good Start Protect):9404:67:1.48:7.45:7.45:0:3.41
+11710930:Infant formula. NS as to form (Gerber Graduates Gentle):9402:64:1.41:7.46:7.46:0:3.28
+11710940:Infant formula. NS as to form (Gerber Graduates Protect):9402:64:1.41:7.46:7.46:0:3.28
+11710960:Infant formula. NS as to form (Store Brand):9402:66:1.38:7.12:7.12:0:3.56
+11710961:Infant formula. liquid concentrate. made with water. NFS (Store Brand):9406:66:1.38:7.12:7.12:0:3.56
+11710962:Infant formula. powder. made with water. NFS (Store Brand):9404:66:1.38:7.12:7.12:0:3.56
+11710963:Infant formula. ready-to-feed (Store Brand):9402:66:1.38:7.12:7.12:0:3.56
+11710964:Infant formula. liquid concentrate. made with tap water (Store Brand):9406:66:1.38:7.12:7.12:0:3.56
+11710965:Infant formula. liquid concentrate. made with plain bottled water (Store Brand):9406:66:1.38:7.12:7.12:0:3.56
+11710966:Infant formula. liquid concentrate. made with baby water (Store Brand):9406:66:1.38:7.12:7.12:0:3.56
+11710967:Infant formula. powder. made with tap water (Store Brand):9404:66:1.38:7.12:7.12:0:3.56
+11710968:Infant formula. powder. made with plain bottled water (Store Brand):9404:66:1.38:7.12:7.12:0:3.56
+11710969:Infant formula. powder. made with baby water (Store Brand):9404:66:1.38:7.12:7.12:0:3.56
+11720310:Infant formula. NS as to form (Enfamil ProSobee):9402:66:1.62:6.86:6.86:0:3.49
+11720311:Infant formula. ready-to-feed (Enfamil ProSobee):9402:66:1.62:6.86:6.86:0:3.49
+11720312:Infant formula. liquid concentrate. made with water. NFS (Enfamil ProSobee):9406:66:1.62:6.86:6.86:0:3.49
+11720313:Infant formula. powder. made with water. NFS (Enfamil ProSobee):9404:66:1.62:6.86:6.86:0:3.49
+11720314:Infant formula. liquid concentrate. made with tap water (Enfamil ProSobee):9406:66:1.62:6.86:6.86:0:3.49
+11720315:Infant formula. liquid concentrate. made with plain bottled water (Enfamil ProSobee):9406:66:1.62:6.86:6.86:0:3.49
+11720316:Infant formula. liquid concentrate. made with baby water (Enfamil ProSobee):9406:66:1.62:6.86:6.86:0:3.49
+11720317:Infant formula. powder. made with tap water (Enfamil ProSobee):9404:66:1.62:6.86:6.86:0:3.49
+11720318:Infant formula. powder. made with plain bottled water (Enfamil ProSobee):9404:66:1.62:6.86:6.86:0:3.49
+11720319:Infant formula. powder. made with baby water (Enfamil ProSobee):9404:66:1.62:6.86:6.86:0:3.49
+11720320:Infant formula. NS as to form (Enfamil Enfagrow Toddler Transitions Soy):9402:110:3.66:13.06:13.06:0:4.9
+11720323:Infant formula. powder. made with water. NFS (Enfamil Enfagrow Toddler Transitions Soy):9404:110:3.66:13.06:13.06:0:4.9
+11720410:Infant formula. NS as to form (Similac Isomil Soy):9402:65:1.58:6.73:6.65:0:3.53
+11720411:Infant formula. ready-to-feed (Similac Isomil Soy):9402:65:1.58:6.73:6.65:0:3.53
+11720412:Infant formula. liquid concentrate. made with water. NFS (Similac Isomil Soy):9406:65:1.58:6.73:6.65:0:3.53
+11720413:Infant formula. powder. made with water. NFS (Similac Isomil Soy):9404:65:1.58:6.73:6.65:0:3.53
+11720414:Infant formula. liquid concentrate. made with tap water (Similac Isomil Soy):9406:65:1.58:6.73:6.65:0:3.53
+11720415:Infant formula. liquid concentrate. made with plain bottled water (Similac Isomil Soy):9406:65:1.58:6.73:6.65:0:3.53
+11720416:Infant formula. liquid concentrate. made with baby water (Similac Isomil Soy):9406:65:1.58:6.73:6.65:0:3.53
+11720417:Infant formula. powder. made with tap water (Similac Isomil Soy):9404:65:1.58:6.73:6.65:0:3.53
+11720418:Infant formula. powder. made with plain bottled water (Similac Isomil Soy):9404:65:1.58:6.73:6.65:0:3.53
+11720419:Infant formula. powder. made with baby water (Similac Isomil Soy):9404:65:1.58:6.73:6.65:0:3.53
+11720430:Infant formula. NS as to form (Similac Expert Care for Diarrhea):9402:66:1.76:6.67:6.66:0.7:3.6
+11720431:Infant formula. ready-to-feed (Similac Expert Care for Diarrhea):9402:66:1.76:6.67:6.66:0.7:3.6
+11720610:Infant formula. NS as to form (Gerber Good Start Soy):9402:66:1.63:7.27:5.8:0:3.35
+11720611:Infant formula. ready-to-feed (Gerber Good Start Soy):9402:66:1.63:7.27:5.8:0:3.35
+11720612:Infant formula. liquid concentrate. made with water. NFS (Gerber Good Start Soy):9406:66:1.63:7.27:5.8:0:3.35
+11720613:Infant formula. powder. made with water. NFS (Gerber Good Start Soy):9404:66:1.63:7.27:5.8:0:3.35
+11720614:Infant formula. liquid concentrate. made with tap water (Gerber Good Start Soy):9406:66:1.63:7.27:5.8:0:3.35
+11720615:Infant formula. liquid concentrate. made with plain bottled water (Gerber Good Start Soy):9406:66:1.63:7.27:5.8:0:3.35
+11720616:Infant formula. liquid concentrate. made with baby water (Gerber Good Start Soy):9406:66:1.63:7.27:5.8:0:3.35
+11720617:Infant formula. powder. made with tap water (Gerber Good Start Soy):9404:66:1.63:7.27:5.8:0:3.35
+11720618:Infant formula. powder. made with plain bottled water (Gerber Good Start Soy):9404:66:1.63:7.27:5.8:0:3.35
+11720619:Infant formula. powder. made with baby water (Gerber Good Start Soy):9404:66:1.63:7.27:5.8:0:3.35
+11720620:Infant formula. NS as to form (Gerber Graduates Soy):9402:65:1.84:7.15:7.14:0:3.28
+11720800:Infant formula. NS as to form (Store Brand Soy):9402:65:1.6:6.79:6.76:0:3.51
+11720801:Infant formula. ready-to-feed (Store brand Soy):9402:65:1.6:6.79:6.76:0:3.51
+11720802:Infant formula. liquid concentrate. made with water. NFS (Store Brand Soy):9406:65:1.6:6.79:6.76:0:3.51
+11720803:Infant formula. powder. made with water. NFS (Store Brand Soy):9404:65:1.6:6.79:6.76:0:3.51
+11720807:Infant formula. powder. made with tap water (Store Brand Soy):9404:65:1.6:6.79:6.76:0:3.51
+11720808:Infant formula. powder. made with plain bottled water (Store Brand Soy):9404:65:1.6:6.79:6.76:0:3.51
+11720809:Infant formula. powder. made with baby water (Store Brand Soy):9404:65:1.6:6.79:6.76:0:3.51
+11740310:Infant formula. NS as to form (Enfamil Nutramigen):9402:64:1.8:6.6:6.6:0:3.36
+11740311:Infant formula. ready-to-feed (Enfamil Nutramigen):9402:64:1.8:6.6:6.6:0:3.36
+11740312:Infant formula. liquid concentrate. made with water. NFS (Enfamil Nutramigen):9406:64:1.8:6.6:6.6:0:3.36
+11740313:Infant formula. powder. made with water. NFS (Enfamil Nutramigen):9404:64:1.8:6.6:6.6:0:3.36
+11740320:Infant formula. NS as to form (PurAmino):9402:65:1.81:6.6:6.6:0:3.36
+11740323:Infant formula. powder. made with water. NFS (PurAmino):9404:65:1.81:6.6:6.6:0:3.36
+11740400:Infant formula. NS as to form (Enfamil Pregestimil):9402:67:1.81:6.83:6.6:0:3.62
+11740401:Infant formula. ready-to-feed (Enfamil Pregestimil):9402:67:1.81:6.83:6.6:0:3.62
+11740403:Infant formula. powder. made with water. NFS (Enfamil Pregestimil):9404:67:1.81:6.83:6.6:0:3.62
+11740511:Infant formula. ready-to-feed. low iron (Enfamil Premature 20 Cal):9402:66:1.97:7.21:7.23:0:3.34
+11740521:Infant formula. ready-to-feed. with iron (Enfamil Premature 20 Cal):9402:66:1.97:7.21:7.2:0:3.34
+11810000:Milk. dry. not reconstituted. NS as to fat content:9999:358:35.1:52.19:52.19:0:0.72
+11811000:Milk. dry. not reconstituted. whole:9999:496:26.32:38.42:38.42:0:26.71
+11812000:Milk. dry. not reconstituted. low fat (1%):9999:363:34.76:51.67:51.67:0:1.7
+11813000:Milk. dry. not reconstituted. fat free (skim):9999:358:35.1:52.19:52.19:0:0.72
+11825000:Whey. sweet. dry:9999:353:12.93:74.46:74.46:0:1.07
+11830100:Hot chocolate / Cocoa. dry mix. not reconstituted:9999:398:6.67:83.73:65.55:3.7:4
+11830115:Hot chocolate / Cocoa. dry mix. no sugar added. not reconstituted:9999:377:15.49:71.93:37.65:7.5:3
+11830150:Cocoa powder. not reconstituted:9999:228:19.6:57.9:1.75:37:13.7
+11830160:Chocolate beverage powder. dry mix. not reconstituted:9999:400:4.55:90.28:81.82:4.5:2.27
+11830165:Chocolate beverage powder. reduced sugar. dry mix. not reconstituted:9999:373:9.09:63.64:27.27:9.1:9.09
+11830260:Milk. malted. dry mix. not reconstituted:9999:372:0:92.96:72.73:0:0
+11830400:Strawberry beverage powder. dry mix. not reconstituted:9999:389:0.1:99.1:95.45:0:0.2
+12100100:Cream. NS as to light. heavy. or half and half:8008:123:3.13:4.73:4.13:0:10.39
+12110100:Cream. light:8008:191:2.96:2.82:3.67:0:19.1
+12120100:Cream. half and half:8008:123:3.13:4.73:4.13:0:10.39
+12120106:Cream. half and half. flavored:8008:122:3.07:4.92:4.33:0:10.19
+12120110:Cream. half and half. fat free:8008:59:2.6:9:5:0:1.4
+12130100:Cream. heavy:8008:340:2.84:2.74:2.92:0:36.08
+12140000:Cream. whipped:8006:343:2.67:8.49:8.55:0:33.94
+12200100:Coffee creamer. NFS:8008:136:1:11.38:11.38:0:9.97
+12210200:Coffee creamer. liquid:8008:136:1:11.38:11.38:0:9.97
+12210210:Coffee creamer. liquid. flavored:8008:251:0.69:35.07:33.04:1.1:13.5
+12210260:Coffee creamer. liquid. fat free:8008:71:0.8:9.1:9.1:0:3.5
+12210270:Coffee creamer. liquid. fat free. flavored:8008:150:0.6:31.82:31.78:0:2.62
+12210280:Coffee creamer. liquid. fat free. sugar free. flavored:8008:71:0.8:9.1:9.1:0:3.5
+12210310:Coffee creamer. liquid. sugar free. flavored:8008:71:0.8:9.1:9.1:0:3.5
+12210400:Coffee creamer. powder:8008:529:2.48:59.29:7.77:0:32.92
+12210420:Coffee creamer. powder. flavored:8008:482:0.68:75.42:58.01:1.2:21.47
+12210430:Coffee creamer. powder. fat free:8008:431:1.9:73.4:73.4:0:15.7
+12210440:Coffee creamer.powder. fat free. flavored:8008:431:1.9:73.4:73.4:0:15.7
+12210505:Coffee creamer.powder. sugar free. flavored:8008:529:2.48:59.29:7.77:0:32.92
+12210520:Coffee creamer. soy. liquid:8008:136:1:11.38:11.38:0:9.97
+12220200:Whipped topping:8006:318:1.25:23.05:23.05:0:25.31
+12220270:Whipped topping. fat free:8006:224:3:23.6:23.6:0:13.1
+12220280:Whipped topping. sugar free:8006:224:3:23.6:23.6:0:13.1
+12310100:Sour cream:8006:198:2.44:4.63:3.41:0:19.35
+12310200:Sour cream. half and half:8006:135:2.94:4.26:0.16:0:12
+12310300:Sour cream. reduced fat:8006:181:7:7:0.3:0:14.1
+12310350:Sour cream. light:8006:136:3.5:7.1:0.22:0:10.6
+12310370:Sour cream. fat free:8006:74:3.1:15.6:0.39:0:0
+12320100:Sour cream. imitation:8006:208:2.4:6.63:6.63:0:19.52
+12350010:Dip. NFS:8412:433:2.24:3.49:2.48:0.3:45.84
+12350200:Chipotle dip. regular:8412:427:1.69:2.7:2.04:0:45.74
+12350205:Chipotle dip. light:8412:194:1.82:13.22:7.36:0:15.13
+12350210:Dill dip. regular:8412:429:1.92:3.08:2.03:0.3:45.78
+12350215:Dill dip. light:8412:197:2.04:13.58:7.36:0.3:15.18
+12350220:Onion dip. regular:8412:345:1.86:3.23:2.52:0.1:36.27
+12350225:Onion dip. light:8412:163:1.95:11.57:6.73:0.1:12.33
+12350230:Ranch dip. regular:8412:433:2.24:3.49:2.48:0.3:45.84
+12350235:Ranch dip. light:8412:200:2.35:13.97:7.78:0.2:15.23
+12350240:Spinach dip. regular:8412:345:2.1:3.09:2.33:0.3:36.33
+12350245:Spinach dip. light:8412:164:2.19:11.44:6.55:0.3:12.38
+12350250:Vegetable dip. regular:8412:429:1.92:3.08:2.03:0.3:45.78
+12350255:Vegetable dip. light:8412:197:2.04:13.58:7.36:0.3:15.18
+13110000:Ice cream. NFS:5802:207:3.5:23.6:21.22:0.7:11
+13110100:Ice cream. regular. flavors other than chocolate:5802:207:3.5:23.6:21.22:0.7:11
+13110110:Ice cream. regular. chocolate:5802:216:3.8:28.2:25.36:1.2:11
+13110120:Ice cream. rich. flavors other than chocolate:5802:249:3.5:22.29:20.65:0:16.2
+13110130:Ice cream. rich. chocolate:5802:251:4.72:19.78:17.35:0.9:16.98
+13110140:Ice cream. rich. NS as to flavor:5802:249:3.5:22.29:20.65:0:16.2
+13110200:Ice cream. soft serve. flavors other than chocolate:5802:207:3.5:23.6:21.22:0.7:11
+13110210:Ice cream. soft serve. chocolate:5802:222:4.1:22.2:21.16:0.7:13
+13110220:Ice cream. soft serve. NS as to flavor:5802:207:3.5:23.6:21.22:0.7:11
+13110310:Ice cream. no sugar added. NS as to flavor:5802:216:3.17:22.23:6.35:4.8:12.7
+13110320:Ice cream. no sugar added. flavors other than chocolate:5802:216:3.17:22.23:6.35:4.8:12.7
+13110330:Ice cream. no sugar added. chocolate:5802:237:3.8:26.8:6.35:4.8:12.7
+13120050:Ice cream bar or stick. not chocolate covered or cake covered:5802:207:3.5:23.6:21.22:0.7:11
+13120100:Ice cream bar or stick. chocolate covered:5802:331:4.1:24.5:18.3:0.8:24.1
+13120110:Ice cream bar or stick. chocolate or caramel covered. with nuts:5802:323:4.4:30.9:30:0.6:20.2
+13120120:Ice cream bar or stick. rich chocolate ice cream. thick chocolate covering:5802:346:4.42:34.81:29.98:2.6:23.35
+13120121:Ice cream bar or stick. rich ice cream. thick chocolate covering:5802:335:4.74:33.42:29.9:1:20.24
+13120130:Ice cream bar or stick. rich ice cream. chocolate covered. with nuts:5802:303:5.62:11.89:10.8:1.1:25.84
+13120140:Ice cream bar or stick. chocolate ice cream. chocolate covered:5802:284:4.62:34.89:30.96:1.7:15
+13120300:Ice cream bar. cake covered:5802:278:4.33:36.78:21.97:1.1:13.49
+13120310:Ice cream bar. stick or nugget. with crunch coating:5802:358:2.11:37.12:21.05:1.1:25.26
+13120400:Ice cream bar or stick with fruit:5802:161:2.27:24.73:21.46:2.3:6.23
+13120500:Ice cream sandwich:5802:237:4.29:37.14:18.57:0:8.57
+13120550:Ice cream cookie sandwich:5802:240:3.7:39.6:21.3:1.2:7.4
+13120700:Ice cream cone with nuts. flavors other than chocolate:5802:267:5.91:25.65:18.41:2:16.23
+13120710:Ice cream cone. chocolate covered. with nuts. flavors other than chocolate:5802:354:5.21:34.38:25:1:21.88
+13120720:Ice cream cone. chocolate covered or dipped. flavors other than chocolate:5802:245:3.88:30.91:22.96:1.3:12.32
+13120730:Ice cream cone. no topping. flavors other than chocolate:5802:219:3.76:26.77:20.35:0.8:10.77
+13120740:Ice cream cone. no topping. NS as to flavor:5802:222:3.92:29.31:22.76:0.9:10.14
+13120750:Ice cream cone with nuts. chocolate ice cream:5802:274:6.3:29.33:22.68:2.2:15.63
+13120760:Ice cream cone. chocolate covered or dipped. chocolate ice cream:5802:247:4.08:34.56:27.64:1.4:11.25
+13120770:Ice cream cone. no topping. chocolate ice cream:5802:226:4.07:31.85:25.16:1:9.52
+13120780:Ice cream cone. chocolate covered. with nuts. chocolate ice cream:5802:289:6.14:31.93:25.07:2.5:16.71
+13120790:Ice cream sundae cone:5802:254:3:28.89:21.26:1:14
+13120800:Ice cream soda. flavors other than chocolate:1402:85:0.92:14.02:13.4:0.2:2.9
+13120810:Ice cream soda. chocolate:1402:87:1:15.23:14.48:0.3:2.9
+13121000:Ice cream sundae. NS as to topping. with whipped cream:5802:257:3.54:29.76:21.41:1.1:13.96
+13121100:Ice cream sundae. fruit topping. with whipped cream:5802:235:2.28:33.34:20.16:0.6:10.88
+13121200:Ice cream sundae. prepackaged type. flavors other than chocolate:5802:185:4.3:29.4:20.74:0.3:6
+13121300:Ice cream sundae. chocolate or fudge topping. with whipped cream:5802:264:3.62:32.3:22.44:1.2:13.57
+13121400:Ice cream sundae. not fruit or chocolate topping. with whipped cream:5802:223:2.58:30.49:29.22:0.4:10.85
+13121500:Ice cream sundae. fudge topping. with cake. with whipped cream:5802:279:3.87:35.82:24.25:1.1:13.6
+13122100:Ice cream pie. no crust:5802:224:3.41:20.89:18.84:0.6:14.26
+13122500:Ice cream pie. with cookie crust. fudge topping. and whipped cream:5802:303:3.96:40.85:24.01:1.4:13.84
+13126000:Ice cream. fried:5802:282:3.94:32.77:20.9:1.2:15.16
+13127000:'Dippin'' Dots. flash frozen ice cream snacks. flavors other than chocolate':5802:207:3.5:23.6:21.22:0.7:11
+13127010:'Dippin'' Dots. flash frozen ice cream snacks. chocolate':5802:216:3.8:28.2:25.36:1.2:11
+13130100:Light ice cream. NS as to flavor:5802:180:4.78:29.46:22.12:0.3:4.83
+13130300:Light ice cream. flavors other than chocolate:5802:180:4.78:29.46:22.12:0.3:4.83
+13130310:Light ice cream. chocolate:5802:187:5:25.7:24.71:0.8:7.19
+13130320:Light ice cream. no sugar added. NS as to flavor:5802:169:3.97:21.42:6.46:0:7.45
+13130330:Light ice cream. no sugar added. flavors other than chocolate:5802:169:3.97:21.42:6.46:0:7.45
+13130340:Light ice cream. no sugar added. chocolate:5802:173:3.54:26.79:5.65:0.9:5.74
+13130590:Light ice cream. soft serve. NS as to flavor:5802:126:4.9:21.8:18.69:0:2.6
+13130600:Light ice cream. soft serve. flavors other than chocolate:5802:126:4.9:21.8:18.69:0:2.6
+13130610:Light ice cream. soft serve. chocolate:5802:141:3.36:23.15:19.46:0:3.69
+13130620:Light ice cream. soft serve cone. flavors other than chocolate:5802:163:4.24:26.36:19.49:0.1:4.86
+13130630:Light ice cream. soft serve cone. chocolate:5802:166:5.08:28.3:18.41:1.9:5.36
+13130640:Light ice cream. soft serve cone. NS as to flavor:5802:163:4.24:26.36:19.49:0.1:4.86
+13130700:Light ice cream. soft serve. blended with candy or cookies:5802:176:4:26.18:22.78:0.2:6.06
+13135000:Ice cream sandwich. made with light ice cream. flavors other than chocolate:5802:186:4.29:39.64:17.86:0:3.04
+13135010:Ice cream sandwich. made with light chocolate ice cream:5802:236:5.58:38.54:25.98:1.5:6.6
+13136000:Ice cream sandwich. made with light. no sugar added ice cream:5802:200:5.71:42.86:6.58:7.1:2.86
+13140100:Light ice cream. bar or stick. chocolate coated:5802:289:3.98:30.31:23.88:0.6:17.46
+13140110:Light ice cream. bar or stick. chocolate covered. with nuts:5802:329:7.11:28.35:21.31:1.7:22.03
+13140450:Light ice cream. cone. NFS:5802:148:5.15:26.2:17.71:0.2:2.93
+13140500:Light ice cream. cone. flavors other than chocolate:5802:148:5.15:26.2:17.71:0.2:2.93
+13140550:Light ice cream. cone. chocolate:5802:168:4.56:30.04:23.8:0.6:3.5
+13140570:Light ice cream. no sugar added. cone. NS as to flavor:5802:224:5.37:28.66:9.54:0.9:9.96
+13140575:Light ice cream. no sugar added. cone. flavors other than chocolate:5802:265:5.33:40.01:10.67:9.3:9.33
+13140580:Light ice cream. no sugar added. cone. chocolate:5802:227:5.03:32.88:8.9:1.6:8.62
+13140600:Light ice cream. sundae. soft serve. chocolate or fudge topping. with whipped cream:5802:255:4.27:35.8:22.97:1.1:10.64
+13140630:Light ice cream. sundae. soft serve. fruit topping. with whipped cream:5802:223:2.84:36.91:20.54:0.4:7.77
+13140650:Light ice cream. sundae. soft serve. not fruit or chocolate topping. with whipped cream:5802:203:3.26:36.78:32.74:0.2:5.57
+13140660:Light ice cream. sundae. soft serve. chocolate or fudge topping. without whipped cream:5802:182:4.82:32.01:22.7:0.7:4.16
+13140670:Light ice cream. sundae. soft serve. fruit topping. without whipped cream:5802:158:3.73:32.86:20.85:0.2:1.98
+13140680:Light ice cream. sundae. soft serve. not fruit or chocolate topping. without whipped cream:5802:148:3.98:30.55:28.21:0:1.95
+13140700:Light ice cream. creamsicle or dreamsicle:5802:165:1.54:32.75:18.46:0:3.08
+13140710:Light ice cream. creamsicle or dreamsicle. no sugar added:5802:50:1.1:11.42:3.34:1.8:0
+13140900:Light ice cream. fudgesicle:5802:182:5.31:30.61:21.31:1.5:5.16
+13142000:Milk dessert bar or stick. frozen. with coconut:5802:157:5.38:21.26:18.81:1.6:5.92
+13150000:Sherbet. all flavors:5802:144:1.1:30.4:24.32:1.3:2
+13160150:Fat free ice cream. no sugar added. chocolate:5802:173:3.54:26.79:5.65:0.9:5.74
+13160160:Fat free ice cream. no sugar added. flavors other than chocolate:5802:138:4.48:30.06:6.3:1:0
+13160400:Fat free ice cream. flavors other than chocolate:5802:138:4.48:30.06:6.3:1:0
+13160410:Fat free ice cream. chocolate:5802:167:4.3:37.7:37.7:0:1
+13160420:Fat free ice cream. NS as to flavor:5802:138:4.48:30.06:6.3:1:0
+13161000:Milk dessert bar. frozen. made from lowfat milk:5802:147:4.41:33.09:22.06:6.6:1.47
+13161500:Milk dessert sandwich bar. frozen. made from lowfat milk:5802:189:5.5:35.57:21.39:0.9:3.1
+13161520:Milk dessert sandwich bar. frozen. with low-calorie sweetener. made from lowfat milk:5802:316:5.95:53.36:30.31:2.1:9.79
+13161600:Milk dessert bar. frozen. made from lowfat milk and low calorie sweetener:5802:124:3.67:23.11:5.1:1.5:1.87
+13161630:Light ice cream. bar or stick. with low-calorie sweetener. chocolate coated:5802:221:6.4:26.11:8.52:0.8:10.1
+13170000:Baked Alaska:5802:248:4.99:35.44:28.18:0.6:9.79
+13200110:Pudding. NFS:5804:142:2.09:23.01:17.17:0:4.6
+13210110:Pudding. bread:5804:155:5.47:23.52:14.72:1:4.74
+13210150:Bread pudding made with evaporated milk and rum:5804:271:8.23:39.38:23.48:1.1:9.31
+13210160:Diplomat pudding. Puerto Rican style:5804:271:6.83:42.98:36.54:0.6:8.54
+13210180:Pudding. Mexican bread:5804:280:5.06:40.98:26.57:1.3:11.5
+13210190:Pudding. Mexican bread. low fat:5804:278:7.47:50.34:23.94:1.9:5.89
+13210220:Pudding. chocolate. NS as to from dry mix or ready-to-eat:5804:142:2.09:23.01:17.17:0:4.6
+13210250:Pudding. chocolate. low calorie. containing artificial sweetener. NS as to from dry mix or ready-to-eat:5804:93:1.93:20.87:15.75:0.3:0.3
+13210260:Rice flour cream. Puerto Rican style:5804:156:4.01:27.91:17.18:0.2:3.22
+13210270:Custard. Puerto Rican style:5804:170:5.05:25.87:23.6:0:5.29
+13210280:Pudding. flavors other than chocolate. NS as to from dry mix or ready-to-eat:5804:130:1.45:22.6:16.97:0:3.78
+13210290:Pudding. flavors other than chocolate. low calorie. containing artificial sweetener. NS as to from dry mix or ready-to-eat:5804:89:2.02:20.16:15.12:0:0
+13210300:Custard:5804:95:5.05:10.96:11.09:0:3.45
+13210350:Flan:5804:177:5.22:29.04:28.9:0:4.7
+13210410:Pudding. rice:5804:108:3.23:18.39:11.59:0.3:2.15
+13210450:Pudding. rice flour. and nuts:5804:142:3.49:25.3:15.84:0.3:3.12
+13210500:Pudding. tapioca. made from home recipe. made with milk:5804:115:4.69:17.05:15.16:0:3.21
+13210520:Pudding. tapioca. made from dry mix. made with milk:5804:107:3.08:19.87:17.72:0:1.93
+13210530:Pudding. tapioca. chocolate. made with milk:5804:112:3.59:21.32:17.41:1.1:2.29
+13210610:Pudding. coconut:5804:111:2.89:17.37:15.81:0.5:3.43
+13210710:Pudding. cornmeal. milk. and molasses:5804:133:4.1:21.18:14.88:0.3:3.57
+13210750:Pudding. pumpkin:5804:99:1.21:16.85:12.14:0.3:3.07
+13210810:Pumpkin pudding. Puerto Rican style:5804:116:3.6:16.28:9.91:0.6:4.45
+13210820:Fresh corn custard. Puerto Rican style:5804:398:3.89:46.25:38.09:3.3:24.96
+13220110:Pudding. flavors other than chocolate. prepared from dry mix. milk added:5804:103:2.76:19.05:18.18:0:1.8
+13220120:Pudding. chocolate. prepared from dry mix. milk added:5804:105:3.13:18.98:13.56:0.7:2.04
+13220210:Pudding. flavors other than chocolate. prepared from dry mix. low calorie. containing artificial sweetener. milk added:5804:69:3.14:9.8:4.89:0.1:1.95
+13220220:Pudding. chocolate. prepared from dry mix. low calorie. containing artificial sweetener. milk added:5804:74:3.6:10.26:4.75:0.6:2.09
+13220230:Pudding. ready-to-eat. chocolate. reduced fat:5804:93:1.93:20.87:15.75:0.3:0.3
+13220235:Pudding. ready-to-eat. chocolate. fat free:5804:93:1.93:20.87:15.75:0.3:0.3
+13220240:Pudding. ready-to-eat. flavors other than chocolate. reduced fat:5804:89:2.02:20.16:15.12:0:0
+13220245:Pudding. ready-to-eat. flavors other than chocolate. fat free:5804:89:2.02:20.16:15.12:0:0
+13230110:Pudding. ready-to-eat. flavors other than chocolate:5804:130:1.45:22.6:16.97:0:3.78
+13230120:Pudding. ready-to-eat. low calorie. containing artificial sweetener. flavors other than chocolate:5804:89:2.02:20.16:15.12:0:0
+13230130:Pudding. ready-to-eat. chocolate:5804:142:2.09:23.01:17.17:0:4.6
+13230140:Pudding. ready-to-eat. low calorie. containing artificial sweetener. chocolate:5804:93:1.93:20.87:15.75:0.3:0.3
+13230200:Pudding. ready-to-eat. chocolate and non-chocolate flavors combined:5804:136:1.77:22.8:17.07:0:4.19
+13230500:Pudding. ready-to-eat. tapioca:5804:130:1.95:21.69:14.91:0:3.88
+13230510:Pudding. ready-to-eat. tapioca. fat free:5804:94:1.44:21.31:14.18:0:0.35
+13241000:Pudding. with fruit and vanilla wafers:5804:149:3.25:26.38:18.86:0.9:3.84
+13250000:Mousse. chocolate:5804:209:4.31:16.24:15.22:0.6:14.97
+13250100:Mousse. not chocolate:5804:207:1.8:16.88:14.73:0.8:15.42
+13250200:Mousse. chocolate. lowfat. reduced calorie. prepared from dry mix. water added:5804:194:6.87:37.56:23.14:3:4.09
+13252100:Coconut custard. Puerto Rican style:5804:282:8.2:40.04:39.6:0.3:10.49
+13252200:Milk dessert or milk candy. Puerto Rican style:5804:315:6.84:55.35:49.74:0:7.35
+13252500:Barfi or Burfi. Indian dessert. made from milk and/or cream and/or Ricotta cheese:5804:282:6.9:39.08:36.97:0.4:11.66
+13252600:Tiramisu:5502:354:5.91:29.61:18.86:0.4:24.26
+13310000:Custard pudding. flavor other than chocolate. baby food. NS as to strained or junior:9012:86:1.68:16.79:11.85:0.1:1.49
+13311000:Custard pudding. baby food. flavor other than chocolate. strained:9012:85:1.6:16:11.5:0:2
+13312000:Custard pudding. baby food. flavor other than chocolate. junior:9012:86:1.76:17.58:12.2:0.2:0.98
+13411000:White sauce. milk sauce:8412:147:3.7:9.19:4.78:0.2:10.76
+13412000:Milk gravy. quick gravy:8412:136:3.88:8.54:4.97:0.1:9.59
+14010000:Cheese. NFS:1602:365:20.16:5.39:2.78:0:29.21
+14101010:Cheese. Blue or Roquefort:1602:353:21.4:2.34:0.5:0:28.74
+14102010:Cheese. Brick:1602:371:23.24:2.79:0.51:0:29.68
+14103010:Cheese. Camembert:1602:300:19.8:0.46:0.46:0:24.26
+14103020:Cheese. Brie:1602:334:20.75:0.45:0.45:0:27.68
+14104100:Cheese. Cheddar:1602:404:22.87:3.09:0.48:0:33.31
+14104110:Cheese. Cheddar. reduced fat:1602:309:27.35:4.06:0.26:0:20.41
+14104115:Cheese. Cheddar. nonfat or fat free:1602:157:32.14:7.14:0:0:0
+14104200:Cheese. Colby:1602:394:23.76:2.57:0.52:0:32.11
+14104250:Cheese. Colby Jack:1602:384:24.12:1.62:0.51:0:31.2
+14104400:Cheese. Feta:1602:264:14.21:4.09:4.09:0:21.28
+14104600:Cheese. Fontina:1602:389:25.6:1.55:1.55:0:31.14
+14104700:Cheese. goat:1602:360:23.52:0.76:0.76:0:28.85
+14105010:Cheese. Gouda or Edam:1602:357:24.98:1.67:1.67:0:27.69
+14105200:Cheese. Gruyere:1602:413:29.81:0.36:0.36:0:32.34
+14106010:Cheese. Limburger:1602:327:20.05:0.49:0.49:0:27.25
+14106200:Cheese. Monterey:1602:373:24.48:0.68:0.5:0:30.28
+14106500:Cheese. Monterey. reduced fat:1602:313:28.2:0.7:0.56:0:21.6
+14107010:Cheese. Mozzarella. NFS:1602:295:23.75:5.58:1.9:0:19.78
+14107020:Cheese. Mozzarella. whole milk:1602:300:22.17:2.19:1.03:0:22.35
+14107030:Cheese. Mozzarella. part skim:1602:295:23.75:5.58:1.9:0:19.78
+14107040:Cheese. Mozzarella. reduced sodium:1602:280:27.5:3.1:1.23:0:17.1
+14107060:Cheese. Mozzarella. nonfat or fat free:1602:141:31.7:3.5:1.48:1.8:0
+14107200:Cheese. Muenster:1602:368:23.41:1.12:1.12:0:30.04
+14107250:Cheese. Muenster. reduced fat:1602:271:24.7:3.5:3.5:0:17.6
+14108010:Cheese. Parmesan. dry grated:1602:420:28.42:13.91:0.07:0:27.84
+14108015:Cheese. Parmesan. dry grated. reduced fat:1602:395:34.21:26.96:0.78:0:16.42
+14108020:Cheese. Parmesan. hard:1602:392:35.75:3.22:0.8:0:25.83
+14108060:Cheese. Parmesan. dry grated. fat free:1602:370:40:40:1.5:0:5
+14108200:Cheese. Port du Salut:1602:356:24.94:2.22:2.22:0:27.44
+14108400:Cheese. Provolone:1602:351:25.58:2.14:0.56:0:26.62
+14108420:Cheese. provolone. reduced fat:1602:274:24.7:3.5:0.55:0:17.6
+14109010:Cheese. Swiss:1602:393:26.96:1.44:0:0:30.99
+14109020:Cheese. Swiss. reduced sodium:1602:374:28.4:3.4:1.31:0:27.4
+14109030:Cheese. Swiss. reduced fat:1602:179:28.4:3.4:1.33:0:5.1
+14109040:Cheese. Swiss. nonfat or fat free:1602:127:28.4:3.4:1.33:0:0
+14110010:Cheese. Cheddar. reduced sodium:1602:398:24.35:1.91:0.49:0:32.62
+14120010:Cheese. Mexican blend:1602:358:23.54:1.75:1.23:0:28.51
+14120020:Cheese. Mexican blend. reduced fat:1602:282:24.69:3.41:0.56:0:19.4
+14131000:Queso Anejo. aged Mexican cheese:1602:373:21.44:4.63:4.63:0:29.98
+14131500:Queso Asadero:1602:356:22.6:2.87:2.87:0:28.26
+14132000:Queso Chihuahua:1602:374:21.56:5.56:5.56:0:29.68
+14133000:Queso Fresco:1602:299:18.09:2.98:2.32:0:23.82
+14134000:Queso cotija:1602:366:20:3.97:0:0:30
+14200100:Cheese. cottage. NFS:1604:81:10.45:4.76:4:0:2.27
+14201010:Cheese. cottage. creamed. large or small curd:1604:98:11.12:3.38:2.67:0:4.3
+14201200:'Cottage cheese. farmer''s':1604:143:10.49:3.18:2.52:0:9.8
+14201500:Cheese. Ricotta:1604:156:11.32:4.09:0.29:0:10.44
+14202010:Cheese. cottage. with fruit:1604:97:10.69:4.61:2.38:0.2:3.85
+14202020:Cheese. cottage. with vegetables:1604:95:10.9:3:0.37:0.1:4.2
+14203010:Cheese. cottage. dry curd:1604:72:10.34:6.66:1.85:0:0.29
+14203020:Cheese. cottage. salted. dry curd:1604:71:10.24:6.59:1.83:0:0.29
+14203510:Puerto Rican white cheese:1602:174:11.26:3.04:0.27:0:12.98
+14204010:Cheese. cottage. low fat:1604:81:10.45:4.76:4:0:2.27
+14204020:Cheese. cottage. lowfat. with fruit:1604:71:6.88:8.26:7.3:0.5:1.47
+14204030:Cheese. cottage. lowfat. with vegetables:1604:67:10.9:3:3:0:1
+14206010:Cheese. cottage. lowfat. low sodium:1604:72:12.4:2.7:2.7:0:1
+14207010:Cheese. cottage. lowfat. lactose reduced:1604:74:12.4:3.2:2.6:0.6:1
+14301010:Cheese. cream:8006:350:6.15:5.52:3.76:0:34.44
+14303010:Cheese. cream. light or lite:8006:201:7.85:8.13:5.82:0:15.28
+14410100:Cheese. American and Swiss blends:1602:366:18.13:4.78:2.26:0:30.71
+14410110:Cheese. American:1602:307:16.09:8.85:6.24:0:23.06
+14410120:Cheese. American. reduced fat:1602:240:17.6:10.6:8.02:0:14.1
+14410130:Cheese. American. nonfat or fat free:1602:126:21.05:10.53:5.26:0:0
+14410210:Cheese. American. reduced sodium:1602:376:22.2:1.6:0.45:0:31.19
+14410330:Cheese spread. American or Cheddar cheese base. reduced fat:1602:176:13.41:10.71:7.06:0:8.88
+14410380:Cheese. processed cream cheese product. nonfat or fat free:1602:105:15.69:7.66:5.48:0:1
+14410500:Cheese. processed cheese food:1602:330:16.86:8.56:5.59:0:25.63
+14410600:Cheese. processed. with vegetables:1602:375:22.13:1.73:0.62:0.1:31.2
+14410620:Cheese.  with wine:1602:330:16.86:8.56:5.59:0:25.63
+14420100:Cheese spread. American or Cheddar cheese base:1602:290:16.41:8.73:7.32:0:21.23
+14420160:Cheese spread. Swiss cheese base:1602:290:16.41:8.73:7.32:0:21.23
+14420200:Cheese spread. cream cheese. regular:8006:295:7.1:3.5:3.5:0:28.6
+14420210:Cheese spread. cream cheese. light or lite:8006:201:7.85:8.13:5.82:0:15.28
+14420300:Cheese spread. pressurized can:1602:290:16.41:8.73:7.32:0:21.23
+14502000:Imitation cheese:1602:390:25:1:1:0:32
+14610200:Cheese. cottage cheese. with gelatin dessert:1604:81:6.55:8.37:7.66:0:2.32
+14610210:Cheese. cottage cheese. with gelatin dessert and fruit:1604:88:5.1:13.17:12.27:0.4:1.78
+14610250:Cheese. cottage cheese. with gelatin dessert and vegetables:1604:82:7.71:6.27:5.37:0.2:2.85
+14610520:Cheese with nuts:1602:424:17.87:5.89:1.82:1.5:37.72
+14620110:Artichoke dip:8412:330:3.6:5.2:2.06:0.8:33.13
+14620115:Spinach and artichoke dip:8412:329:3.95:4.5:1.5:1.1:33.22
+14620130:Seafood dip:8412:338:5.89:3.99:1.95:0.2:33.24
+14620150:Cheese dip with chili pepper:8412:143:3.14:11.14:1.95:0.7:9.51
+14620200:Cheese dip:8412:160:3.24:7.66:0.3:0.3:13.02
+14620300:Topping from cheese pizza:3602:228:16.89:8.03:4.1:1:14.32
+14620310:Topping from vegetable pizza:3602:246:15.61:12.6:5.5:2.3:15.26
+14620320:Topping from meat pizza:3602:328:19.48:6.55:3.15:0.7:24.63
+14620330:Topping from meat and vegetable pizza:3602:305:17.81:8.47:4.04:1:22.13
+14630100:Cheese fondue:8412:276:19.3:1.93:0.53:0:21.19
+14630200:Cheese souffle:2502:204:9.34:6.38:2.57:0.1:15.68
+14630300:Welsh rarebit:8412:163:7.34:6.44:4.41:0.1:12.03
+14640000:Cheese sandwich. NFS:3720:283:11.83:32.72:5.9:1.6:11.45
+14640002:Cheese sandwich. American cheese. on white bread. no spread:3720:283:11.83:32.72:5.9:1.6:11.45
+14640004:Cheese sandwich. American cheese. on wheat bread. no spread:3720:281:13.36:30.28:5.62:3.2:11.82
+14640006:Cheese sandwich. American cheese. on whole wheat bread. no spread:3720:281:13.36:30.28:5.62:3.2:11.82
+14640008:Cheese sandwich. Cheddar cheese. on white bread. no spread:3720:323:14.62:30.34:3.53:1.6:15.68
+14640010:Cheese sandwich. Cheddar cheese. on wheat bread. no spread:3720:321:16.15:27.91:3.24:3.2:16.05
+14640012:Cheese sandwich. Cheddar cheese. on whole wheat bread. no spread:3720:321:16.15:27.91:3.24:3.2:16.05
+14640014:Cheese sandwich. reduced fat American cheese. on white bread. no spread:3720:255:12.45:33.44:6.64:1.6:7.76
+14640016:Cheese sandwich. reduced fat American cheese. on wheat bread. no spread:3720:253:13.98:31:6.35:3.2:8.14
+14640018:Cheese sandwich. reduced fat American cheese. on whole wheat bread. no spread:3720:253:13.98:31:6.35:3.2:8.14
+14640020:Cheese sandwich. reduced fat Cheddar cheese. on white bread. no spread:3720:284:16.47:30.74:3.44:1.6:10.36
+14640022:Cheese sandwich. reduced fat Cheddar cheese. on wheat bread. no spread:3720:282:18:28.31:3.15:3.2:10.73
+14640024:Cheese sandwich. reduced fat Cheddar cheese. on whole wheat bread. no spread:3720:282:18:28.31:3.15:3.2:10.73
+14640026:Cheese sandwich. American cheese. on white bread. with mayonnaise:3720:331:10.52:28.84:5.26:1.4:19.1
+14640028:Cheese sandwich. American cheese. on wheat bread. with mayonnaise:3720:329:11.87:26.7:5.01:2.8:19.43
+14640030:Cheese sandwich. American cheese. on whole wheat bread. with mayonnaise:3720:329:11.87:26.7:5.01:2.8:19.43
+14640032:Cheese sandwich. Cheddar cheese. on white bread. with mayonnaise:3720:366:12.97:26.75:3.18:1.4:22.82
+14640034:Cheese sandwich. Cheddar cheese. on wheat bread. with mayonnaise:3720:364:14.32:24.61:2.92:2.8:23.14
+14640036:Cheese sandwich. Cheddar cheese. on whole wheat bread. with mayonnaise:3720:364:14.32:24.61:2.92:2.8:23.14
+14640038:Cheese sandwich. reduced fat American cheese. on white bread. with mayonnaise:3720:307:11.07:29.47:5.9:1.4:15.86
+14640040:Cheese sandwich. reduced fat American cheese.. on wheat bread. with mayonnaise:3720:305:12.41:27.33:5.65:2.8:16.19
+14640042:Cheese sandwich. reduced fat American cheese. on whole wheat bread. with mayonnaise:3720:305:12.41:27.33:5.65:2.8:16.19
+14640044:Cheese sandwich. reduced fat Cheddar cheese. on white bread. with mayonnaise:3720:332:14.6:27.1:3.1:1.4:18.15
+14640046:Cheese sandwich. reduced fat Cheddar cheese. on wheat bread. with mayonnaise:3720:330:15.94:24.96:2.84:2.8:18.47
+14640048:Cheese sandwich. reduced fat Cheddar cheese. on whole wheat bread. with mayonnaise:3720:330:15.94:24.96:2.84:2.8:18.47
+14640050:Cheese sandwich. American cheese. on white bread. with butter:3720:326:10.47:28.81:5.2:1.4:18.83
+14640052:Cheese sandwich. American cheese. on wheat bread. with butter:3720:325:11.82:26.67:4.94:2.8:19.16
+14640054:Cheese sandwich. American cheese. on whole wheat bread. with butter:3720:325:11.82:26.67:4.94:2.8:19.16
+14640056:Cheese sandwich. Cheddar cheese. on white bread. with butter:3720:362:12.93:26.73:3.11:1.4:22.54
+14640058:Cheese sandwich. Cheddar cheese. on wheat bread. with butter:3720:360:14.27:24.59:2.86:2.8:22.87
+14640060:Cheese sandwich. Cheddar cheese. on whole wheat bread. with butter:3720:360:14.27:24.59:2.86:2.8:22.87
+14640062:Cheese sandwich. reduced fat American cheese. on white bread. with butter:3720:302:11.02:29.45:5.84:1.4:15.59
+14640064:Cheese sandwich. reduced fat American cheese. on wheat bread. with butter:3720:301:12.37:27.31:5.59:2.8:15.91
+14640066:Cheese sandwich. reduced fat American cheese. on whole wheat bread. with butter:3720:301:12.37:27.31:5.59:2.8:15.91
+14640068:Cheese sandwich. reduced fat Cheddar cheese. on white bread. with butter:3720:327:14.55:27.08:3.03:1.4:17.87
+14640070:Cheese sandwich. reduced fat Cheddar cheese. on wheat bread. with butter:3720:325:15.9:24.94:2.78:2.8:18.2
+14640072:Cheese sandwich. reduced fat Cheddar cheese. on whole wheat bread. with butter:3720:325:15.9:24.94:2.78:2.8:18.2
+14640100:Grilled cheese sandwich. NFS:3720:326:10.47:28.81:5.2:1.4:18.83
+14640105:Grilled cheese sandwich. American cheese. on white bread:3720:326:10.47:28.81:5.2:1.4:18.83
+14640110:Grilled cheese sandwich. American cheese. on wheat bread:3720:325:11.82:26.67:4.94:2.8:19.16
+14640115:Grilled cheese sandwich. American cheese. on whole wheat bread:3720:325:11.82:26.67:4.94:2.8:19.16
+14640125:Grilled cheese sandwich. Cheddar cheese. on white bread:3720:362:12.93:26.73:3.11:1.4:22.54
+14640130:Grilled cheese sandwich. Cheddar cheese. on wheat bread:3720:360:14.27:24.59:2.86:2.8:22.87
+14640135:Grilled cheese sandwich. Cheddar cheese. on whole wheat bread:3720:360:14.27:24.59:2.86:2.8:22.87
+14640155:Grilled cheese sandwich. reduced fat American cheese. on white bread:3720:302:11.02:29.45:5.84:1.4:15.59
+14640160:Grilled cheese sandwich. reduced fat American cheese. on wheat bread:3720:301:12.37:27.31:5.59:2.8:15.91
+14640165:Grilled cheese sandwich. reduced fat American cheese. on whole wheat bread:3720:301:12.37:27.31:5.59:2.8:15.91
+14640185:Grilled cheese sandwich. reduced fat Cheddar cheese. on white bread:3720:327:14.55:27.08:3.03:1.4:17.87
+14640190:Grilled cheese sandwich. reduced fat Cheddar cheese. on wheat bread:3720:325:15.9:24.94:2.78:2.8:18.2
+14640195:Grilled cheese sandwich. reduced fat Cheddar cheese. on whole wheat bread:3720:325:15.9:24.94:2.78:2.8:18.2
+14650100:Cheese sauce:8412:160:3.24:7.66:0.3:0.3:13.02
+14650150:Cheese sauce made with lowfat cheese:8412:125:6.83:7.05:3.92:0.1:7.72
+14650160:Alfredo sauce:8412:147:2.68:0.99:0.92:0:15.01
+14650165:Alfredo sauce with added vegetables:8412:118:2.37:1.93:1.34:0.3:11.56
+14650170:Alfredo sauce with meat:8412:168:6.96:0.8:0.75:0:15.35
+14650175:Alfredo sauce with meat and added vegetables:8412:145:6.72:1.57:1.09:0.3:12.54
+14650180:Alfredo sauce with poultry:8412:152:7.35:0.8:0.75:0:13.5
+14650185:Alfredo sauce with poultry and added vegetables:8412:128:7.1:1.57:1.09:0.3:10.69
+14650190:Alfredo sauce with seafood:8412:142:6.36:1.36:0.75:0:12.47
+14650195:Alfredo sauce with seafood and added vegetables:8412:119:6.12:2.12:1.09:0.3:9.67
+14660200:Mozzarella sticks. breaded. baked. or fried:1602:325:14.75:25.14:2.36:2:18.33
+14670000:Mozzarella cheese. tomato. and basil. with oil and vinegar dressing:6422:139:7.18:4.18:2.35:0.8:10.7
+14710100:Cheddar cheese soup. home recipe. canned or ready-to-serve:3802:67:2.02:8.11:4.4:1.1:2.99
+14710200:Beer cheese soup. made with milk:3802:192:6.1:6.64:0.84:0.3:15.33
+20000000:Meat. NFS:2002:201:29.65:0:0:0:8.3
+20000070:Meat. baby food. NS as to type. NS as to strained or junior:9008:106:12.86:1.26:0:0:5.21
+20000090:Meat sticks. baby food. NS as to type of meat:9008:184:13.4:1.1:0.8:0.2:14.6
+20000200:Ground meat. NFS:2004:260:25.54:0:0:0:16.82
+21000100:Beef. NS as to cut. cooked. NS as to fat eaten:2002:184:29.23:0:0:0:6.75
+21000110:Beef. NS as to cut. cooked. lean and fat eaten:2002:235:27.06:0:0:0:13.44
+21000120:Beef. NS as to cut. cooked. lean only eaten:2002:184:29.23:0:0:0:6.75
+21001000:Steak. NS as to type of meat. cooked. NS as to fat eaten:2002:184:29.23:0:0:0:6.75
+21001010:Steak. NS as to type of meat. cooked. lean and fat eaten:2002:235:27.06:0:0:0:13.44
+21001020:Steak. NS as to type of meat. cooked. lean only eaten:2002:184:29.23:0:0:0:6.75
+21002000:Beef. pickled:2002:251:18.17:0.47:0:0:18.98
+21003000:Beef. NS as to cut. fried. NS to fat eaten:2002:184:29.23:0:0:0:6.75
+21101000:Beef steak. NS as to cooking method. NS as to fat eaten:2002:184:29.23:0:0:0:6.75
+21101010:Beef steak. NS as to cooking method. lean and fat eaten:2002:235:27.06:0:0:0:13.44
+21101020:Beef steak. NS as to cooking method. lean only eaten:2002:184:29.23:0:0:0:6.75
+21101110:Beef steak. broiled or baked. NS as to fat eaten:2002:184:29.23:0:0:0:6.75
+21101120:Beef steak. broiled or baked. lean and fat eaten:2002:235:27.06:0:0:0:13.44
+21101130:Beef steak. broiled or baked. lean only eaten:2002:184:29.23:0:0:0:6.75
+21102110:Beef steak. fried. NS as to fat eaten:2002:184:29.23:0:0:0:6.75
+21102120:Beef steak. fried. lean and fat eaten:2002:235:27.06:0:0:0:13.44
+21102130:Beef steak. fried. lean only eaten:2002:184:29.23:0:0:0:6.75
+21103110:Beef steak. breaded or floured. baked or fried. NS as to fat eaten:2002:247:25.04:12.18:1.28:0.7:10.91
+21103120:Beef steak. breaded or floured. baked or fried. lean and fat eaten:2002:267:24.42:12.18:1.28:0.7:13.37
+21103130:Beef steak. breaded or floured. baked or fried. lean only eaten:2002:247:25.04:12.18:1.28:0.7:10.91
+21104110:Beef steak. battered. fried. NS as to fat eaten:2002:231:21.2:9.96:0.07:0.3:11.79
+21104120:Beef steak. battered. fried. lean and fat eaten:2002:252:19.86:11.02:0.08:0.4:14.2
+21104130:Beef steak. battered. fried. lean only eaten:2002:236:20.34:11.02:0.08:0.4:12.28
+21105110:Beef steak. braised. NS as to fat eaten:2002:251:30.8:0:0:0:13.19
+21105120:Beef steak. braised. lean and fat eaten:2002:251:30.8:0:0:0:13.19
+21105130:Beef steak. braised. lean only eaten:2002:164:28.94:0:0:0:5.34
+21301000:Beef. oxtails. cooked:2002:251:30.8:0:0:0:13.19
+21302000:Beef. neck bones. cooked:2002:299:29.87:0:0:0:19.06
+21304000:Beef. shortribs. cooked. NS as to fat eaten:2002:293:30.5:0:0:0:17.98
+21304110:Beef. shortribs. cooked. lean and fat eaten:2002:467:21.39:0:0:0:41.63
+21304120:Beef. shortribs. cooked. lean only eaten:2002:293:30.5:0:0:0:17.98
+21304200:Beef. shortribs. barbecued. with sauce. NS as to fat eaten:2002:397:15.98:12.74:10.39:0.3:30.81
+21304210:Beef. shortribs. barbecued. with sauce. lean and fat eaten:2002:397:15.98:12.74:10.39:0.3:30.81
+21304220:Beef. shortribs. barbecued. with sauce. lean only eaten:2002:269:22.68:12.74:10.39:0.3:13.42
+21305000:Beef. cow head. cooked:2002:257:25.89:0:0:0:16.45
+21401000:Beef. roast. roasted. NS as to fat eaten:2002:167:28.57:0:0:0:4.94
+21401110:Beef. roast. roasted. lean and fat eaten:2002:159:29.65:0:0:0:4.45
+21401120:Beef. roast. roasted. lean only eaten:2002:150:29.13:0:0:0:3.71
+21401400:Beef. roast. canned:2002:219:27.45:0:0:0:11.34
+21407000:Beef. pot roast. braised or boiled. NS as to fat eaten:2002:251:30.8:0:0:0:13.19
+21407110:Beef. pot roast. braised or boiled. lean and fat eaten:2002:155:29.09:0:0:0:4.34
+21407120:Beef. pot roast. braised or boiled. lean only eaten:2002:251:30.8:0:0:0:13.19
+21410000:Beef. stew meat. cooked. NS as to fat eaten:2002:251:30.8:0:0:0:13.19
+21410110:Beef. stew meat. cooked. lean and fat eaten:2002:236:34.05:0:0:0:10.05
+21410120:Beef. stew meat. cooked. lean only eaten:2002:251:30.8:0:0:0:13.19
+21416000:Corned beef. cooked. NS as to fat eaten:2602:251:18.17:0.47:0:0:18.98
+21416110:Corned beef. cooked. lean and fat eaten:2602:251:18.17:0.47:0:0:18.98
+21416120:Corned beef. cooked. lean only eaten:2602:250:27.1:0:0:0:14.93
+21416150:Corned beef. canned. ready-to-eat:2602:250:27.1:0:0:0:14.93
+21417100:Beef brisket. cooked. NS as to fat eaten:2002:216:29.5:0:0:0:10
+21417110:Beef brisket. cooked. lean and fat eaten:2002:289:26.57:0:0:0:19.36
+21417120:Beef brisket. cooked. lean only eaten:2002:216:29.5:0:0:0:10
+21420100:Beef. sandwich steak. flaked. formed. thinly sliced:2002:329:18.41:0:0:0:27.81
+21500000:Ground beef. raw:2004:247:17.44:0:0:0:19.07
+21500100:Ground beef. cooked:2004:260:25.54:0:0:0:16.82
+21500310:Ground beef patty. cooked:2004:272:25.45:0:0:0:18.18
+21601000:Beef. bacon. cooked:2604:449:31.3:1.4:0:0:34.4
+21601010:Beef. bacon. reduced sodium. cooked:2604:541:37.04:1.43:0:0:41.78
+21602000:Beef. dried. chipped. uncooked:2602:153:31.1:2.76:2.7:0:1.94
+21602010:Beef. dried. chipped. cooked in fat:2602:229:27.94:2.48:2.43:0:11.9
+21602100:Beef jerky:2602:410:33.2:11:9:1.8:25.6
+21701000:Beef. baby food. NS as to strained or junior:9008:81:12.03:2.43:0:0:2.52
+21701010:Beef. baby food. strained:9008:81:12.03:2.43:0:0:2.52
+21701020:Beef. baby food. junior:9008:81:12.03:2.43:0:0:2.52
+22000100:Pork. NS as to cut. cooked. NS as to fat eaten:2006:211:27.69:0:0:0:10.5
+22000110:Pork. NS as to cut. cooked. lean and fat eaten:2006:211:27.69:0:0:0:10.5
+22000120:Pork. NS as to cut. cooked. lean only eaten:2006:164:29.13:0.09:0:0:4.55
+22000200:Pork. NS as to cut. fried. NS as to fat eaten:2006:211:27.69:0:0:0:10.5
+22000210:Pork. NS as to cut. fried. lean and fat eaten:2006:211:27.69:0:0:0:10.5
+22000220:Pork. NS as to cut. fried. lean only eaten:2006:164:29.13:0.09:0:0:4.55
+22000300:Pork. NS as to cut. breaded or floured. fried. NS as to fat eaten:2006:270:25.03:16.28:1.43:1:11.07
+22000310:Pork. NS as to cut. breaded or floured. fried. lean and fat eaten:2006:304:24:16.21:1.43:1:15.31
+22000320:Pork. NS as to cut. breaded or floured. fried. lean only eaten:2006:270:25.03:16.28:1.43:1:11.07
+22001000:Pork. pickled. NS as to cut:2006:140:11.63:0.01:0:0:10.02
+22002000:Pork. ground or patty. cooked:2006:295:25.48:0:0:0:20.6
+22002100:Pork. ground or patty. breaded. cooked:2006:333:20.3:10.54:1.25:0.6:22.72
+22002800:Pork jerky:2602:410:33.2:11:9:1.8:25.6
+22101000:Pork chop. NS as to cooking method. NS as to fat eaten:2006:211:27.69:0:0:0:10.5
+22101010:Pork chop. NS as to cooking method. lean and fat eaten:2006:211:27.69:0:0:0:10.5
+22101020:Pork chop. NS as to cooking method. lean only eaten:2006:164:29.13:0.09:0:0:4.55
+22101100:Pork chop. broiled or baked. NS as to fat eaten:2006:211:27.69:0:0:0:10.5
+22101110:Pork chop. broiled or baked. lean and fat eaten:2006:211:27.69:0:0:0:10.5
+22101120:Pork chop. broiled or baked. lean only eaten:2006:164:29.13:0.09:0:0:4.55
+22101130:Pork chop. breaded or floured. broiled or baked. NS as to fat eaten:2006:239:26.87:8.4:0.7:0.6:10.21
+22101140:Pork chop. breaded or floured. broiled or baked. lean and fat eaten:2006:239:26.87:8.4:0.7:0.6:10.21
+22101150:Pork chop. breaded or floured. broiled or baked. lean only eaten:2006:196:28.19:8.48:0.7:0.6:4.8
+22101200:Pork chop. fried. NS as to fat eaten:2006:211:27.69:0:0:0:10.5
+22101210:Pork chop. fried. lean and fat eaten:2006:211:27.69:0:0:0:10.5
+22101220:Pork chop. fried. lean only eaten:2006:164:29.13:0.09:0:0:4.55
+22101300:Pork chop. breaded or floured. fried. NS as to fat eaten:2006:304:24:16.21:1.43:1:15.31
+22101310:Pork chop. breaded or floured. fried. lean and fat eaten:2006:304:24:16.21:1.43:1:15.31
+22101320:Pork chop. breaded or floured. fried. lean only eaten:2006:270:25.03:16.28:1.43:1:11.07
+22101400:Pork chop. battered. fried. NS as to fat eaten:2006:281:22.6:12.78:1.52:0.4:14.97
+22101410:Pork chop. battered. fried. lean and fat eaten:2006:281:22.6:12.78:1.52:0.4:14.97
+22101420:Pork chop. battered. fried. lean only eaten:2006:246:23.67:12.84:1.52:0.4:10.57
+22101500:Pork chop. stewed. NS as to fat eaten:2006:211:27.69:0:0:0:10.5
+22101510:Pork chop. stewed. lean and fat eaten:2006:211:27.69:0:0:0:10.5
+22101520:Pork chop. stewed. lean only eaten:2006:164:29.13:0.09:0:0:4.55
+22107000:Pork chop. smoked or cured. cooked. NS as to fat eaten:2602:280:20.43:0:0:0:21.35
+22107010:Pork chop. smoked or cured. cooked. lean and fat eaten:2602:280:20.43:0:0:0:21.35
+22107020:Pork chop. smoked or cured. cooked. lean only eaten:2602:170:24.94:0:0:0:7.04
+22201000:Pork steak or cutlet. NS as to cooking method. NS as to fat eaten:2006:239:22.96:0.06:0:0:15.86
+22201010:Pork steak or cutlet. NS as to cooking method. lean and fat eaten:2006:239:22.96:0.06:0:0:15.86
+22201020:Pork steak or cutlet. NS as to cooking method. lean only eaten:2006:171:24.61:0.07:0:0:7.42
+22201050:Pork steak or cutlet. battered. fried. NS as to fat eaten:2006:271:19.87:7.62:1.32:0.2:17.53
+22201060:Pork steak or cutlet. battered. fried. lean and fat eaten:2006:271:19.87:7.62:1.32:0.2:17.53
+22201070:Pork steak or cutlet. battered. fried. lean only eaten:2006:216:21.19:7.63:1.32:0.2:10.76
+22201100:Pork steak or cutlet. broiled or baked. NS as to fat eaten:2006:239:22.96:0.06:0:0:15.86
+22201110:Pork steak or cutlet. broiled or baked. lean and fat eaten:2006:239:22.96:0.06:0:0:15.86
+22201120:Pork steak or cutlet. broiled or baked. lean only eaten:2006:171:24.61:0.07:0:0:7.42
+22201200:Pork steak or cutlet. fried. NS as to fat eaten:2006:239:22.96:0.06:0:0:15.86
+22201210:Pork steak or cutlet. fried. lean and fat eaten:2006:239:22.96:0.06:0:0:15.86
+22201220:Pork steak or cutlet. fried. lean only eaten:2006:171:24.61:0.07:0:0:7.42
+22201300:Pork steak or cutlet. breaded or floured. broiled or baked. NS as to fat eaten:2006:264:22.3:9.15:0.4:0.4:14.79
+22201310:Pork steak or cutlet. breaded or floured. broiled or baked. lean and fat eaten:2006:264:22.3:9.15:0.4:0.4:14.79
+22201320:Pork steak or cutlet. breaded or floured. broiled or baked. lean only eaten:2006:202:23.8:9.15:0.4:0.4:7.12
+22201400:Pork steak or cutlet. breaded or floured. fried. NS as to fat eaten:2006:305:21.08:16.61:1.46:1:16.65
+22201410:Pork steak or cutlet. breaded or floured. fried. lean and fat eaten:2006:324:20.64:16.26:1.43:1:19.12
+22201420:Pork steak or cutlet. breaded or floured. fried. lean only eaten:2006:275:21.81:16.26:1.43:1:13.11
+22210300:Pork. tenderloin. cooked. NS as to cooking method:2006:154:26.9:0:0:0:4.33
+22210310:Pork. tenderloin. breaded. fried:2006:294:22:15.22:1.34:0.9:15.55
+22210350:Pork. tenderloin. braised:2006:142:27.24:0:0:0:2.8
+22210400:Pork. tenderloin. baked:2006:154:26.9:0:0:0:4.33
+22210450:Pork. tenderloin. battered. fried:2006:193:23.29:7.57:1.32:0.2:7.07
+22300120:Ham. fried. NS as to fat eaten:2602:187:19.16:1.28:1.09:0:11.41
+22300130:Ham. fried. lean and fat eaten:2602:187:19.16:1.28:1.09:0:11.41
+22300140:Ham. fried. lean only eaten:2602:177:20.55:1:1:0:9.77
+22300150:Ham. breaded or floured. fried. NS as to fat eaten:2602:200:18.36:7.34:1.35:0.3:10.42
+22300160:Ham. breaded or floured. fried. lean and fat eaten:2602:200:18.36:7.34:1.35:0.3:10.42
+22300170:Ham. breaded or floured. fried. lean only eaten:2602:191:19.66:6.79:1.4:0.4:9.11
+22301000:Ham. fresh. cooked. NS as to fat eaten:2006:271:26.61:0:0:0:17.46
+22301110:Ham. fresh. cooked. lean and fat eaten:2006:271:26.61:0:0:0:17.46
+22301120:Ham. fresh. cooked. lean only eaten:2006:209:29.16:0:0:0:9.36
+22311000:Ham. smoked or cured. cooked. NS as to fat eaten:2602:149:20.09:1.19:1.04:0:6.7
+22311010:Ham. smoked or cured. cooked. lean and fat eaten:2602:149:20.09:1.19:1.04:0:6.7
+22311020:Ham. smoked or cured. cooked. lean only eaten:2602:139:21.64:1.05:1.05:0:4.95
+22311450:Ham. prosciutto:2602:195:27.8:0.3:0:0:8.32
+22311500:Ham. smoked or cured. canned. NS as to fat eaten:2602:132:17.46:1:1:0:6.17
+22311510:Ham. smoked or cured. canned. lean and fat eaten:2602:132:17.46:1:1:0:6.17
+22311520:Ham. smoked or cured. canned. lean only eaten:2602:117:17.8:1:1:0:4.31
+22321110:Ham. smoked or cured. ground patty:2602:325:18.53:1.42:1.09:0:27.25
+22400100:Pork roast. NS as to cut. cooked. NS as to fat eaten:2006:246:26.86:0:0:0:14.53
+22400110:Pork roast. NS as to cut. cooked. lean and fat eaten:2006:246:26.86:0:0:0:14.53
+22400120:Pork roast. NS as to cut. cooked. lean only eaten:2006:207:28.38:0:0:0:9.55
+22401000:Pork roast. loin. cooked. NS as to fat eaten:2006:246:26.86:0:0:0:14.53
+22401010:Pork roast. loin. cooked. lean and fat eaten:2006:246:26.86:0:0:0:14.53
+22401020:Pork roast. loin. cooked. lean only eaten:2006:207:28.38:0:0:0:9.55
+22402510:Fried pork chunks. Puerto Rican style:2006:257:35.33:0.86:0.03:0.1:11.35
+22411000:Pork roast. shoulder. cooked. NS as to fat eaten:2006:290:23.09:0:0:0:21.21
+22411010:Pork roast. shoulder. cooked. lean and fat eaten:2006:290:23.09:0:0:0:21.21
+22411020:Pork roast. shoulder. cooked. lean only eaten:2006:228:25.12:0:0:0:13.43
+22421000:Pork roast. smoked or cured. cooked. NS as to fat eaten:2602:165:21.97:0.5:0:0:7.66
+22421010:Pork roast. smoked or cured. cooked. lean and fat eaten:2602:165:21.97:0.5:0:0:7.66
+22421020:Pork roast. smoked or cured. cooked. lean only eaten:2602:157:25.05:0:0:0:5.5
+22431000:Pork roll. cured. fried:2602:329:13.07:4.49:0:0:28.39
+22501010:Canadian bacon. cooked:2602:146:28.31:1.8:1.2:0:2.78
+22600100:Bacon. NS as to type of meat. cooked:2604:468:33.92:1.7:0:0:35.09
+22600110:Bacon. NS as to type of meat. reduced sodium. cooked:2604:253:13.33:4.8:0:0:20
+22600200:Pork bacon. NS as to fresh. smoked or cured. cooked:2604:468:33.92:1.7:0:0:35.09
+22600210:Pork bacon. NS as to fresh. smoked or cured. reduced sodium. cooked:2604:541:37.04:1.43:0:0:41.78
+22601000:Pork bacon. smoked or cured. cooked:2604:468:33.92:1.7:0:0:35.09
+22601040:Bacon or side pork. fresh. cooked:2604:468:33.92:1.7:0:0:35.09
+22602010:Pork bacon. smoked or cured. reduced sodium. cooked:2604:541:37.04:1.43:0:0:41.78
+22621000:Salt pork. cooked:2604:750:2.68:0:0:0:81.93
+22621100:Fat back. cooked:8002:750:2.68:0:0:0:81.93
+22701000:Pork. spareribs. cooked. NS as to fat eaten:2006:394:28.82:0:0:0:30.05
+22701010:Pork. spareribs. cooked. lean and fat eaten:2006:394:28.82:0:0:0:30.05
+22701020:Pork. spareribs. cooked. lean only eaten:2006:206:28.79:0:0:0:9.24
+22701030:Pork. spareribs. barbecued. with sauce. NS as to fat eaten:2006:343:21.45:12.74:10.39:0.3:22.29
+22701040:Pork. spareribs. barbecued. with sauce. lean and fat eaten:2006:343:21.45:12.74:10.39:0.3:22.29
+22701050:Pork. spareribs. barbecued. with sauce. lean only eaten:2006:224:19.63:12.74:10.39:0.3:9.82
+22704010:Pork. cracklings. cooked:2006:468:33.92:1.7:0:0:35.09
+22705010:Pork ears. tail. head. snout. miscellaneous parts. cooked:2006:236:26.14:0:0:0:13.77
+22706010:Pork. neck bones. cooked:2006:182:25.85:0:0:0:7.96
+22707010:'Pork. pig''s feet. cooked':2006:236:21.76:0:0:0:15.92
+22707020:'Pork. pig''s feet. pickled':2006:140:11.63:0.01:0:0:10.02
+22708010:'Pork. pig''s hocks. cooked':2006:233:24.67:0:0:0:14.21
+22709010:Pork skin rinds:2006:544:61.3:0:0:0:31.3
+22709110:Pork skin. boiled:2006:621:7:0:0:0:65.55
+22810010:Ham. baby food. strained:9008:97:11.3:3.7:0:0:3.8
+22820000:Meat stick. baby food:9008:184:13.4:1.1:0.8:0.2:14.6
+23000100:Lamb. NS as to cut. cooked:2008:292:24.32:0:0:0:20.77
+23101000:Lamb chop. NS as to cut. cooked. NS as to fat eaten:2008:313:24.96:0:0:0:22.89
+23101010:Lamb chop. NS as to cut. cooked. lean and fat eaten:2008:313:24.96:0:0:0:22.89
+23101020:Lamb chop. NS as to cut. cooked. lean only eaten:2008:214:29.74:0:0:0:9.65
+23104000:Lamb. loin chop. cooked. NS as to fat eaten:2008:313:24.96:0:0:0:22.89
+23104010:Lamb. loin chop. cooked. lean and fat eaten:2008:313:24.96:0:0:0:22.89
+23104020:Lamb. loin chop. cooked. lean only eaten:2008:214:29.74:0:0:0:9.65
+23107000:Lamb. shoulder chop. cooked. NS as to fat eaten:2008:274:22.32:0:0:0:19.8
+23107010:Lamb. shoulder chop. cooked. lean and fat eaten:2008:274:22.32:0:0:0:19.8
+23107020:Lamb. shoulder chop. cooked. lean only eaten:2008:202:24.73:0:0:0:10.68
+23110000:Lamb. ribs. cooked. lean only eaten:2008:233:27.51:0:0:0:12.84
+23110010:Lamb. ribs. cooked. NS as to fat eaten:2008:358:21.95:0:0:0:29.34
+23110050:Lamb. ribs. cooked. lean and fat eaten:2008:358:21.95:0:0:0:29.34
+23111010:Lamb hocks. cooked:2008:241:28.13:0:0:0:13.35
+23120100:Lamb. roast. cooked. NS as to fat eaten:2008:265:23.83:0:0:0:18.07
+23120110:Lamb. roast. cooked. lean and fat eaten:2008:265:23.83:0:0:0:18.07
+23120120:Lamb. roast. cooked. lean only eaten:2008:196:26.4:0:0:0:9.18
+23132000:Lamb. ground or patty. cooked:2008:281:24.54:0:0:0:19.49
+23150100:Goat. boiled:2008:142:26.87:0:0:0:3
+23150200:Goat. fried:2008:153:26.46:0:0:0:4.52
+23150250:Goat. baked:2008:142:26.87:0:0:0:3
+23150270:Goat head. cooked:2008:144:21.82:0.48:0:0:5.46
+23150300:Goat ribs. cooked:2008:142:26.87:0:0:0:3
+23200100:Veal. NS as to cut. cooked. NS as to fat eaten:2002:229:29.85:0:0:0:11.3
+23200110:Veal. NS as to cut. cooked. lean and fat eaten:2002:229:29.85:0:0:0:11.3
+23200120:Veal. NS as to cut. cooked. lean only eaten:2002:194:31.63:0:0:0:6.52
+23201010:Veal chop. NS as to cooking method. NS as to fat eaten:2002:215:24.59:0:0:0:12.22
+23201020:Veal chop. NS as to cooking method. lean and fat eaten:2002:215:24.59:0:0:0:12.22
+23201030:Veal chop. NS as to cooking method. lean only eaten:2002:174:26.1:0:0:0:6.88
+23203010:Veal chop. fried. NS as to fat eaten:2002:238:27.29:9.91:0.57:0.3:9.18
+23203020:Veal chop. fried. lean and fat eaten:2002:238:27.29:9.91:0.57:0.3:9.18
+23203030:Veal chop. fried. lean only eaten:2002:216:28.41:9.84:0.57:0.2:6.27
+23203100:Veal chop. broiled. NS as to fat eaten:2002:215:24.59:0:0:0:12.22
+23203110:Veal chop. broiled. lean and fat eaten:2002:215:24.59:0:0:0:12.22
+23203120:Veal chop. broiled. lean only eaten:2002:174:26.1:0:0:0:6.88
+23204010:Veal cutlet or steak. NS as to cooking method. NS as to fat eaten:2002:209:33.67:0:0:0:7.28
+23204020:Veal cutlet or steak. NS as to cooking method. lean and fat eaten:2002:209:35.86:0:0:0:6.28
+23204030:Veal cutlet or steak. NS as to cooking method. lean only eaten:2002:181:32.89:0:0:0:4.58
+23204200:Veal cutlet or steak. broiled. NS as to fat eaten:2002:159:27.47:0:0:0:4.61
+23204210:Veal cutlet or steak. broiled. lean and fat eaten:2002:159:27.47:0:0:0:4.61
+23204220:Veal cutlet or steak. broiled. lean only eaten:2002:181:32.89:0:0:0:4.58
+23205010:Veal cutlet or steak. fried. NS as to fat eaten:2002:238:27.29:9.91:0.57:0.3:9.18
+23205020:Veal cutlet or steak. fried. lean and fat eaten:2002:238:27.29:9.91:0.57:0.3:9.18
+23205030:Veal cutlet or steak. fried. lean only eaten:2002:181:32.89:0:0:0:4.58
+23210010:Veal. roasted. NS as to fat eaten:2002:229:29.85:0:0:0:11.3
+23210020:Veal. roasted. lean and fat eaten:2002:229:29.85:0:0:0:11.3
+23210030:Veal. roasted. lean only eaten:2002:174:26.1:0:0:0:6.88
+23220010:Veal. ground or patty. cooked:2002:171:24.18:0:0:0:7.5
+23220020:Mock chicken legs. cooked:2002:234:20.75:5.27:0.02:0.2:13.79
+23220030:Veal patty. breaded. cooked:2002:283:22.23:8.63:0.75:0.5:17.11
+23310000:Rabbit. NS as to domestic or wild. cooked:2008:205:30.25:0:0:0:8.38
+23311100:Rabbit. domestic. NS as to cooking method:2008:205:30.25:0:0:0:8.38
+23311120:Rabbit. NS as to domestic or wild. breaded. fried:2008:248:27.65:5.06:0.44:0.3:12.16
+23311200:Rabbit. wild. cooked:2008:172:32.88:0:0:0:3.5
+23321000:Venison/deer. NFS:2008:190:36.08:0:0:0:3.93
+23321050:Venison/deer. cured:2602:187:35.11:0:0:0:4.08
+23321100:Venison/deer. roasted:2008:190:36.08:0:0:0:3.93
+23321200:Venison/deer steak. cooked. NS as to cooking method:2008:150:29.8:0:0:0:2.61
+23321250:Venison/deer steak. breaded or floured. cooked. NS as to cooking method:2008:224:24.88:12.38:1.09:0.8:7.68
+23321900:Venison/deer jerky:2602:396:32.2:14.78:14.75:0:22.36
+23322100:Deer sausage:2602:299:10.91:4.29:2.05:0:26.13
+23322300:Deer chop. cooked:2008:193:28.06:0:0:0:8.28
+23322350:Venison/deer ribs. cooked:2008:190:36.08:0:0:0:3.93
+23322400:Venison/deer. stewed:2008:190:36.08:0:0:0:3.93
+23323100:Moose. cooked:2008:133:29.15:0:0:0:0.97
+23323500:Bear. cooked:2008:258:32.28:0:0:0:13.33
+23324100:Caribou. cooked:2008:166:29.64:0:0:0:4.4
+23326100:Bison. cooked:2008:142:28.32:0:0:0:2.41
+23331100:Ground hog. cooked:2008:234:25.96:0:0:0:13.6
+23332100:Opossum. cooked:2008:220:30.07:0:0:0:10.16
+23333100:Squirrel. cooked:2008:172:30.64:0:0:0:4.67
+23334100:Beaver. cooked:2008:211:34.7:0:0:0:6.93
+23335100:Raccoon. cooked:2008:254:29.08:0:0:0:14.44
+23340100:Armadillo. cooked:2008:159:28.18:0:0:0:4.36
+23345100:Wild pig. smoked:2008:157:27.8:0:0:0:4.3
+23350100:Ostrich. cooked:2206:174:25.93:0:0:0:7.01
+23410010:Lamb. baby food. strained:9008:87:14.07:0.85:0:0:3.41
+23420010:Veal. baby food. strained:9008:81:13.12:1.51:0:0:2.45
+24100000:Chicken. NS as to part and cooking method. NS as to skin eaten:2202:164:26.79:0:0:0:6.36
+24100010:Chicken. NS as to part and cooking method. skin eaten:2202:196:25.07:0.1:0.1:0:10.65
+24100020:Chicken. NS as to part and cooking method. skin not eaten:2202:164:26.79:0:0:0:6.36
+24102000:Chicken. NS as to part. baked. broiled. or roasted. NS as to skin eaten:2202:165:27.32:0:0:0:5.32
+24102010:Chicken. NS as to part. baked. broiled. or roasted. skin eaten:2202:203:24.7:0:0:0:10.8
+24102020:Chicken. NS as to part. baked. broiled. or roasted. skin not eaten:2202:165:27.32:0:0:0:5.32
+24102050:Chicken. NS as to part. rotisserie. NS as to skin eaten:2202:164:26.79:0:0:0:6.36
+24102060:Chicken. NS as to part. rotisserie. skin eaten:2202:196:25.07:0.1:0.1:0:10.65
+24102070:Chicken. NS as to part. rotisserie. skin not eaten:2202:164:26.79:0:0:0:6.36
+24103000:Chicken. NS as to part. stewed. NS as to skin eaten:2202:156:26.03:0:0:0:5.38
+24103010:Chicken. NS as to part. stewed. skin eaten:2202:196:23.58:0:0:0:10.86
+24103020:Chicken. NS as to part. stewed. skin not eaten:2202:156:26.03:0:0:0:5.38
+24103050:Chicken. NS as to part. grilled without sauce. NS as to skin eaten:2202:179:26.74:0:0:0:7.2
+24103055:Chicken. NS as to part. grilled without sauce. skin eaten:2202:216:24.19:0:0:0:12.57
+24103060:Chicken. NS as to part. grilled without sauce. skin not eaten:2202:179:26.74:0:0:0:7.2
+24103070:Chicken. NS as to part. grilled with sauce. NS as to skin eaten:2202:180:21.98:7.31:5.96:0.2:6.36
+24103075:Chicken. NS as to part. grilled with sauce. skin eaten:2202:211:19.89:7.31:5.96:0.2:10.74
+24103080:Chicken. NS as to part. grilled with sauce. skin not eaten:2202:180:21.98:7.31:5.96:0.2:6.36
+24104049:Chicken. NS as to part. sauteed. skin eaten:2202:216:24.19:0:0:0:12.57
+24104051:Chicken. NS as to part. sauteed. skin not eaten:2202:179:26.74:0:0:0:7.2
+24107070:Chicken. NS as to part. fried. coated. skin / coating eaten:2202:251:21.75:7.14:0:0.2:15.02
+24107071:Chicken. NS as to part. fried. coated. skin / coating not eaten:2202:164:26.18:0.07:0:0:6.58
+24107080:Chicken. NS as to part. baked. coated. skin / coating eaten:2202:251:21.75:7.14:0:0.2:15.02
+24107081:Chicken. NS as to part. baked. coated. skin / coating not eaten:2202:164:26.18:0.07:0:0:6.58
+24120110:Chicken breast. NS as to cooking method. skin eaten:2202:175:26.37:0.09:0.09:0:7.67
+24120120:Chicken breast. NS as to cooking method. skin not eaten:2202:144:28.04:0:0:0:3.57
+24122130:Chicken breast. baked. broiled. or roasted. skin eaten. from raw:2202:192:26.25:0:0:0:8.8
+24122131:Chicken breast. baked. broiled. or roasted. skin not eaten. from raw:2202:161:30.22:0:0:0:3.52
+24122140:Chicken breast. baked or broiled. skin eaten. from pre-cooked:2202:175:26.37:0.09:0.09:0:7.67
+24122141:Chicken breast. baked or broiled. skin not eaten. from pre-cooked:2202:137:28:0:0:0:2.79
+24122150:Chicken breast. baked or broiled. skin eaten. from fast food / restaurant:2202:205:25.67:0:0:0:10.6
+24122151:Chicken breast. baked or broiled. skin not eaten. from fast food / restaurant:2202:175:29.56:0:0:0:5.44
+24122160:Chicken breast. baked. broiled. or roasted with marinade. skin eaten. from raw:2202:204:25.32:0.31:0.28:0:10.45
+24122161:Chicken breast. baked. broiled. or roasted with marinade. skin not eaten. from raw:2202:174:29.13:0.31:0.28:0:5.38
+24122170:Chicken breast. rotisserie. skin eaten:2202:175:26.37:0.09:0.09:0:7.67
+24122171:Chicken breast. rotisserie. skin not eaten:2202:144:28.04:0:0:0:3.57
+24123110:Chicken breast. stewed. skin eaten:2202:181:24.7:0:0:0:8.28
+24123120:Chicken breast. stewed. skin not eaten:2202:149:27.96:0:0:0:3.26
+24123300:Chicken breast. grilled without sauce. skin eaten:2202:206:25.72:0:0:0:10.62
+24123301:Chicken breast. grilled without sauce. skin not eaten:2202:176:29.62:0:0:0:5.45
+24123310:Chicken breast. grilled with sauce. skin eaten:2202:202:21.15:7.34:5.98:0.2:9.15
+24123311:Chicken breast. grilled with sauce. skin not eaten:2202:178:24.33:7.34:5.98:0.2:4.93
+24124200:Chicken breast. sauteed. skin eaten:2202:206:25.72:0:0:0:10.62
+24124201:Chicken breast. sauteed. skin not eaten:2202:176:29.62:0:0:0:5.45
+24127200:Chicken breast. fried. coated. skin / coating eaten. from raw:2202:242:21.42:5.95:0.1:0.2:14.07
+24127201:Chicken breast. fried. coated. skin / coating not eaten. from raw:2202:176:29.62:0:0:0:5.45
+24127202:Chicken breast. fried. coated. prepared skinless. coating eaten. from raw:2202:218:24.52:5.95:0.1:0.2:9.95
+24127210:Chicken breast. fried. coated. skin / coating eaten. from pre-cooked:2202:249:20.54:7.13:0.12:0.3:14.74
+24127211:Chicken breast. fried. coated. skin / coating not eaten. from pre-cooked:2202:176:29.62:0:0:0:5.45
+24127220:Chicken breast. fried. coated. skin / coating eaten. from fast food / restaurant:2202:271:19.29:10.65:0.1:0.3:16.91
+24127221:Chicken breast. fried. coated. skin / coating not eaten. from fast food / restaurant:2202:211:22.73:5.95:0.1:0.2:10.75
+24127500:Chicken breast. baked. coated. skin / coating eaten:2202:207:23.73:3.96:0.07:0.2:9.88
+24127501:Chicken breast. baked. coated. skin / coating not eaten:2202:176:29.62:0:0:0:5.45
+24130210:Chicken leg. drumstick and thigh. NS as to cooking method. skin eaten:2202:218:23.77:0.12:0.12:0:13.63
+24130220:Chicken leg. drumstick and thigh. NS as to cooking method. skin not eaten:2202:185:25.54:0:0:0:9.15
+24132230:Chicken leg. drumstick and thigh. baked or broiled. skin eaten:2202:214:23.16:0:0:0:12.81
+24132231:Chicken leg. drumstick and thigh. baked or broiled. skin not eaten:2202:168:24.41:0:0:0:7.13
+24132240:Chicken leg. drumstick and thigh. rotisserie. skin eaten:2202:218:23.77:0.12:0.12:0:13.63
+24132241:Chicken leg. drumstick and thigh. rotisserie. skin not eaten:2202:185:25.54:0:0:0:9.15
+24133210:Chicken leg. drumstick and thigh. stewed. skin eaten:2202:211:22.45:0:0:0:13.44
+24133220:Chicken leg. drumstick and thigh. stewed. skin not eaten:2202:164:24.11:0:0:0:7.5
+24134100:Chicken leg. drumstick and thigh. grilled without sauce. skin eaten:2202:227:22.65:0:0:0:14.52
+24134101:Chicken leg. drumstick and thigh. grilled without sauce. skin not eaten:2202:182:23.87:0:0:0:8.96
+24134150:Chicken leg. drumstick and thigh. grilled with sauce. skin eaten:2202:219:18.64:7.28:5.94:0.2:12.32
+24134151:Chicken leg. drumstick and thigh. grilled with sauce. skin not eaten:2202:183:19.63:7.28:5.94:0.2:7.79
+24134300:Chicken leg. drumstick and thigh. sauteed. skin eaten:2202:227:22.65:0:0:0:14.52
+24134301:Chicken leg. drumstick and thigh. sauteed. skin not eaten:2202:182:23.87:0:0:0:8.96
+24137300:Chicken leg. drumstick and thigh. fried. coated. skin / coating eaten:2202:259:19:5.91:0.1:0.2:17.16
+24137301:Chicken leg. drumstick and thigh. fried. coated. skin / coating not eaten:2202:183:23.92:0:0:0:8.98
+24137310:Chicken leg. drumstick and thigh. baked. coated. skin / coating eaten:2202:226:20.96:3.93:0.07:0.2:13.38
+24137311:Chicken leg. drumstick and thigh. baked. coated. skin / coating not eaten:2202:182:23.87:0:0:0:8.96
+24140210:Chicken drumstick. NS as to cooking method. skin eaten:2202:206:25.65:0.12:0.12:0:11.46
+24140220:Chicken drumstick. NS as to cooking method. skin not eaten:2202:172:27.71:0:0:0:6.76
+24142300:Chicken drumstick. baked. broiled. or roasted. skin eaten. from raw:2202:190:23.21:0:0:0:10.09
+24142301:Chicken drumstick. baked. broiled. or roasted. skin not eaten. from raw:2202:154:24.1:0:0:0:5.67
+24142310:Chicken drumstick. baked or broiled. skin eaten. from pre-cooked:2202:206:25.65:0.12:0.12:0:11.46
+24142311:Chicken drumstick. baked or broiled. skin not eaten. from pre-cooked:2202:172:27.71:0:0:0:6.76
+24142320:Chicken drumstick. baked or broiled. skin eaten. from fast food / restaurant:2202:203:22.66:0:0:0:11.83
+24142321:Chicken drumstick. baked or broiled. skin not eaten. from fast food / restaurant:2202:168:23.52:0:0:0:7.51
+24142400:Chicken drumstick. rotisserie. skin eaten:2202:206:25.65:0.12:0.12:0:11.46
+24142401:Chicken drumstick. rotisserie. skin not eaten:2202:172:27.71:0:0:0:6.76
+24142500:Chicken drumstick. grilled without sauce. skin eaten:2202:203:22.7:0:0:0:11.85
+24142501:Chicken drumstick. grilled without sauce. skin not eaten:2202:168:23.57:0:0:0:7.53
+24142510:Chicken drumstick. grilled with sauce. skin eaten:2202:200:18.68:7.28:5.94:0.2:10.15
+24142511:Chicken drumstick. grilled with sauce. skin not eaten:2202:171:19.39:7.28:5.94:0.2:6.62
+24143210:Chicken drumstick. stewed. skin eaten:2202:186:22.54:0:0:0:10.64
+24143220:Chicken drumstick. stewed. skin not eaten:2202:148:23.74:0:0:0:5.9
+24144300:Chicken drumstick. sauteed. skin eaten:2202:203:22.7:0:0:0:11.85
+24144301:Chicken drumstick. sauteed. skin not eaten:2202:168:23.57:0:0:0:7.53
+24147300:Chicken drumstick. fried. coated. skin / coating eaten. from raw:2202:240:19.05:5.91:0.1:0.2:15.04
+24147301:Chicken drumstick. fried. coated. skin / coating not eaten. from raw:2202:169:23.61:0:0:0:7.54
+24147302:Chicken drumstick. fried. coated. prepared skinless. coating eaten. from raw:2202:211:19.7:5.9:0.1:0.2:11.56
+24147310:Chicken drumstick. fried. coated. skin / coating eaten. from pre-cooked:2202:246:18.25:7.07:0.12:0.3:15.62
+24147311:Chicken drumstick. fried. coated. skin / coating not eaten. from pre-cooked:2202:168:23.57:0:0:0:7.53
+24147320:Chicken drumstick. fried. coated. skin / coating eaten. from fast food / restaurant:2202:288:17.73:12.07:0.1:0.6:18.72
+24147321:Chicken drumstick. fried. coated. skin / coating not eaten. from fast food / restaurant:2202:212:21.78:6.05:0.1:0.2:11.18
+24147400:Chicken drumstick. baked. coated. skin / coating eaten:2202:204:21.01:3.93:0.07:0.2:10.98
+24147401:Chicken drumstick. baked. coated. skin / coating not eaten:2202:168:23.57:0:0:0:7.53
+24150210:Chicken thigh. NS as to cooking method. skin eaten:2202:226:22.51:0.12:0.12:0:15.08
+24150220:Chicken thigh. NS as to cooking method. skin not eaten:2202:193:24.09:0:0:0:10.74
+24152230:Chicken thigh. baked. broiled. or roasted. skin eaten. from raw:2202:231:23.12:0:0:0:14.62
+24152231:Chicken thigh. baked. broiled. or roasted. skin not eaten. from raw:2202:178:24.61:0:0:0:8.1
+24152240:Chicken thigh. baked or broiled. skin eaten. from pre-cooked:2202:226:22.51:0.12:0.12:0:15.08
+24152241:Chicken thigh. baked or broiled. skin not eaten. from pre-cooked:2202:193:24.09:0:0:0:10.74
+24152250:Chicken thigh. baked or broiled. skin eaten. from fast food / restaurant:2202:243:22.57:0:0:0:16.25
+24152251:Chicken thigh. baked or broiled. skin not eaten. from fast food / restaurant:2202:191:24.02:0:0:0:9.89
+24152300:Chicken thigh. rotisserie. skin eaten:2202:226:22.51:0.12:0.12:0:15.08
+24152301:Chicken thigh. rotisserie. skin not eaten:2202:193:24.09:0:0:0:10.74
+24153210:Chicken thigh. stewed. skin eaten:2202:227:22.39:0:0:0:15.31
+24153220:Chicken thigh. stewed. skin not eaten:2202:175:24.36:0:0:0:8.56
+24154010:Chicken thigh. grilled without sauce. skin eaten:2202:243:22.61:0:0:0:16.29
+24154011:Chicken thigh. grilled without sauce. skin not eaten:2202:192:24.07:0:0:0:9.91
+24154020:Chicken thigh. grilled with sauce. skin eaten:2202:232:18.61:7.28:5.94:0.2:13.77
+24154021:Chicken thigh. grilled with sauce. skin not eaten:2202:190:19.8:7.28:5.94:0.2:8.56
+24154300:Chicken thigh. sauteed. skin eaten:2202:243:22.61:0:0:0:16.29
+24154301:Chicken thigh. sauteed. skin not eaten:2202:192:24.07:0:0:0:9.91
+24157300:Chicken thigh. fried. coated. skin / coating eaten. from raw:2202:271:18.98:5.91:0.1:0.2:18.57
+24157301:Chicken thigh. fried. coated. skin / coating not eaten. from raw:2202:192:24.12:0:0:0:9.93
+24157302:Chicken thigh. fried. coated. prepared skinless. coating eaten. from raw:2202:230:20.1:5.9:0.1:0.2:13.46
+24157310:Chicken thigh. fried. coated. skin / coating eaten. from pre-cooked:2202:276:18.19:7.07:0.12:0.3:18.96
+24157311:Chicken thigh. fried. coated. skin / coating not eaten. from pre-cooked:2202:192:24.07:0:0:0:9.91
+24157320:Chicken thigh. fried. coated. skin / coating eaten. from fast food:2202:293:16.22:12.94:0.1:0.3:19.64
+24157321:Chicken thigh. fried. coated. skin / coating not eaten. from fast food:2202:217:19.38:6.24:0.1:0.2:12.76
+24157330:Chicken thigh. fried. coated. skin / coating eaten. from restaurant:2202:293:16.22:12.94:0.1:0.3:19.64
+24157331:Chicken thigh. fried. coated. skin / coating not eaten. from restaurant:2202:217:19.38:6.24:0.1:0.2:12.76
+24157400:Chicken thigh. baked. coated. skin / coating eaten:2202:240:20.93:3.93:0.07:0.2:14.96
+24157401:Chicken thigh. baked. coated. skin / coating not eaten:2202:192:24.07:0:0:0:9.91
+24160110:Chicken wing. NS as to cooking method:2202:257:23.42:0.6:0.6:0:18.04
+24162130:Chicken wing. baked. broiled. or roasted. from raw:2202:252:23.6:0:0:0:16.74
+24162140:Chicken wing. baked or broiled. from pre-cooked:2202:257:23.42:0.6:0.6:0:18.04
+24162150:Chicken wing. baked or broiled. from fast food / restaurant:2202:264:23.08:0:0:0:18.35
+24162200:Chicken wing. rotisserie:2202:257:23.42:0.6:0.6:0:18.04
+24163110:Chicken wing. stewed:2202:247:22.6:0:0:0:16.69
+24164000:Chicken wing. grilled without sauce:2202:265:23.13:0:0:0:18.39
+24164010:Chicken wing. grilled with sauce:2202:250:19.03:7.28:5.94:0.2:15.49
+24164200:Chicken wing. sauteed:2202:265:23.13:0:0:0:18.39
+24167200:Chicken wing. fried. coated. from raw:2202:288:19.35:5.9:0.1:0.2:20.2
+24167210:Chicken wing. fried. coated. from pre-cooked:2202:292:18.58:7.07:0.12:0.3:20.55
+24167220:Chicken wing. fried. coated. from fast food:2202:322:17.74:14.93:0.1:0.3:21.24
+24167230:Chicken wing. fried. coated. from restaurant:2202:322:17.74:14.93:0.1:0.3:21.24
+24167300:Chicken wing. baked. coated:2202:259:21.4:3.93:0.07:0.2:16.85
+24168000:Chicken "wings" with hot sauce. from fast food / restaurant:2202:269:16.78:6.19:2.23:0.1:19.97
+24168001:Chicken "wings" with other sauces or seasoning. from fast food / restaurant:2202:276:16.95:13.13:7.55:0.2:17.39
+24168002:Chicken "wings". plain. from fast food / restaurant:2202:322:17.74:14.93:0.1:0.3:21.24
+24168010:Chicken "wings" with hot sauce. from precooked:2202:251:17.57:2.5:2.44:0:19.26
+24168011:Chicken "wings" with other sauces or seasoning. from precooked:2202:257:17.74:9.42:7.76:0.2:16.67
+24168012:Chicken "wings". plain. from precooked:2202:292:18.58:7.07:0.12:0.3:20.55
+24168020:Chicken "wings" with hot sauce. from other sources:2202:264:17.02:5.08:2.3:0.1:19.76
+24168021:Chicken "wings" with other sauces or seasoning. from other sources:2202:270:17.19:12.01:7.62:0.2:17.17
+24168022:Chicken "wings". plain. from other sources:2202:313:17.99:12.57:0.11:0.3:21.03
+24168030:Chicken "wings". boneless. with hot sauce. from fast food / restaurant:2202:281:12.35:20.01:5.71:0.9:16.8
+24168031:Chicken "wings". boneless. with hot sauce. from other sources:2202:231:11.38:19.95:6.08:1.5:11.75
+24170200:Chicken. back:2202:298:25.73:0:0:0:20.8
+24180200:Chicken. neck or ribs:2202:245:19.45:0:0:0:17.95
+24198340:Chicken. tail:2202:289:22.54:9.42:0:0.3:17.35
+24198440:Chicken skin:2202:450:20.19:0:0:0:40.34
+24198500:Chicken feet:2202:215:19.4:0.2:0:0:14.6
+24198570:Chicken. canned. meat only:2202:185:25.3:0.9:0:0:8.1
+24198670:Chicken. chicken roll. roasted:2202:189:28.81:0:0:0:7.38
+24198671:Chicken patty. breaded:2204:287:14.85:12.84:0:0.3:19.58
+24198677:Chicken fillet. breaded:2204:240:14.62:14.86:0.57:1.7:13.58
+24198683:Chicken fillet. grilled:2204:145:22.24:2.37:0:0.1:5.2
+24198720:Chicken. ground:2202:201:27.14:0:0:0:10.31
+24198729:Chicken nuggets. NFS:2204:307:15.92:14.93:0.08:0.9:20.36
+24198731:Chicken nuggets. from fast food:2204:307:15.92:14.93:0.08:0.9:20.36
+24198732:Chicken nuggets. from restaurant:2204:307:15.92:14.93:0.08:0.9:20.36
+24198735:Chicken nuggets. from school lunch:2204:270:15.67:22.86:0.49:2.2:12.9
+24198736:Chicken nuggets. from frozen:2204:298:13.36:17.88:0.8:1.8:19.23
+24198737:Chicken nuggets. from other sources:2204:304:15.15:15.81:0.3:1.2:20.02
+24198739:Chicken tenders or strips. NFS:2204:271:19.22:17.25:0.4:1.2:13.95
+24198741:Chicken tenders or strips. breaded. from fast food:2204:271:19.22:17.25:0.4:1.2:13.95
+24198742:Chicken tenders or strips. breaded. from restaurant:2204:283:18.82:16.9:0.39:1.2:15.62
+24198745:Chicken tenders or strips. breaded. from school lunch:2204:270:15.67:22.86:0.49:2.2:12.9
+24198746:Chicken tenders or strips. breaded. from frozen:2204:240:14.62:14.86:0.57:1.7:13.58
+24198747:Chicken tenders or strips. breaded. from other sources:2204:262:17.84:16.53:0.45:1.4:13.84
+24198840:Fried chicken chunks. Puerto Rican style:2202:349:20.98:20.6:0.41:0.9:19.75
+24201000:Turkey. NFS:2206:139:28.81:0:0:0:2.06
+24201020:Turkey. light meat. skin not eaten:2206:139:28.81:0:0:0:2.06
+24201030:Turkey. light meat. skin eaten:2206:169:28.28:0.03:0:0:5.55
+24201060:Turkey. light meat. breaded. baked or fried. skin not eaten:2206:172:27.33:6.14:0.52:0.4:3.7
+24201070:Turkey. light meat. breaded. baked or fried. skin eaten:2206:199:26.85:6.17:0.52:0.4:6.85
+24201120:Turkey. light meat. roasted. skin not eaten:2206:139:28.81:0:0:0:2.06
+24201130:Turkey. light meat. roasted. skin eaten:2206:169:28.28:0.03:0:0:5.55
+24201220:Turkey. dark meat. roasted. skin not eaten:2206:167:26.94:0:0:0:5.98
+24201230:Turkey. dark meat. roasted. skin eaten:2206:202:26.46:0.05:0:0:10.16
+24201320:Turkey. light and dark meat. roasted. skin not eaten:2206:151:27.99:0:0:0:3.76
+24201330:Turkey. light and dark meat. roasted. skin eaten:2206:183:27.48:0.04:0:0:7.54
+24201360:Turkey. light or dark meat. fried. coated. skin not eaten:2206:165:27.22:1.4:0.11:0:5.05
+24201370:Turkey. light or dark meat. fried. coated. skin eaten:2206:192:26.19:1.4:0.11:0:8.5
+24201410:Turkey. light or dark meat. stewed. skin not eaten:2206:154:30.88:0.13:0.06:0:2.94
+24201420:Turkey light or dark meat. stewed. skin eaten:2206:203:30.25:0.14:0.07:0:8.52
+24201510:Turkey. light or dark meat. smoked. skin eaten:2206:208:28.1:0:0:0:9.7
+24201520:Turkey. light or dark meat. smoked. skin not eaten:2206:170:29.3:0:0:0:5
+24202010:Turkey. drumstick. cooked. skin not eaten:2206:144:28.52:0:0:0:3.38
+24202020:Turkey. drumstick. cooked. skin eaten:2206:206:27.64:0:0:0:9.74
+24202060:Turkey. drumstick. roasted. skin not eaten:2206:144:28.52:0:0:0:3.38
+24202070:Turkey. drumstick. roasted. skin eaten:2206:203:26.86:0:0:0:10.07
+24202120:Turkey. drumstick. smoked. skin eaten:2206:208:27.9:0:0:0:9.8
+24202460:Turkey. thigh. cooked. skin eaten:2206:182:24.36:0.27:0:0:9.26
+24202500:Turkey. thigh. cooked. skin not eaten:2206:161:26.94:0:0:0:5.98
+24202600:Turkey. neck:2206:161:22.29:0:0:0:7.3
+24203010:Turkey. wing. cooked. skin not eaten:2206:139:28.81:0:0:0:2.06
+24203020:Turkey. wing. cooked. skin eaten:2206:202:26.87:0:0:0:9.97
+24203120:Turkey. wing. smoked. skin eaten:2206:221:27.4:0:0:0:12.41
+24205000:Turkey. tail:2206:294:22.25:0:0:0:22.8
+24205100:Turkey. back:2206:203:25.58:0:0:0:11.26
+24206000:Turkey. canned:2206:185:25.3:0.9:0:0:8.1
+24207000:Turkey. ground:2206:201:27.14:0:0:0:10.31
+24208000:Turkey. nuggets:2206:233:22.37:16.31:1.37:1.2:8.71
+24208500:Turkey bacon. cooked:2604:368:29.5:4.24:4.24:0:25.87
+24208510:Turkey bacon. reduced sodium. cooked:2604:253:13.33:4.8:0:0:20
+24209000:Turkey with barbecue sauce. skin eaten:3004:195:18.23:12.23:9.97:0.3:8.16
+24209001:Turkey with barbecue sauce. skin not eaten:3004:150:18.86:12.23:9.97:0.3:2.82
+24300110:Duck. cooked. skin eaten:2206:336:18.91:0:0:0:28.23
+24300120:Duck. cooked. skin not eaten:2206:200:23.38:0:0:0:11.15
+24301010:Duck. roasted. skin eaten:2206:336:18.91:0:0:0:28.23
+24301020:Duck. roasted. skin not eaten:2206:200:23.38:0:0:0:11.15
+24301210:Duck. coated. fried:2206:225:22.3:7.95:0.14:0.2:10.92
+24302010:Duck. pressed. Chinese:2206:153:5.34:6.83:5.08:0.4:11.63
+24311010:Goose. wild. roasted:2206:304:25.06:0:0:0:21.83
+24400010:Cornish game hen. cooked. skin eaten:2206:257:22.08:0:0:0:18.06
+24400020:Cornish game hen. cooked. skin not eaten:2206:133:23.11:0:0:0:3.84
+24401010:Cornish game hen. roasted. skin eaten:2206:257:22.08:0:0:0:18.06
+24401020:Cornish game hen. roasted. skin not eaten:2206:133:23.11:0:0:0:3.84
+24402100:Dove. cooked. NS as to cooking method:2206:212:23.8:0:0:0:12.95
+24402110:Dove. fried:2206:223:23.06:1.44:0.12:0:13.82
+24403100:Quail. cooked:2206:226:25:0:0:0:14.04
+24404100:Pheasant. cooked:2206:238:32.26:0:0:0:12.05
+24701000:Chicken. baby food. NS as to strained or junior:9008:138:13.85:0.05:0:0:8.75
+24701010:Chicken. baby food. strained:9008:130:13.7:0.1:0:0:7.9
+24701020:Chicken. baby food. junior:9008:146:14:0:0:0:9.6
+24703000:Turkey. baby food. NS as to strained or junior:9008:111:11.5:1.4:0:0:6.2
+24703010:Turkey. baby food. strained:9008:111:11.5:1.4:0:0:6.2
+24703020:Turkey. baby food. junior:9008:111:11.5:1.4:0:0:6.2
+24705010:Chicken stick. baby food:9008:188:14.6:1.5:1.4:0.2:14.4
+24706010:Turkey stick. baby food:9008:188:13.7:1.4:1.4:0.2:14.2
+25110120:Beef liver. braised:2010:189:28.84:5.09:0:0:5.22
+25110140:Beef liver. fried:2010:174:26.3:5.12:0:0:4.64
+25110420:Chicken liver. braised:2010:166:24.26:0.86:0:0:6.46
+25110450:Chicken liver. fried:2010:189:19.98:6.41:0.02:0.2:8.66
+25112200:Liver paste or pate. chicken:2010:201:13.45:6.55:0:0:13.1
+25120000:Heart. cooked:2010:164:28.24:0.15:0:0:4.69
+25130000:Kidney. cooked:2010:157:27.04:0:0:0:4.61
+25140110:Sweetbreads. cooked:2010:124:22.48:0:0:0:3.08
+25150000:Brains. cooked:2010:150:11.57:1.47:0:0:10.44
+25160000:Tongue. cooked:2010:282:19.13:0:0:0:22.11
+25160110:Tongue. smoked. cured. or pickled. cooked:2602:277:18.8:0:0:0:21.74
+25160130:Tongue pot roast. Puerto Rican style:2010:317:21.03:0.34:0.02:0.1:25.02
+25170110:Tripe. cooked:2010:89:12.6:0:0:0:3.85
+25170210:Chitterlings. cooked:2010:231:12.39:0:0:0:20.15
+25170310:Hog maws. cooked:2010:250:26.52:0:0:0:15.96
+25170420:Gizzard. cooked:2010:153:30.14:0:0:0:2.66
+25210110:Frankfurter. wiener. or hot dog. NFS:2606:332:12.3:3.13:1.23:0:29.58
+25210150:Frankfurter or hot dog. cheese-filled:2606:345:14.84:1.59:1.59:0:30.53
+25210210:Frankfurter or hot dog. beef:2606:332:12.3:3.13:1.23:0:29.58
+25210220:Frankfurter or hot dog. beef and pork:2606:292:10.23:5.28:2.9:0:25.45
+25210240:Frankfurter or hot dog. beef and pork. reduced fat or light:2606:292:10.23:5.28:2.9:0:25.45
+25210250:Frankfurter or hot dog. meat and poultry. fat free:2606:115:13.16:11.8:0:0:1.67
+25210280:Frankfurter or hot dog. meat and poultry:2606:292:10.23:5.28:2.9:0:25.45
+25210290:Frankfurter or hot dog. meat and poultry. reduced fat or light:2606:127:16.32:8.84:0:0.1:2.95
+25210310:Frankfurter or hot dog. chicken:2606:235:16.33:2.88:3.14:0:17.04
+25210410:Frankfurter or hot dog. turkey:2606:235:12.87:4.01:1.27:0:18.2
+25210620:Frankfurter or hot dog. beef. reduced fat or light:2606:127:16.32:8.84:0:0.1:2.95
+25210750:Frankfurter or hot dog. reduced fat or light. NFS:2606:127:16.32:8.84:0:0.1:2.95
+25220105:Beef sausage:2608:405:15.5:0.03:0:0:37.57
+25220106:Beef sausage. reduced fat:2608:267:20.94:0.15:0:0:20.32
+25220108:Beef sausage. reduced sodium:2608:271:9.41:8.13:0:0:22.35
+25220150:Beef sausage with cheese:2608:402:15.76:0.4:0.23:0:36.99
+25220210:Blood sausage:2608:379:14.6:1.29:1.29:0:34.5
+25220350:Bratwurst:2608:333:13.72:2.85:0:0:29.18
+25220360:Bratwurst. with cheese:2608:337:14.16:2.94:0.23:0:29.44
+25220410:Bologna. NFS:2602:281:10.34:6.31:1.97:0:23.77
+25220425:Bologna. made from any kind of meat. reduced fat:2602:204:11.8:5.2:0:0:14.8
+25220435:Bologna. made from any kind of meat. reduced sodium:2602:281:10.34:6.31:1.97:0:23.77
+25220445:Bologna. made from any kind of meat. reduced fat and reduced sodium:2602:204:11.8:5.2:0:0:14.8
+25220650:Turkey or chicken and beef sausage:2608:268:17.6:5.64:0:0.2:19.14
+25220710:Chorizo:2608:455:24.1:1.86:0:0:38.27
+25220910:Head cheese:2602:157:13.83:0:0:0:10.9
+25221110:Knockwurst:2608:307:11.1:3.2:0:0:27.7
+25221210:Mortadella:2602:311:16.37:3.05:0:0:25.39
+25221215:Pastrami. NFS:2602:147:21.8:0.36:0.1:0:5.82
+25221220:Pastrami. made from any kind of meat. reduced fat:2602:115:18.62:0.64:0.29:0:3.69
+25221250:Pepperoni. NFS:2602:504:19.25:1.18:0:0:46.28
+25221255:Pepperoni. reduced fat:2602:378:21.07:0.72:0.26:0:31.65
+25221260:Pepperoni. reduced sodium:2602:504:19.25:1.18:0:0:46.28
+25221310:Polish sausage:2608:337:12.45:5.03:2.39:0:29.68
+25221350:Italian sausage:2608:344:19.12:4.27:1.86:0.1:27.31
+25221400:Sausage. NFS:2608:325:18.53:1.42:1.09:0:27.25
+25221405:Pork sausage:2608:325:18.53:1.42:1.09:0:27.25
+25221406:Pork sausage. reduced fat:2608:267:20.94:0.15:0:0:20.32
+25221408:Pork sausage. reduced sodium:2608:271:9.41:8.13:0:0:22.35
+25221450:Pork sausage rice links:2608:407:13.7:2.36:0:0:37.63
+25221460:Pork and beef sausage:2608:396:13.8:2.7:0:0:36.25
+25221500:Salami. NFS:2602:378:21.07:0.72:0.26:0:31.65
+25221505:Salami. made from any type of meat. reduced fat:2602:172:19.2:1.55:1.12:0.1:9.21
+25221515:Salami. made from any type of meat. reduced sodium:2602:378:21.07:0.72:0.26:0:31.65
+25221610:Scrapple. cooked:2608:227:8.57:14.96:0.21:0.3:14.76
+25221810:Thuringer:2608:362:17.45:3.33:0.85:0:30.43
+25221830:Turkey or chicken sausage:2608:204:17:10.92:0:0.3:10.3
+25221855:Turkey or chicken sausage. reduced sodium:2608:183:21.43:14.25:0.81:0:4.46
+25221860:Turkey or chicken sausage. reduced fat:2608:204:17:10.92:0:0.3:10.3
+25221870:Turkey or chicken and pork sausage:2608:307:22.7:0.7:0:0:23
+25221875:Turkey or chicken. pork. and beef sausage. reduced sodium:2608:271:9.41:8.13:0:0:22.35
+25221910:Vienna sausage. canned:2608:230:10.5:2.6:0:0:19.4
+25221950:Pickled sausage:2608:393:13.69:2.68:0:0:35.96
+25230110:Luncheon meat. NFS:2602:107:16.85:0.7:0:0:4.04
+25230210:Ham. prepackaged or deli. luncheon meat:2602:107:16.85:0.7:0:0:4.04
+25230220:Ham. prepackaged or deli. luncheon meat. reduced sodium:2602:107:16.85:0.7:0:0:4.04
+25230320:Chicken. prepackaged or deli. luncheon meat:2602:98:17.4:2.92:0.75:0:1.86
+25230340:Chicken. prepackaged or deli. luncheon meat. reduced sodium:2602:98:17.4:2.92:0.75:0:1.86
+25230420:Ham luncheon meat. loaf type:2602:180:16.5:4.2:0:0:10.3
+25230530:Ham and pork. canned luncheon meat. chopped. minced. pressed. spiced:2602:315:13.4:4.6:0:0:26.6
+25230540:Ham. pork and chicken. canned luncheon meat. chopped. minced. pressed. spiced. reduced fat and reduced sodium:2602:196:15.23:1.35:1.26:0:13.9
+25230550:Ham. pork. and chicken. canned luncheon meat. chopped. minced. pressed. spiced. reduced sodium:2602:293:12.5:3.4:0:0:25.1
+25230560:Liverwurst:2602:327:14.5:3.1:0:0:28.5
+25230610:Luncheon meat. loaf type:2602:225:11.23:8.46:8.46:1.5:15.95
+25230780:Turkey. prepackaged or deli. luncheon meat:2602:106:14.81:2.2:0.91:0:3.77
+25230785:Turkey. prepackaged or deli. luncheon meat. reduced sodium:2602:106:14.81:2.2:0.91:0:3.77
+25230800:Turkey ham. prepackaged or deli. luncheon meat:2602:124:19.6:2.93:0:0:3.8
+25231110:Beef. prepackaged or deli. luncheon meat:2602:115:18.62:0.64:0.29:0:3.69
+25231120:Beef. prepackaged or deli. luncheon meat. reduced sodium:2602:115:18.62:0.64:0.29:0:3.69
+25240000:Meat spread or potted meat. NFS:2602:235:7.66:11.94:0:0.2:17.34
+25240110:Chicken salad spread:2602:200:11.64:7.41:0:0:13.52
+25240220:Ham salad spread:2602:216:8.68:10.64:0:0:15.53
+26100100:Fish. NS as to type. raw:2402:109:18.12:0:0:0:3.57
+26100110:Fish. NS as to type. cooked. NS as to cooking method:2402:166:22.16:0.1:0.04:0:8.04
+26100120:Fish. NS as to type. baked or broiled. made with oil:2402:166:22.16:0.1:0.04:0:8.04
+26100121:Fish. NS as to type. baked or broiled. made with butter:2402:160:22.17:0.1:0.04:0:7.46
+26100122:Fish. NS as to type. baked or broiled. made with margarine:2402:153:22.14:0.13:0.04:0:6.67
+26100123:Fish. NS as to type. baked or broiled. made without fat:2402:137:22.82:0.1:0.04:0:4.5
+26100124:Fish. NS as to type. baked or broiled. made with cooking spray:2402:140:22.73:0.2:0.04:0:4.87
+26100130:Fish. NS as to type. coated. baked or broiled. made with oil:2402:218:19.21:12.52:1.12:0.6:9.68
+26100131:Fish. NS as to type. coated. baked or broiled. made with butter:2402:210:19.22:12.5:1.12:0.6:8.79
+26100132:Fish. NS as to type. coated. baked or broiled. made with margarine:2402:199:19.18:12.55:1.12:0.6:7.58
+26100133:Fish. NS as to type. coated. baked or broiled. made without fat:2402:176:20.09:13.1:1.17:0.6:4.26
+26100134:Fish. NS as to type. coated. baked or broiled. made with cooking spray:2402:179:20.03:13.14:1.17:0.6:4.55
+26100140:Fish. NS as to type. coated. fried. made with oil:2402:237:18.46:9.85:0.88:0.6:13.37
+26100141:Fish. NS as to type. coated. fried. made with butter:2402:222:18.53:9.86:0.88:0.6:11.73
+26100142:Fish. NS as to type. coated. fried. made with margarine:2402:206:18.47:9.93:0.88:0.6:9.87
+26100143:Fish. NS as to type. coated. fried. made without fat:2402:188:21.72:11.6:1.03:0.7:5.49
+26100144:Fish. NS as to type. coated. fried. made with cooking spray:2402:191:21.66:11.64:1.03:0.7:5.78
+26100160:Fish. NS as to type. steamed:2402:160:25.78:0:0:0:5.53
+26100170:Fish. NS as to type. dried:2402:290:62.82:0:0:0:2.37
+26100180:Fish. NS as to type. canned:2402:86:19.44:0:0:0:0.96
+26100190:Fish. NS as to type. smoked:2402:117:18.28:0:0:0:4.32
+26100200:Fish. NS as to type. from fast food:2402:219:13.49:16.89:0.45:0.9:10.79
+26100260:Fish stick. patty or nugget from fast food:2402:277:11.01:21.66:1.65:1.5:16.23
+26100270:Fish stick. patty or nugget from restaurant. home. or other place:2402:277:11.01:21.66:1.65:1.5:16.23
+26101110:Anchovy. cooked. NS as to cooking method:2402:210:28.89:0:0:0:9.71
+26101180:Anchovy. canned:2402:210:28.89:0:0:0:9.71
+26103110:Barracuda. cooked. NS as to cooking method:2402:226:24.56:0.1:0.04:0:13.33
+26103120:Barracuda. baked or broiled. fat added in cooking:2402:226:24.56:0.1:0.04:0:13.33
+26103121:Barracuda. baked or broiled. fat not added in cooking:2402:199:25.28:0.1:0.04:0:9.94
+26103130:Barracuda. coated. baked or broiled. fat added in cooking:2402:264:21.03:12.52:1.12:0.6:13.71
+26103131:Barracuda. coated. baked or broiled. fat not added in cooking:2402:224:22:13.1:1.17:0.6:8.47
+26103140:Barracuda. coated. fried:2402:279:20.13:9.85:0.88:0.6:17.06
+26103160:Barracuda. steamed or poached:2402:199:25.24:0:0:0:9.92
+26105110:Carp. cooked. NS as to cooking method:2402:253:18.22:9.85:0.88:0.6:15.11
+26105120:Carp. baked or broiled. fat added in cooking:2402:188:21.82:0.1:0.04:0:10.53
+26105121:Carp. baked or broiled. fat not added in cooking:2402:160:22.46:0.1:0.04:0:7.06
+26105130:Carp. coated. baked or broiled. fat added in cooking:2402:235:18.94:12.52:1.12:0.6:11.57
+26105131:Carp. coated. baked or broiled. fat not added in cooking:2402:194:19.81:13.1:1.17:0.6:6.24
+26105140:Carp. coated. fried:2402:253:18.22:9.85:0.88:0.6:15.11
+26105160:Carp. steamed or poached:2402:160:22.42:0:0:0:7.04
+26105190:Carp. smoked:2402:198:27.84:0:0:0:8.74
+26107110:Catfish. cooked. NS as to cooking method:2402:246:16:9.86:0.88:0.6:15.4
+26107120:Catfish. baked or broiled. made with oil:2402:178:18.64:0.1:0.04:0:10.94
+26107121:Catfish. baked or broiled. made with butter:2402:173:18.65:0.1:0.04:0:10.36
+26107122:Catfish. baked or broiled. made with margarine:2402:166:18.61:0.13:0.04:0:9.56
+26107123:Catfish. baked or broiled. made without fat:2402:150:19.18:0.1:0.04:0:7.48
+26107124:Catfish. baked or broiled. made with cooking spray:2402:154:19.11:0.2:0.04:0:7.85
+26107130:Catfish. coated. baked or broiled. made with oil:2402:228:16.51:12.52:1.12:0.6:11.89
+26107131:Catfish. coated. baked or broiled. made with butter:2402:220:16.53:12.5:1.12:0.6:11
+26107132:Catfish. coated. baked or broiled. made with margarine:2402:209:16.49:12.55:1.12:0.6:9.78
+26107133:Catfish. coated. baked or broiled. made without fat:2402:186:17.27:13.1:1.17:0.6:6.57
+26107134:Catfish. coated. baked or broiled. made with cooking spray:2402:189:17.22:13.14:1.17:0.6:6.85
+26107140:Catfish. coated. fried. made with oil:2402:246:16:9.85:0.88:0.6:15.4
+26107141:Catfish. coated. fried. made with butter:2402:231:16.07:9.86:0.88:0.6:13.75
+26107142:Catfish. coated. fried. made with margarine:2402:215:16.01:9.93:0.88:0.6:11.9
+26107143:Catfish. coated. fried. made without fat:2402:199:18.83:11.6:1.03:0.7:7.87
+26107144:Catfish. coated. fried. made with cooking spray:2402:201:18.77:11.64:1.03:0.7:8.16
+26107160:Catfish. steamed or poached:2402:150:19.15:0:0:0:7.47
+26109110:Cod. cooked. NS as to cooking method:2402:117:18.68:0.1:0.04:0:4.18
+26109120:Cod. baked or broiled. made with oil:2402:117:18.68:0.1:0.04:0:4.18
+26109121:Cod. baked or broiled. made with butter:2402:112:18.7:0.1:0.04:0:3.6
+26109122:Cod. baked or broiled. made with margarine:2402:105:18.66:0.13:0.04:0:2.81
+26109123:Cod. baked or broiled. made without fat:2402:87:19.24:0.1:0.04:0:0.52
+26109124:Cod. baked or broiled. made with cooking spray:2402:91:19.16:0.2:0.04:0:0.91
+26109130:Cod. coated. baked or broiled. made with oil:2402:181:16.55:12.52:1.12:0.6:6.73
+26109131:Cod. coated. baked or broiled. made with butter:2402:173:16.57:12.5:1.12:0.6:5.84
+26109132:Cod. coated. baked or broiled. made with margarine:2402:162:16.52:12.55:1.12:0.6:4.63
+26109133:Cod. coated. baked or broiled. made without fat:2402:137:17.31:13.1:1.17:0.6:1.17
+26109134:Cod. coated. baked or broiled. made with cooking spray:2402:140:17.26:13.14:1.17:0.6:1.47
+26109140:Cod. coated. fried. made with oil:2402:203:16.03:9.85:0.88:0.6:10.68
+26109141:Cod. coated. fried. made with butter:2402:188:16.1:9.86:0.88:0.6:9.03
+26109142:Cod. coated. fried. made with margarine:2402:172:16.05:9.93:0.88:0.6:7.18
+26109143:Cod. coated. fried. made without fat:2402:148:18.87:11.6:1.03:0.7:2.31
+26109144:Cod. coated. fried. made with cooking spray:2402:151:18.81:11.64:1.03:0.7:2.62
+26109160:Cod. steamed or poached:2402:87:19.2:0:0:0:0.52
+26109170:Cod. dried. salted:2402:290:62.82:0:0:0:2.37
+26109180:Cod. dried. salted. salt removed in water:2402:85:18.73:0:0:0:0.5
+26109190:Cod. smoked:2402:108:23.91:0:0:0:0.64
+26111110:Croaker. cooked. NS as to cooking method:2402:160:21.76:0.1:0.04:0:7.56
+26111120:Croaker. baked or broiled. fat added in cooking:2402:160:21.76:0.1:0.04:0:7.56
+26111121:Croaker. baked or broiled. fat not added in cooking:2402:131:22.4:0.1:0.04:0:4
+26111130:Croaker. coated. baked or broiled. fat added in cooking:2402:214:18.89:12.52:1.12:0.6:9.3
+26111131:Croaker. coated. baked or broiled. fat not added in cooking:2402:172:19.76:13.1:1.17:0.6:3.86
+26111140:Croaker. coated. fried:2402:233:18.17:9.85:0.88:0.6:13.03
+26111160:Croaker. steamed or poached:2402:131:22.36:0:0:0:3.99
+26113110:Eel. cooked. NS as to cooking method:2402:298:18.67:9.34:0.07:0.3:20.09
+26113160:Eel. steamed or poached:2402:231:23.19:0:0:0:14.66
+26113190:Eel. smoked:2402:287:28.73:0:0:0:18.17
+26115000:Flounder. raw:2402:70:12.41:0:0:0:1.93
+26115110:Flounder. cooked. NS as to cooking method:2402:204:13.59:9.86:0.88:0.6:11.98
+26115120:Flounder. baked or broiled. made with oil:2402:118:15.19:0.1:0.04:0:6.04
+26115121:Flounder. baked or broiled. made with butter:2402:113:15.2:0.1:0.04:0:5.46
+26115122:Flounder. baked or broiled. made with margarine:2402:106:15.17:0.13:0.04:0:4.67
+26115123:Flounder. baked or broiled. made without fat:2402:88:15.63:0.1:0.04:0:2.43
+26115124:Flounder. baked or broiled. made with cooking spray:2402:92:15.57:0.2:0.04:0:2.82
+26115130:Flounder. coated. baked or broiled. made with oil:2402:182:13.88:12.52:1.12:0.6:8.15
+26115131:Flounder. coated. baked or broiled. made with butter:2402:174:13.9:12.5:1.12:0.6:7.26
+26115132:Flounder. coated. baked or broiled. made with margarine:2402:163:13.86:12.55:1.12:0.6:6.05
+26115133:Flounder. coated. baked or broiled. made without fat:2402:138:14.52:13.1:1.17:0.6:2.65
+26115134:Flounder. coated. baked or broiled. made with cooking spray:2402:141:14.47:13.14:1.17:0.6:2.95
+26115140:Flounder. coated. fried. made with oil:2402:204:13.59:9.85:0.88:0.6:11.98
+26115141:Flounder. coated. fried. made with butter:2402:189:13.66:9.86:0.88:0.6:10.33
+26115142:Flounder. coated. fried. made with margarine:2402:173:13.6:9.93:0.88:0.6:8.47
+26115143:Flounder. coated. fried. made without fat:2402:149:15.99:11.6:1.03:0.7:3.84
+26115144:Flounder. coated. fried. made with cooking spray:2402:152:15.94:11.64:1.03:0.7:4.14
+26115160:Flounder. steamed or poached:2402:88:15.61:0:0:0:2.43
+26115190:Flounder. smoked:2402:169:29.98:0:0:0:4.66
+26117110:Haddock. cooked. NS as to cooking method:2402:123:19.97:0.1:0.04:0:4.23
+26117120:Haddock. baked or broiled. fat added in cooking:2402:123:19.97:0.1:0.04:0:4.23
+26117121:Haddock. baked or broiled. fat not added in cooking:2402:94:20.56:0.1:0.04:0:0.57
+26117130:Haddock. coated. baked or broiled. fat added in cooking:2402:186:17.53:12.52:1.12:0.6:6.76
+26117131:Haddock. coated. baked or broiled. fat not added in cooking:2402:142:18.33:13.1:1.17:0.6:1.21
+26117140:Haddock. coated. fried:2402:207:16.93:9.85:0.88:0.6:10.71
+26117160:Haddock. steamed or poached:2402:93:20.52:0:0:0:0.57
+26117190:Haddock. smoked:2402:116:25.23:0:0:0:0.96
+26118000:Halibut. raw:2402:91:18.56:0:0:0:1.33
+26118010:Halibut. cooked. NS as to cooking method:2402:144:22.71:0.1:0.04:0:5.3
+26118020:Halibut. baked or broiled. made with oil:2402:144:22.71:0.1:0.04:0:5.3
+26118021:Halibut. baked or broiled. made with butter:2402:139:22.72:0.1:0.04:0:4.73
+26118022:Halibut. baked or broiled. made with margarine:2402:132:22.68:0.13:0.04:0:3.93
+26118023:Halibut. baked or broiled. made without fat:2402:115:23.38:0.1:0.04:0:1.68
+26118024:Halibut. baked or broiled. made with cooking spray:2402:118:23.29:0.2:0.04:0:2.06
+26118030:Halibut. coated. baked or broiled. made with oil:2402:202:19.62:12.52:1.12:0.6:7.59
+26118031:Halibut. coated. baked or broiled. made with butter:2402:194:19.64:12.5:1.12:0.6:6.7
+26118032:Halibut. coated. baked or broiled. made with margarine:2402:183:19.59:12.55:1.12:0.6:5.49
+26118033:Halibut. coated. baked or broiled. made without fat:2402:159:20.52:13.1:1.17:0.6:2.07
+26118034:Halibut. coated. baked or broiled. made with cooking spray:2402:162:20.46:13.14:1.17:0.6:2.37
+26118040:Halibut. coated. fried. made with oil:2402:222:18.84:9.85:0.88:0.6:11.46
+26118041:Halibut. coated. fried. made with butter:2402:207:18.91:9.86:0.88:0.6:9.82
+26118042:Halibut. coated. fried. made with margarine:2402:191:18.85:9.93:0.88:0.6:7.96
+26118043:Halibut. coated. fried. made without fat:2402:170:22.17:11.6:1.03:0.7:3.24
+26118044:Halibut. coated. fried. made with cooking spray:2402:173:22.1:11.64:1.03:0.7:3.54
+26118050:Halibut. steamed or poached:2402:114:23.34:0:0:0:1.67
+26118060:Halibut. smoked:2402:219:44.61:0:0:0:3.2
+26119100:Herring. raw:2402:158:17.96:0:0:0:9.04
+26119110:Herring. cooked. NS as to cooking method:2402:226:21.98:0.1:0.04:0:14.74
+26119120:Herring. baked or broiled. fat added in cooking:2402:226:21.98:0.1:0.04:0:14.74
+26119121:Herring. baked or broiled. fat not added in cooking:2402:199:22.62:0.1:0.04:0:11.39
+26119130:Herring. coated. baked or broiled. fat added in cooking:2402:264:19.06:12.52:1.12:0.6:14.79
+26119131:Herring. coated. baked or broiled. fat not added in cooking:2402:224:19.93:13.1:1.17:0.6:9.6
+26119140:Herring. coated. fried:2402:279:18.33:9.85:0.88:0.6:18.04
+26119160:Herring. pickled. in cream sauce:2402:249:11.81:8.63:6.84:0:18.27
+26119170:Herring. dried. salted:2402:490:55.71:0:0:0:28.04
+26119180:Herring. pickled:2402:262:14.19:9.64:7.71:0:18
+26119190:Herring. smoked. kippered:2402:217:24.58:0:0:0:12.37
+26121100:Mackerel. raw:2402:189:19.08:0:0:0:11.91
+26121110:Mackerel. cooked. NS as to cooking method:2402:264:23.36:0.1:0.04:0:18.22
+26121120:Mackerel. baked or broiled. fat added in cooking:2402:264:23.36:0.1:0.04:0:18.22
+26121121:Mackerel. baked or broiled. fat not added in cooking:2402:239:24.05:0.1:0.04:0:14.98
+26121131:Mackerel. coated. baked or broiled. fat added in cooking:2402:293:20.12:12.52:1.12:0.6:17.45
+26121132:Mackerel. coated. baked or broiled. fat not added in cooking:2402:255:21.04:13.09:1.17:0.6:12.38
+26121140:Mackerel. coated. fried:2402:306:19.29:9.85:0.88:0.6:20.47
+26121160:Mackerel. pickled:2402:217:11.11:4.03:1.28:0.6:17.05
+26121180:Mackerel. canned:2402:156:23.19:0:0:0:6.3
+26121190:Mackerel. smoked:2402:200:25.54:0:0:0:10.04
+26123100:Mullet. raw:2402:117:19.35:0:0:0:3.79
+26123110:Mullet. cooked. NS as to cooking method:2402:244:19.51:9.86:0.88:0.6:13.56
+26123120:Mullet. baked or broiled. fat added in cooking:2402:176:23.68:0.1:0.04:0:8.31
+26123121:Mullet. baked or broiled. fat not added in cooking:2402:148:24.37:0.1:0.04:0:4.78
+26123130:Mullet. coated. baked or broiled. fat added in cooking:2402:226:20.36:12.52:1.12:0.6:9.88
+26123131:Mullet. coated. baked or broiled. fat not added in cooking:2402:184:21.29:13.1:1.17:0.6:4.47
+26123140:Mullet. coated. fried:2402:244:19.51:9.85:0.88:0.6:13.56
+26123160:Mullet. steamed or poached:2402:147:24.33:0:0:0:4.77
+26125100:Ocean perch. raw:2402:79:15.31:0:0:0:1.54
+26125110:Ocean perch. cooked. NS as to cooking method:2402:129:18.73:0.1:0.04:0:5.56
+26125120:Ocean perch. baked or broiled. fat added in cooking:2402:129:18.73:0.1:0.04:0:5.56
+26125121:Ocean perch. baked or broiled. fat not added in cooking:2402:100:19.29:0.1:0.04:0:1.94
+26125130:Ocean perch. coated. baked or broiled. fat added in cooking:2402:190:16.59:12.52:1.12:0.6:7.78
+26125131:Ocean perch. coated. baked or broiled. fat not added in cooking:2402:147:17.35:13.1:1.17:0.6:2.27
+26125140:Ocean perch. coated. fried:2402:212:16.07:9.85:0.88:0.6:11.64
+26125160:Ocean perch. steamed or poached:2402:99:19.25:0:0:0:1.94
+26127110:Perch. cooked. NS as to cooking method:2402:222:19.55:9.86:0.88:0.6:11.11
+26127120:Perch. baked or broiled. made with oil:2402:144:23.72:0.1:0.04:0:4.8
+26127121:Perch. baked or broiled. made with butter:2402:139:23.73:0.1:0.04:0:4.23
+26127122:Perch. baked or broiled. made with margarine:2402:132:23.7:0.13:0.04:0:3.43
+26127123:Perch. baked or broiled. made without fat:2402:115:24.42:0.1:0.04:0:1.16
+26127124:Perch. baked or broiled. made with cooking spray:2402:118:24.33:0.2:0.04:0:1.55
+26127130:Perch. coated. baked or broiled. made with oil:2402:202:20.4:12.52:1.12:0.6:7.2
+26127131:Perch. coated. baked or broiled. made with butter:2402:194:20.41:12.5:1.12:0.6:6.32
+26127132:Perch. coated. baked or broiled. made with margarine:2402:183:20.36:12.55:1.12:0.6:5.11
+26127133:Perch. coated. baked or broiled. made without fat:2402:159:21.33:13.1:1.17:0.6:1.67
+26127134:Perch. coated. baked or broiled. made with cooking spray:2402:162:21.27:13.14:1.17:0.6:1.97
+26127140:Perch. coated. fried. made with oil:2402:222:19.55:9.85:0.88:0.6:11.11
+26127141:Perch. coated. fried. made with butter:2402:207:19.62:9.86:0.88:0.6:9.47
+26127142:Perch. coated. fried. made with margarine:2402:191:19.56:9.93:0.88:0.6:7.61
+26127143:Perch. coated. fried. made without fat:2402:170:23:11.6:1.03:0.7:2.82
+26127144:Perch. coated. fried. made with cooking spray:2402:173:22.94:11.64:1.03:0.7:3.13
+26127160:Perch. steamed or poached:2402:114:24.38:0:0:0:1.16
+26129110:Pike. cooked. NS as to cooking method:2402:236:19.15:13.87:1.22:0.9:11.13
+26129120:Pike. baked or broiled. fat added in cooking:2402:140:23.56:0.1:0.04:0:4.52
+26129121:Pike. baked or broiled. fat not added in cooking:2402:111:24.26:0.1:0.04:0:0.87
+26129130:Pike. coated. baked or broiled. fat added in cooking:2402:199:20.28:12.52:1.12:0.6:6.99
+26129131:Pike. coated. baked or broiled. fat not added in cooking:2402:156:21.2:13.1:1.17:0.6:1.44
+26129140:Pike. coated. fried:2402:219:19.44:9.85:0.88:0.6:10.92
+26129160:Pike. steamed or poached:2402:111:24.22:0:0:0:0.87
+26131100:Pompano. raw:2402:164:18.48:0:0:0:9.47
+26131110:Pompano. cooked. NS as to cooking method:2402:233:22.61:0.1:0.04:0:15.26
+26131120:Pompano. baked or broiled. fat added in cooking:2402:233:22.61:0.1:0.04:0:15.26
+26131121:Pompano. baked or broiled. fat not added in cooking:2402:207:23.28:0.1:0.04:0:11.93
+26131130:Pompano. coated. baked or broiled. fat added in cooking:2402:270:19.55:12.52:1.12:0.6:15.19
+26131131:Pompano. coated. baked or broiled. fat not added in cooking:2402:230:20.44:13.1:1.17:0.6:10.02
+26131140:Pompano. coated. fried:2402:284:18.77:9.85:0.88:0.6:18.41
+26131160:Pompano. steamed or poached:2402:206:23.24:0:0:0:11.91
+26131190:Pompano. smoked:2402:192:21.58:0:0:0:11.06
+26133100:Porgy. raw:2402:105:18.88:0:0:0:2.73
+26133110:Porgy. cooked. NS as to cooking method:2402:161:23.1:0.1:0.04:0:7.02
+26133120:Porgy. baked or broiled. fat added in cooking:2402:161:23.1:0.1:0.04:0:7.02
+26133121:Porgy. baked or broiled. fat not added in cooking:2402:133:23.78:0.1:0.04:0:3.44
+26133130:Porgy. coated. baked or broiled. fat added in cooking:2402:215:19.92:12.52:1.12:0.6:8.89
+26133131:Porgy. coated. baked or broiled. fat not added in cooking:2402:173:20.83:13.1:1.17:0.6:3.44
+26133140:Porgy. coated. fried:2402:234:19.11:9.85:0.88:0.6:12.66
+26133160:Porgy. steamed or poached:2402:132:23.74:0:0:0:3.43
+26135110:Ray. cooked. NS as to cooking method:2402:192:25.67:0.1:0.04:0:9.2
+26135120:Ray. baked or broiled. fat added in cooking:2402:192:25.67:0.1:0.04:0:9.2
+26135121:Ray. baked or broiled. fat not added in cooking:2402:164:26.43:0.1:0.04:0:5.68
+26135130:Ray. coated. baked or broiled. fat added in cooking:2402:238:21.88:12.52:1.12:0.6:10.56
+26135131:Ray. coated. baked or broiled. fat not added in cooking:2402:197:22.88:13.1:1.17:0.6:5.17
+26135140:Ray. coated. fried:2402:255:20.9:9.85:0.88:0.6:14.18
+26135160:Ray. steamed or poached:2402:163:26.38:0:0:0:5.67
+26137100:Salmon. raw:2402:127:20.5:0:0:0:4.4
+26137110:Salmon. cooked. NS as to cooking method:2402:188:25.08:0.1:0.04:0:9.06
+26137120:Salmon. baked or broiled. made with oil:2402:188:25.08:0.1:0.04:0:9.06
+26137121:Salmon. baked or broiled. made with butter:2402:183:25.08:0.1:0.04:0:8.48
+26137122:Salmon. baked or broiled. made with margarine:2402:176:25.05:0.13:0.04:0:7.68
+26137123:Salmon. baked or broiled. made without fat:2402:160:25.82:0.1:0.04:0:5.54
+26137124:Salmon. baked or broiled. made with cooking spray:2402:164:25.72:0.2:0.04:0:5.92
+26137130:Salmon. coated. baked or broiled. made with oil:2402:235:21.43:12.52:1.12:0.6:10.45
+26137131:Salmon. coated. baked or broiled. made with butter:2402:227:21.44:12.5:1.12:0.6:9.56
+26137132:Salmon. coated. baked or broiled. made with margarine:2402:217:21.4:12.55:1.12:0.6:8.35
+26137133:Salmon. coated. baked or broiled. made without fat:2402:194:22.42:13.1:1.17:0.6:5.07
+26137134:Salmon. coated. baked or broiled. made with cooking spray:2402:197:22.35:13.14:1.17:0.6:5.35
+26137140:Salmon. coated. fried. made with oil:2402:253:20.5:9.85:0.88:0.6:14.08
+26137141:Salmon. coated. fried. made with butter:2402:238:20.57:9.86:0.88:0.6:12.44
+26137142:Salmon. coated. fried. made with margarine:2402:222:20.51:9.93:0.88:0.6:10.58
+26137143:Salmon. coated. fried. made without fat:2402:207:24.12:11.6:1.03:0.7:6.32
+26137144:Salmon. coated. fried. made with cooking spray:2402:209:24.05:11.64:1.03:0.7:6.61
+26137160:Salmon. steamed or poached:2402:160:25.78:0:0:0:5.53
+26137170:Salmon. dried:2402:397:64.06:0:0:0:13.75
+26137180:Salmon. canned:2402:137:20.55:0:0:0:5.48
+26137190:Salmon. smoked:2402:117:18.28:0:0:0:4.32
+26139110:Sardines. cooked:2402:208:24.62:0:0:0:11.45
+26139170:Sardines. dried:2402:406:46.06:0:0:0:23.18
+26139180:Sardines. canned in oil:2402:208:24.62:0:0:0:11.45
+26139190:Sardines. skinless. boneless. packed in water:2402:185:20.86:0.54:0.43:0.1:10.45
+26141110:Sea bass. cooked. NS as to cooking method:2402:152:22.55:0.1:0.04:0:6.12
+26141120:Sea bass. baked or broiled. fat added in cooking:2402:152:22.55:0.1:0.04:0:6.12
+26141121:Sea bass. baked or broiled. fat not added in cooking:2402:122:23.22:0.1:0.04:0:2.52
+26141130:Sea bass. coated. baked or broiled. fat added in cooking:2402:207:19.5:12.52:1.12:0.6:8.21
+26141131:Sea bass. coated. baked or broiled. fat not added in cooking:2402:165:20.39:13.1:1.17:0.6:2.72
+26141140:Sea bass. coated. fried:2402:227:18.73:9.85:0.88:0.6:12.04
+26141160:Sea bass. steamed or poached:2402:122:23.18:0:0:0:2.52
+26141180:Sea bass. pickled:2402:155:11.01:4.03:1.28:0.6:10.26
+26143110:Shark. cooked. NS as to cooking method:2402:192:25.67:0.1:0.04:0:9.2
+26143120:Shark. baked or broiled. fat added in cooking:2402:192:25.67:0.1:0.04:0:9.2
+26143121:Shark. baked or broiled. fat not added in cooking:2402:164:26.43:0.1:0.04:0:5.68
+26143130:Shark. coated. baked or broiled. fat added in cooking:2402:238:21.88:12.52:1.12:0.6:10.56
+26143131:Shark. coated. baked or broiled. fat not added in cooking:2402:197:22.88:13.1:1.17:0.6:5.17
+26143140:Shark. coated. fried:2402:255:20.9:9.85:0.88:0.6:14.18
+26143160:Shark. steamed or poached:2402:163:26.38:0:0:0:5.67
+26147110:Sturgeon. cooked. NS as to cooking method:2402:161:19.75:0.1:0.04:0:8.62
+26147120:Sturgeon. baked or broiled. fat added in cooking:2402:161:19.75:0.1:0.04:0:8.62
+26147130:Sturgeon. steamed:2402:132:20.3:0:0:0:5.08
+26147140:Sturgeon. coated. fried:2402:234:16.77:9.85:0.88:0.6:13.78
+26147190:Sturgeon. smoked:2402:173:31.2:0:0:0:4.4
+26149110:Swordfish. cooked. NS as to cooking method:2402:209:24.06:0.1:0.04:0:11.81
+26149120:Swordfish. baked or broiled. fat added in cooking:2402:209:24.06:0.1:0.04:0:11.81
+26149121:Swordfish. baked or broiled. fat not added in cooking:2402:182:24.76:0.1:0.04:0:8.38
+26149130:Swordfish. coated. baked or broiled. fat added in cooking:2402:251:20.65:12.52:1.12:0.6:12.56
+26149131:Swordfish. coated. baked or broiled. fat not added in cooking:2402:211:21.59:13.1:1.17:0.6:7.26
+26149140:Swordfish. coated. fried:2402:267:19.78:9.85:0.88:0.6:16
+26149160:Swordfish. steamed or poached:2402:181:24.72:0:0:0:8.36
+26151110:Trout. cooked. NS as to cooking method:2402:205:24.4:0.1:0.04:0:11.24
+26151120:Trout. baked or broiled. made with oil:2402:205:24.4:0.1:0.04:0:11.24
+26151121:Trout. baked or broiled. made with butter:2402:200:24.4:0.1:0.04:0:10.65
+26151122:Trout. baked or broiled. made with margarine:2402:193:24.37:0.13:0.04:0:9.86
+26151123:Trout. baked or broiled. made without fat:2402:178:25.12:0.1:0.04:0:7.79
+26151124:Trout. baked or broiled. made with cooking spray:2402:181:25.02:0.2:0.04:0:8.15
+26151130:Trout. coated. baked or broiled. made with oil:2402:248:20.91:12.52:1.12:0.6:12.12
+26151131:Trout. coated. baked or broiled. made with butter:2402:240:20.92:12.5:1.12:0.6:11.22
+26151132:Trout. coated. baked or broiled. made with margarine:2402:230:20.88:12.55:1.12:0.6:10.01
+26151133:Trout. coated. baked or broiled. made without fat:2402:208:21.87:13.1:1.17:0.6:6.8
+26151134:Trout. coated. baked or broiled. made with cooking spray:2402:210:21.8:13.14:1.17:0.6:7.09
+26151140:Trout. coated. fried. made with oil:2402:265:20.02:9.85:0.88:0.6:15.6
+26151141:Trout. coated. fried. made with butter:2402:250:20.09:9.86:0.88:0.6:13.96
+26151142:Trout. coated. fried. made with margarine:2402:234:20.03:9.93:0.88:0.6:12.1
+26151143:Trout. coated. fried. made without fat:2402:221:23.56:11.6:1.03:0.7:8.11
+26151144:Trout. coated. fried. made with cooking spray:2402:223:23.49:11.64:1.03:0.7:8.4
+26151160:Trout. steamed or poached:2402:177:25.08:0:0:0:7.77
+26151190:Trout. smoked:2402:251:35.47:0:0:0:10.99
+26153100:Tuna. fresh. raw:2402:109:24.4:0:0:0:0.49
+26153110:Tuna. fresh. cooked. NS as to cooking method:2402:166:29.85:0.1:0.04:0:4.28
+26153120:Tuna. fresh. baked or broiled. fat added in cooking:2402:166:29.85:0.1:0.04:0:4.28
+26153122:Tuna. fresh. baked or broiled. fat not added in cooking:2402:138:30.73:0.1:0.04:0:0.62
+26153130:Tuna. fresh. coated. baked or broiled. fat added in cooking:2402:218:25.08:12.52:1.12:0.6:6.8
+26153131:Tuna. fresh. coated. baked or broiled. fat not added:2402:177:26.22:13.1:1.17:0.6:1.25
+26153140:Tuna. fresh. coated. fried:2402:237:23.82:9.85:0.88:0.6:10.75
+26153160:Tuna. fresh. steamed or poached:2402:137:30.68:0:0:0:0.62
+26153170:Tuna. fresh. dried:2402:341:76.25:0:0:0:1.53
+26153190:Tuna. fresh. smoked:2402:200:25.54:0:0:0:10.04
+26155110:Tuna. canned. NS as to oil or water pack:2402:86:19.44:0:0:0:0.96
+26155180:Tuna. canned. oil pack:2402:198:29.13:0:0:0:8.21
+26155190:Tuna. canned. water pack:2402:86:19.44:0:0:0:0.96
+26157110:Whiting. cooked. NS as to cooking method:2402:221:18.62:9.86:0.88:0.6:11.44
+26157120:Whiting. baked or broiled. made with oil:2402:143:22.4:0.1:0.04:0:5.28
+26157121:Whiting. baked or broiled. made with butter:2402:138:22.41:0.1:0.04:0:4.7
+26157122:Whiting. baked or broiled. made with margarine:2402:131:22.38:0.13:0.04:0:3.91
+26157123:Whiting. baked or broiled. made without fat:2402:114:23.06:0.1:0.04:0:1.65
+26157124:Whiting. baked or broiled. made with cooking spray:2402:117:22.98:0.2:0.04:0:2.04
+26157130:Whiting. coated. baked or broiled. made with oil:2402:201:19.39:12.52:1.12:0.6:7.57
+26157131:Whiting. coated. baked or broiled. made with butter:2402:193:19.4:12.5:1.12:0.6:6.68
+26157132:Whiting. coated. baked or broiled. made with margarine:2402:182:19.36:12.55:1.12:0.6:5.47
+26157133:Whiting. coated. baked or broiled. made without fat:2402:158:20.28:13.1:1.17:0.6:2.05
+26157134:Whiting. coated. baked or broiled. made with cooking spray:2402:161:20.22:13.14:1.17:0.6:2.35
+26157140:Whiting. coated. fried. made with oil:2402:221:18.62:9.85:0.88:0.6:11.45
+26157141:Whiting. coated. fried. made with butter:2402:206:18.7:9.86:0.88:0.6:9.8
+26157142:Whiting. coated. fried. made with margarine:2402:190:18.64:9.93:0.88:0.6:7.94
+26157143:Whiting. coated. fried. made without fat:2402:169:21.92:11.6:1.03:0.7:3.22
+26157144:Whiting. coated. fried. made with cooking spray:2402:172:21.85:11.64:1.03:0.7:3.52
+26157160:Whiting. steamed or poached:2402:113:23.02:0:0:0:1.65
+26158000:Tilapia. cooked. NS as to cooking method:2402:150:24.57:0.1:0.04:0:5.76
+26158010:Tilapia. baked or broiled. made with oil:2402:150:24.57:0.1:0.04:0:5.76
+26158011:Tilapia. baked or broiled. made with butter:2402:145:24.57:0.1:0.04:0:5.18
+26158012:Tilapia. baked or broiled. made with margarine:2402:138:24.54:0.13:0.04:0:4.38
+26158013:Tilapia. baked or broiled. made without fat:2402:121:25.29:0.1:0.04:0:2.14
+26158014:Tilapia. baked or broiled. made with cooking spray:2402:125:25.2:0.2:0.04:0:2.53
+26158020:Tilapia. coated. baked or broiled. made  with oil:2402:206:21.04:12.52:1.12:0.6:7.93
+26158021:Tilapia. coated. baked or broiled. made with butter:2402:198:21.05:12.5:1.12:0.6:7.05
+26158022:Tilapia. coated. baked or broiled. made with margarine:2402:188:21:12.55:1.12:0.6:5.83
+26158023:Tilapia. coated. baked or broiled. made without fat:2402:164:22:13.1:1.17:0.6:2.43
+26158024:Tilapia. coated. baked or broiled. made with cooking spray:2402:166:21.94:13.14:1.17:0.6:2.73
+26158030:Tilapia. coated. fried. made with oil:2402:226:20.14:9.85:0.88:0.6:11.78
+26158031:Tilapia. coated. fried. made with butter:2402:212:20.21:9.86:0.88:0.6:10.13
+26158032:Tilapia. coated. fried. made with margarine:2402:195:20.15:9.93:0.88:0.6:8.28
+26158033:Tilapia. coated. fried. made without fat:2402:175:23.7:11.6:1.03:0.7:3.61
+26158034:Tilapia. coated. fried. made with cooking spray:2402:178:23.63:11.64:1.03:0.7:3.91
+26158050:Tilapia. steamed or poached:2402:121:25.25:0:0:0:2.14
+26203110:Frog legs. NS as to cooking method:2404:214:17.62:10.21:0.91:0.6:10.97
+26203160:Frog legs. steamed:2404:92:20.62:0:0:0:0.38
+26205110:Octopus. cooked. NS as to cooking method:2404:222:16.3:12.16:0.91:0.6:11.63
+26205160:Octopus. steamed:2404:163:29.62:4.37:0:0:2.07
+26205170:Octopus. dried:2404:311:56.52:8.34:0:0:3.94
+26205180:Octopus. dried. boiled:2404:163:29.69:4.38:0:0:2.07
+26205190:Octopus. smoked:2404:164:29.82:4.4:0:0:2.08
+26207110:Roe. shad. cooked:2402:208:27.31:1.93:0.04:0:11.53
+26209100:Roe. herring:2402:143:22.32:1.5:0:0:6.42
+26211100:Roe. sturgeon:2402:264:24.6:4:0:0:17.9
+26213100:Squid. raw:2404:92:15.58:3.08:0:0:1.38
+26213120:Squid. baked or broiled. fat added in cooking:2404:142:18.59:3.77:0.03:0:5.23
+26213121:Squid. baked or broiled. fat not added in cooking:2404:113:19.14:3.88:0.04:0:1.7
+26213130:Squid. coated. baked or broiled. fat added in cooking:2404:198:16.42:15.01:1.09:0.6:7.44
+26213131:Squid. coated. baked or broiled. fat not added in cooking:2404:156:17.17:15.7:1.14:0.6:2.06
+26213140:Squid. coated. fried:2404:231:16.89:12.94:0.91:0.6:11.93
+26213160:Squid. steamed or boiled:2404:183:31.02:6.13:0:0:2.75
+26213170:Squid. dried:2404:348:58.94:11.65:0:0:5.22
+26213180:Squid. pickled:2404:93:14.93:2.96:0.01:0:1.32
+26213190:Squid. canned:2404:106:17.9:3.54:0:0:1.59
+26215120:Turtle. cooked. NS as to cooking method:2404:138:23.62:0.09:0.03:0:4.18
+26301110:Abalone. cooked. NS as to cooking method:2404:157:20.4:7.26:0.03:0:4.49
+26301140:Abalone. floured or breaded. fried:2404:242:18.24:15.53:0.91:0.6:11.38
+26301160:Abalone. steamed or poached:2404:209:34.05:11.97:0:0:1.51
+26303100:Clams. raw:2404:86:14.67:3.57:0:0:0.96
+26303110:Clams. cooked. NS as to cooking method:2404:135:17.5:4.35:0.03:0:4.73
+26303120:Clams. baked or broiled. fat added in cooking:2404:135:17.5:4.35:0.03:0:4.73
+26303121:Clams. baked or broiled. fat not added in cooking:2404:106:18.02:4.48:0.04:0:1.18
+26303130:Clams. coated. baked or broiled. fat added in cooking:2404:192:15.59:15.46:1.09:0.6:7.06
+26303131:Clams. coated. baked or broiled. fat not added in cooking:2404:150:16.3:16.17:1.14:0.6:1.66
+26303140:Clams. coated. fried:2404:226:16.09:13.37:0.91:0.6:11.56
+26303160:Clams. steamed or boiled:2404:171:29.21:7.11:0:0:1.91
+26303180:Clams. canned:2404:108:18.34:4.46:0:0:1.2
+26303190:Clams. smoked. in oil:2404:192:16.64:4.05:0:0:11.82
+26305110:Crab. cooked. NS as to cooking method:2404:82:17.76:0:0:0:0.74
+26305120:Crab. baked or broiled. fat added in cooking:2404:131:21.33:0.09:0.03:0:4.47
+26305121:Crab. baked or broiled. fat not added in cooking:2404:102:21.96:0.1:0.04:0:0.91
+26305130:Crab. coated. baked or broiled. fat added in cooking:2404:189:18.51:12.21:1.09:0.6:6.86
+26305131:Crab. coated. baked or broiled. fat not added in cooking:2404:147:19.36:12.77:1.14:0.6:1.45
+26305160:Crab. hard shell. steamed:2404:82:17.76:0:0:0:0.74
+26305180:Crab. canned:2404:83:17.88:0:0:0:0.74
+26307140:Crab. soft shell. coated. fried:2404:223:18.93:10.21:0.91:0.6:11.36
+26309140:Crayfish. coated. fried:2404:218:17.24:10.21:0.91:0.6:11.55
+26309160:Crayfish. boiled or steamed:2404:81:16.66:0:0:0:1.19
+26311110:Lobster. cooked. NS as to cooking method:2404:88:18.88:0:0:0:0.85
+26311120:Lobster. baked or broiled. fat added in cooking:2404:124:19.71:0.09:0.03:0:4.48
+26311121:Lobster. baked or broiled. fat not added in cooking:2404:95:20.29:0.1:0.04:0:0.92
+26311140:Lobster. coated. fried:2404:218:17.72:10.21:0.91:0.6:11.37
+26311160:Lobster. steamed or boiled:2404:88:18.88:0:0:0:0.85
+26311170:Lobster. coated. baked or broiled. fat added in cooking:2404:184:17.27:12.21:1.09:0.6:6.87
+26311171:Lobster. coated. baked or broiled. fat not added in cooking:2404:142:18.07:12.77:1.14:0.6:1.46
+26311180:Lobster. canned:2404:89:19:0:0:0:0.86
+26313100:Mussels. raw:2404:86:11.9:3.69:0:0:2.24
+26313110:Mussels. cooked. NS as to cooking method:2404:171:23.7:7.35:0:0:4.46
+26313160:Mussels. steamed or poached:2404:171:23.7:7.35:0:0:4.46
+26315100:Oysters. raw:2404:51:5.71:2.72:0.62:0:1.71
+26315110:Oysters. cooked. NS as to cooking method:2404:195:8.16:12.62:1.46:0.6:12.22
+26315120:Oysters. baked or broiled. fat added in cooking:2404:93:6.82:3.34:0.77:0:5.62
+26315121:Oysters. baked or broiled. fat not added in cooking:2404:63:7.02:3.44:0.8:0:2.1
+26315130:Oysters. steamed:2404:102:11.37:5.42:1.24:0:3.4
+26315140:Oysters. coated. fried:2404:195:8.16:12.62:1.46:0.6:12.22
+26315160:Oysters. coated. baked or broiled. fat added in cooking:2404:160:7.43:14.69:1.66:0.6:7.74
+26315161:Oysters. coated. baked or broiled. fat not added in cooking:2404:117:7.77:15.36:1.73:0.6:2.38
+26315180:Oysters. canned:2404:74:7.67:4.25:0:0:2.68
+26315190:Oysters. smoked:2404:82:9.2:4.38:1:0:2.76
+26317110:Scallops. cooked. NS as to cooking method:2404:114:14.39:3.89:0.03:0:4.17
+26317120:Scallops. baked or broiled. fat added in cooking:2404:114:14.39:3.89:0.03:0:4.17
+26317121:Scallops. baked or broiled. fat not added in cooking:2404:85:14.81:4:0.04:0:0.6
+26317130:Scallops. steamed or boiled:2404:137:24.01:6.33:0:0:0.98
+26317140:Scallops. coated. fried:2404:211:13.78:13.03:0.91:0.6:11.14
+26317160:Scallops. coated. baked or broiled. fat added in cooking:2404:177:13.21:15.1:1.09:0.6:6.63
+26317161:Scallops. coated. baked or broiled. fat not added in cooking:2404:134:13.82:15.8:1.14:0.6:1.22
+26319110:Shrimp. cooked. NS as to cooking method:2404:212:15.15:11.02:0.91:0.6:11.6
+26319120:Shrimp. baked or broiled. made with oil:2404:117:16.24:1.18:0.03:0:4.79
+26319121:Shrimp. baked or broiled. made with butter:2404:112:16.25:1.18:0.04:0:4.23
+26319122:Shrimp. baked or broiled. made with margarine:2404:105:16.22:1.21:0.03:0:3.45
+26319123:Shrimp. baked or broiled. made without fat:2404:87:16.72:1.21:0.04:0:1.24
+26319124:Shrimp. baked or broiled. made with cooking spray:2404:91:16.65:1.31:0.04:0:1.62
+26319130:Shrimp. steamed or boiled:2404:91:17.37:1.16:0:0:1.29
+26319140:Shrimp. coated. fried. made with oil:2404:212:15.15:11.02:0.91:0.6:11.6
+26319141:Shrimp. coated. fried. made with butter:2404:197:15.22:11.02:0.91:0.6:9.89
+26319142:Shrimp. coated. fried. made with margarine:2404:181:15.16:11.1:0.91:0.6:7.97
+26319143:Shrimp. coated. fried. made without fat:2404:147:16.77:12.2:1:0.7:2.84
+26319144:Shrimp. coated. fried. made with cooking spray:2404:149:16.72:12.24:1:0.7:3.14
+26319145:Shrimp. coated. fried. from fast food / restaurant:2404:308:12.67:22.29:0.91:1.5:18.67
+26319160:Shrimp. coated. baked or broiled. made with oil:2404:178:14.62:13.04:1.09:0.6:7.11
+26319161:Shrimp. coated. baked or broiled. made with butter:2404:170:14.65:13.02:1.1:0.6:6.24
+26319162:Shrimp. coated. baked or broiled. made with margarine:2404:160:14.6:13.06:1.09:0.6:5.06
+26319163:Shrimp. coated. baked or broiled. made without fat:2404:136:15.29:13.64:1.14:0.6:1.71
+26319164:Shrimp. coated. baked or broiled. made with cooking spray:2404:138:15.25:13.67:1.14:0.6:2
+26319170:Shrimp. dried:2404:253:51.7:0:0:0:3.44
+26319180:Shrimp. canned:2404:100:20.42:0:0:0:1.36
+26321110:Snails. cooked. NS as to cooking method:2404:139:19.21:2.48:0.03:0:5.26
+27111000:Beef with tomato-based sauce:3002:149:21.72:1.58:1.06:0.4:6.36
+27111100:Beef goulash:3002:102:13.69:2.79:1.07:0.4:3.78
+27111200:Beef burgundy:3002:146:18.5:4.06:1.45:0.7:5.94
+27111300:Beef stew. no potatoes. tomato-based sauce. Mexican style:3002:115:14.8:3.33:1.13:0.5:4.39
+27111310:Beef stew. no potatoes. tomato-based sauce. with chili peppers. Mexican style:3002:97:11.66:5.23:2.33:0.8:3.34
+27111400:Chili con carne. NS as to beans:3002:98:8.05:7.22:2.28:2.4:4.21
+27111405:Chili con carne with beans. from restaurant:3002:157:12.56:4.57:2.27:1.4:9.79
+27111406:Chili con carne with beans. home recipe:3002:98:8.05:7.21:2.28:2.4:4.21
+27111407:Chili con carne with beans. canned:3002:107:5.8:13.1:1.87:3.3:3.47
+27111410:Chili con carne with beans:3002:104:6.88:10.71:2.21:2.7:3.81
+27111420:Chili con carne without beans:3002:118:7.53:6.1:1.1:0.5:7.1
+27111430:Chili con carne. NS as to beans. with cheese:3002:123:6.69:12.58:1.8:3.1:5.03
+27111440:Chili con carne with beans and cheese:3002:123:6.69:12.58:1.8:3.1:5.03
+27111500:Beef sloppy joe. no bun:3002:138:10.78:8.75:6.35:0.9:6.77
+27112000:Beef with gravy:3002:156:21.56:1.58:0.09:0:7.05
+27112010:Salisbury steak with gravy:3002:149:6.98:6.78:0.26:1:10.47
+27113000:Beef with cream or white sauce:3002:186:22.5:2.74:1.31:0.1:9.44
+27113100:Beef stroganoff:3002:149:9.98:6:1.35:0.7:9.45
+27113200:Creamed chipped or dried beef:3002:131:7.57:7.55:4.76:0.1:7.95
+27113300:Swedish meatballs with cream or white sauce:3002:170:12.43:7.22:2.84:0.3:9.88
+27114000:Beef with mushroom sauce:3002:163:21.96:1.84:0.59:0.1:7.53
+27115000:Beef with soy-based sauce:3404:184:15.83:3.37:1.16:0.5:12.21
+27115100:Steak teriyaki:3404:198:28.86:1.94:1.76:0:8.25
+27116100:Beef curry:3002:104:6.28:6.83:1.47:1.7:5.93
+27116200:Beef with barbecue sauce:3002:187:20.86:11.75:9.58:0.3:6.23
+27116300:Beef with sweet and sour sauce:3404:183:11.6:16.28:9.2:0.8:8.24
+27116350:Stewed seasoned ground beef. Mexican style:3002:194:13.5:1.31:0.41:0.2:14.58
+27116400:Steak tartare:3002:197:15.67:1.56:0.47:0.4:13.84
+27118110:Meatballs. Puerto Rican style:3002:239:13.82:6.87:1.71:0.8:17.19
+27118120:Stewed seasoned ground beef. Puerto Rican style:3002:296:13.12:3.92:1.75:1:25.29
+27118130:Stewed dried beef. Puerto Rican style:3002:253:17.74:3.89:2.59:0.8:18.76
+27118140:Stuffed pot roast. Puerto Rican style. NFS:3002:253:18.64:1.2:0.5:0.4:18.84
+27118180:Beef stew. meat with gravy. no potatoes. Puerto Rican style:3002:232:16.54:1.89:0.82:0.5:17.34
+27120020:Ham or pork with gravy:3002:160:20.15:1.58:0.09:0:7.49
+27120030:Ham or pork with barbecue sauce:3002:205:21.04:12.69:10.35:0.3:7.19
+27120060:Sweet and sour pork:3404:194:11.6:18.09:9.26:0.9:8.31
+27120080:Ham stroganoff:3002:130:7.52:4.97:1.88:0.7:9.04
+27120090:Ham or pork with mushroom sauce:3002:166:20.54:1.84:0.59:0.1:7.97
+27120100:Ham or pork with tomato-based sauce:3002:153:20.3:1.59:1.06:0.4:6.8
+27120110:Sausage with tomato-based sauce:3002:234:13.28:2.58:1.82:0.4:19.09
+27120120:Sausage gravy:3002:163:6.67:7.31:4.4:0.1:11.96
+27120130:Pork stew. no potatoes. tomato-based sauce. Mexican style:3002:112:14.31:3.33:1.13:0.5:4.27
+27120150:Pork or ham with soy-based sauce:3404:187:14.84:3.37:1.16:0.5:12.52
+27120160:Pork curry:3002:89:6.17:6.64:1.46:1.5:4.32
+27120210:Frankfurter or hot dog. with chili. no bun:3002:213:8.86:8.4:1.57:1.7:15.77
+27120250:Frankfurters or hot dogs with tomato-based sauce:3002:238:8.94:3.77:1.92:0.4:20.71
+27121000:Pork with chili and tomatoes:3002:97:11.75:3.03:1.74:0.7:4.02
+27121010:Stewed pork. Puerto Rican style:3002:197:17.94:2.77:1.3:0.7:12.48
+27121410:Chili con carne with beans. made with pork:3002:106:8.07:7.2:2.28:2.4:5.12
+27130010:Lamb or mutton with gravy:3002:219:17.29:1.58:0.09:0:15.37
+27130050:Lamb or mutton goulash:3002:124:13.07:3.1:1.19:0.4:6.38
+27130100:Lamb or mutton curry:3002:94:4.48:7.05:1.52:1.7:5.58
+27133010:Stewed goat. Puerto Rican style:3002:260:22.39:2:0.89:0.5:17.71
+27135010:Veal with gravy:3002:161:25.4:1.58:0.09:0:5.19
+27135020:Veal scallopini:3002:240:18.39:1.54:0.55:0.4:17.57
+27135030:Veal with cream sauce:3002:191:26.33:2.74:1.31:0.1:7.58
+27135040:Veal with butter sauce:3002:152:15.07:1.49:0.12:0.2:9.34
+27135050:Veal Marsala:3002:172:16.5:6.64:0.47:0.5:8.56
+27135110:Veal parmigiana:3002:203:15.14:8.04:1.6:0.8:12.04
+27135150:Veal cordon bleu:3002:259:20.68:9.61:0.63:0.7:14.82
+27136050:Venison or deer with tomato-based sauce:3002:140:25.64:1.59:1.06:0.4:2.84
+27136080:Venison or deer with gravy:3002:147:25.48:1.58:0.09:0:3.53
+27136100:Chili con carne with venison/deer and beans:3002:84:8.3:8.06:2.58:2.1:2.19
+27141000:Chicken or turkey cacciatore:3004:184:17.14:4.64:1.6:1:10.52
+27141030:Spaghetti sauce with poultry:8410:73:6.3:6.04:3.99:1.5:2.61
+27141035:Spaghetti sauce with poultry and added vegetables:8410:68:6.3:5.57:3.56:1.4:2.37
+27141050:Stewed chicken with tomato-based sauce. Mexican style:3004:120:11.98:2.46:0.97:0.5:7.06
+27141500:Chili con carne with chicken or turkey and beans:3004:84:8.42:7.36:2.27:2.4:2.67
+27142000:Chicken with gravy:3004:129:18.88:1.58:0.09:0:5.21
+27142100:Chicken or turkey fricassee:3004:121:10.65:3.5:0.26:0.1:7.14
+27142200:Turkey with gravy:3004:125:20.46:1.58:0.09:0:3.46
+27143000:Chicken or turkey with cream sauce:3004:158:19.82:2.74:1.31:0.1:7.61
+27144000:Chicken or turkey with mushroom sauce:3004:135:19.28:1.84:0.59:0.1:5.7
+27145000:Chicken or turkey with teriyaki:3404:163:25.73:1.62:1.47:0:5.96
+27146011:Chicken. shredded or pulled. with barbecue sauce:3004:167:19:12.23:9.97:0.3:4.64
+27146100:Sweet and sour chicken or turkey:3404:250:10.1:23.86:11.47:1:12.65
+27146110:Sweet and sour chicken or turkey. without vegetables:3404:250:10.1:23.86:11.47:1:12.65
+27146150:Chicken curry:3004:82:5.73:6.67:1.47:1.5:3.85
+27146160:Chicken with mole sauce:3004:157:19.54:3.45:1.92:0.8:7.51
+27146200:Chicken or turkey with cheese sauce:3004:173:21.77:1.64:0.06:0:8.9
+27146250:Chicken or turkey cordon bleu:3004:216:22.62:9.61:0.63:0.7:9.57
+27146300:Chicken or turkey parmigiana:3004:174:16.06:8.01:1.6:0.8:8.45
+27146350:Orange chicken:3404:262:14.46:22.46:13.6:0.8:12.68
+27146360:Sesame chicken:3404:293:14.33:26.88:15.98:0.7:14.25
+27146400:Chicken kiev:3004:253:28:4.25:0.22:0.2:13.1
+27148010:Stuffed chicken. drumstick or breast. Puerto Rican style:3004:234:28.07:6.53:0.36:0.3:10.43
+27150010:Fish with cream or white sauce. not tuna or lobster:3006:117:17.05:2.74:1.31:0.1:3.77
+27150020:Crab. deviled:3006:187:11.92:13.28:4.73:0.6:9.62
+27150030:Crab imperial:3006:137:13.94:3.22:1.26:0.2:7.32
+27150050:Fish timbale or mousse:3006:148:10.22:1.75:0.95:0:10.97
+27150060:Lobster newburg:3006:241:11.61:3.59:2.4:0.1:20.14
+27150070:Lobster with butter sauce:2404:159:16.98:0.01:0.01:0:9.78
+27150100:Shrimp curry:3006:75:5:7.14:1.49:1.7:3.15
+27150110:Shrimp cocktail:2404:121:15.37:10.76:4.09:0.6:1.48
+27150120:Tuna with cream or white sauce:3006:104:14.73:2.75:1.31:0.1:3.85
+27150130:Seafood newburg:3006:245:12.02:3.82:2.4:0.1:20.26
+27150140:Clam sauce. white:2404:196:8.57:2.57:0.02:0.1:16.95
+27150151:Spaghetti sauce with seafood:8410:63:5.32:6.59:3.99:1.5:1.58
+27150155:Spaghetti sauce with seafood and added vegetables:8410:58:5.32:6.13:3.56:1.4:1.34
+27150160:Shrimp with lobster sauce:3006:150:16.79:2.22:0.8:0:7.76
+27150170:Sweet and sour shrimp:3404:168:7.17:15.78:9.07:0.8:8.53
+27150190:Lobster sauce:8412:146:8.6:4.21:1.57:0.1:10.41
+27150200:Oyster sauce:8412:127:5.5:7.76:1.99:0.2:8.12
+27150210:Fish sauce:8412:35:5.06:3.64:3.64:0:0.01
+27150230:Shrimp scampi:2404:195:19.7:1.77:0.06:0.1:11.73
+27150250:Fish moochim:3006:340:37.85:10.72:8.51:0.8:15.74
+27150310:Fish with tomato-based sauce:3006:80:16.28:1.59:1.06:0.4:0.69
+27150320:Fish curry:3006:70:4.5:6.83:1.47:1.7:2.93
+27150330:Mussels with tomato-based sauce:3006:92:12.2:5.02:0.89:0.4:2.32
+27150350:Sardines with tomato-based sauce:3006:185:20.86:0.54:0.43:0.1:10.45
+27150370:Sardines with mustard sauce:3006:185:20.86:0.54:0.43:0.1:10.45
+27150410:Shrimp teriyaki:3404:120:21.62:3.34:1.76:0:1.56
+27150510:Scallops with cheese sauce:3006:137:17.48:5.43:0.06:0:5.06
+27151030:Ceviche:3006:62:10.34:3.58:1.36:0.5:0.75
+27151040:Crabs in tomato-based sauce. Puerto Rican style:3006:140:12.54:2.97:1.16:0.6:8.62
+27151050:Shrimp in garlic sauce. Puerto Rican style:3006:277:11.58:2.52:0.47:0.2:24.7
+27151070:Stewed codfish. no potatoes. Puerto Rican style:3006:105:12.13:4.46:2.11:1.1:4.27
+27160010:Meat with barbecue sauce. NS as to type of meat:3002:201:20.88:12.74:10.39:0.3:6.8
+27160100:Meatballs. NS as to type of meat. with sauce:3002:185:18.03:0.13:0.08:0:11.98
+27161010:Meat loaf. Puerto Rican style:3002:323:19.81:10.6:1.03:0.6:21.79
+27162010:Meat with tomato-based sauce:3002:149:21.72:1.58:1.06:0.4:6.36
+27162040:Spaghetti sauce with meat:8410:89:5.92:6.04:3.99:1.5:4.46
+27162060:Spaghetti sauce with meat and added vegetables:8410:84:5.92:5.57:3.56:1.4:4.22
+27162500:Stewed. seasoned. ground beef and pork. Mexican style:3002:139:16.7:1.48:0.46:0.3:6.98
+27163010:Meat with gravy. NS as to type of meat.:3002:156:21.56:1.58:0.09:0:7.05
+27211000:Beef and potatoes. no sauce:3002:133:7.92:14.52:0.65:1.3:4.93
+27211100:Beef stew with potatoes. tomato-based sauce:3002:103:8.74:9.55:0.93:0.9:3.29
+27211110:Beef stew with potatoes. tomato-based sauce. Mexican style:3002:110:12.48:6.47:1.1:0.9:3.59
+27211150:Beef goulash with potatoes:3002:117:11.46:7.68:1.08:0.9:4.39
+27211190:Beef and potatoes with cream sauce. white sauce or mushroom sauce:3002:101:7.72:8.67:1.32:0.7:3.81
+27211200:Beef stew with potatoes. gravy:3002:100:9.19:7.63:0.57:0.9:3.47
+27211300:Beef. roast. hash:3002:158:11.34:11.05:1.05:1.2:7.43
+27211400:Corned beef hash:3002:164:8.73:9.27:0.34:1.1:10.24
+27211500:Beef and potatoes with cheese sauce:3002:126:8.15:11.1:0.48:0.9:5.6
+27211550:Stewed. seasoned. ground beef with potatoes. Mexican style:3002:154:9.9:5.61:0.71:0.8:10.09
+27212000:Beef and noodles. no sauce:3002:189:11.37:16.23:0.26:0.8:8.43
+27212050:Beef and macaroni with cheese sauce:3002:137:9.1:12.38:1.62:0.5:5.38
+27212100:Beef and noodles with tomato-based sauce:3002:115:8.74:10.67:2.03:0.4:3.92
+27212120:Chili con carne with beans and macaroni:3002:118:5.8:16.91:1.59:3:2.92
+27212150:Beef goulash with noodles:3002:142:12.5:10.88:0.83:0.7:5.1
+27212200:Beef and noodles with gravy:3002:138:7.7:15.39:0.32:0.7:5.07
+27212300:Beef and noodles with cream or white sauce:3002:141:7.86:15.01:1.48:0.6:5.46
+27212350:Beef stroganoff with noodles:3002:128:7.69:8.87:1:0.7:6.86
+27212400:Beef and noodles with mushroom sauce:3002:136:7.53:14.97:0.82:0.8:5.13
+27212500:Beef and noodles with soy-based sauce:3404:171:13.16:7.56:0.94:0.6:9.91
+27213000:Beef and rice. no sauce:3002:145:7.27:17.23:0.03:0.2:5
+27213010:Biryani with meat:3202:144:8.4:12.07:1.67:0.9:6.77
+27213100:Beef and rice with tomato-based sauce:3002:136:6.39:15.88:1.11:0.7:5.15
+27213120:Porcupine balls with tomato-based sauce:3002:153:10.35:13.39:3:0.6:6.2
+27213150:Chili con carne with beans and rice:3002:112:5.07:16.65:1.44:2.6:2.72
+27213200:Beef and rice with gravy:3002:137:6.28:15.98:0.12:0.2:5.12
+27213300:Beef and rice with cream sauce:3002:140:6.7:15.89:1.26:0.2:5.36
+27213400:Beef and rice with mushroom sauce:3002:135:6.24:15.54:0.61:0.4:5.18
+27213420:Porcupine balls with mushroom sauce:3002:157:10.33:10.71:0.5:0.5:7.76
+27213500:Beef and rice with soy-based sauce:3404:176:13.55:7.98:0.97:0.5:10.12
+27213600:Beef and rice with cheese sauce:3002:143:8.06:14.78:0.23:0.4:5.34
+27214100:Meat loaf made with beef:3002:199:17.43:7.22:1.89:0.5:10.65
+27214110:Meat loaf made with beef. with tomato-based sauce:3002:159:13.74:6.79:2.27:0.7:8.3
+27214300:Beef wellington:3002:368:19.1:10.1:0.12:0.4:27.35
+27214500:Corned beef patty:3002:164:8.73:9.27:0.34:1.1:10.24
+27214600:Creamed dried beef on toast:3002:127:10.89:7.74:4.07:0.2:5.94
+27218110:Stuffed pot roast. with potatoes. Puerto Rican style:3002:345:24.41:7.77:0.67:1:23.47
+27218210:Beef stew with potatoes. Puerto Rican style:3002:218:14.58:6.57:0.93:1:14.69

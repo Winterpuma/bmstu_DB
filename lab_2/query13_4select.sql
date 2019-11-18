@@ -1,18 +1,19 @@
+--Выводим людей, которые едят что-либо из категории "Cheese"
 select *
-from food
-where category = 
+from people
+where id in
 (
-	select distinct category
-	from food
-	where category = 
+	select distinct person
+	from diet join food on diet.item = food.food_code
+	where item in
 	(
-		select distinct category
-		from food
-		where category = 
+		select distinct food_code
+		from food  join food_category on food.category = food_category.code
+		where code = 
 		(
-				select distinct category
-				from food
-				where category = '1002'
+				select code
+				from food_category
+				where name = 'Cheese'
 		)
 	)
 )

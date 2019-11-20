@@ -1,5 +1,5 @@
 select id, sex
-into stat
+into temp stat
 from people
 
 --select *

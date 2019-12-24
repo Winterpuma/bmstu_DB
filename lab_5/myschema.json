@@ -1,0 +1,36 @@
+{
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer"
+        },
+        "name": {
+            "type": "string"
+        },
+        "sex": {
+            "type": "string"
+        },
+	"age": {
+            "type": "integer"
+        },
+	"height": {
+            "type": "integer"
+        },
+	"weight": {
+            "type": "number"
+        },
+	"calories": {
+            "type": "integer"
+        }
+
+    },
+    "required": [
+	"id", 
+	"name", 
+	"sex", 
+	"age",
+	"height",
+	"weight",
+	"calories"
+    ]
+}

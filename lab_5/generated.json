@@ -1,0 +1,83 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "required": [
+    "id",
+    "name",
+    "sex",
+    "age",
+    "height",
+    "weight",
+    "calories"
+  ],
+  "properties": {
+    "id": {
+      "$id": "#/properties/id",
+      "type": "integer",
+      "title": "The Id Schema",
+      "default": 0,
+      "examples": [
+        1002
+      ]
+    },
+    "name": {
+      "$id": "#/properties/name",
+      "type": "string",
+      "title": "The Name Schema",
+      "default": "",
+      "examples": [
+        "Test lab5"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "sex": {
+      "$id": "#/properties/sex",
+      "type": "string",
+      "title": "The Sex Schema",
+      "default": "",
+      "examples": [
+        "f"
+      ],
+      "pattern": "^(.*)$"
+    },
+    "age": {
+      "$id": "#/properties/age",
+      "type": "integer",
+      "title": "The Age Schema",
+      "default": 0,
+      "examples": [
+        14
+      ]
+    },
+    "height": {
+      "$id": "#/properties/height",
+      "type": "integer",
+      "title": "The Height Schema",
+      "default": 0,
+      "examples": [
+        144
+      ]
+    },
+    "weight": {
+      "$id": "#/properties/weight",
+      "type": "number",
+      "title": "The Weight Schema",
+      "default": 0.0,
+      "examples": [
+        39.5
+      ]
+    },
+    "calories": {
+      "$id": "#/properties/calories",
+      "type": "integer",
+      "title": "The Calories Schema",
+      "default": 0,
+      "examples": [
+        1638
+      ]
+    }
+  }
+}
